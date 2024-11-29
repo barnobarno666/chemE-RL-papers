@@ -1,0 +1,1252 @@
+Process,Steps,External_energy,Temp_Celcius,Stirring,Synthesis_Duration_h,Scale_synthesis_ml,Precurcor_conc_mM,NEW_Capping agent,NEW_capping agent_Class,NEW_reducing agent,NEW_reducing agent_class,Capping agent concentration_mg/mL,Reducing agent quantity mL,Order of reagent_CODE,treatment,UVVIs PEAKS nm,shape,core size (nm),Method of determination_size,exposure dose concentration mg/mL,Exposure duration  (h),bacterial  Culture medium,bacterial  Species,Bacteria reduction mm
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.01125,?,MuellerHinton,Enterococcus,6
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.0225,?,MuellerHinton,Enterococcus,6
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.01125,?,MuellerHinton,Enterococcus,6
+phytosynthesis,single,Heating,80,Stirring,2,20,1.5,plant,organic,plant,organic,?,10,BA,no,420,spherical,10,TEM,0.08,24,MuellerHinton,Salmonella,0
+phytosynthesis,single,Heating,80,Stirring,2,20,1.5,plant,organic,plant,organic,?,10,BA,no,420,spherical,10,TEM,0.04,24,MuellerHinton,Salmonella,0
+phytosynthesis,single,Heating,80,Stirring,2,20,1.5,plant,organic,plant,organic,?,10,BA,no,420,spherical,10,TEM,0.02,24,MuellerHinton,Salmonella,0
+phytosynthesis,single,Heating,80,Stirring,2,20,1.5,plant,organic,plant,organic,?,10,BA,no,420,spherical,10,TEM,0.005,24,MuellerHinton,Salmonella,0
+phytosynthesis,single,Microwave,?,Shaker,24,?,1,plant,organic,plant,organic,50,?,AB,no,425,triangular,102,TEM,?,36,?,Escherichia coli,12.007
+phytosynthesis,single,Microwave,?,Shaker,24,?,1,plant,organic,plant,organic,50,?,AB,no,425,triangular,102,TEM,?,36,?,Bacillus,14.008
+phytosynthesis,single,Microwave,?,Shaker,24,?,1,plant,organic,plant,organic,50,?,AB,no,425,spherical,102,TEM,?,36,?,Bacillus,16.016
+phytosynthesis,single,Microwave,?,Shaker,24,?,1,plant,organic,plant,organic,50,?,AB,no,475,cubic,102,TEM,?,36,?,Escherichia coli,14.017
+phytosynthesis,single,Microwave,?,Shaker,24,?,1,plant,organic,plant,organic,50,?,AB,no,425,spherical,102,TEM,?,36,?,Escherichia coli,14.02
+phytosynthesis,single,Microwave,?,Shaker,24,?,1,plant,organic,plant,organic,50,?,AB,no,475,cubic,102,TEM,?,36,?,Bacillus,14.021
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.062,24,MuellerHinton,Listeria monocytogenes,9.49
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,1,24,MuellerHinton,Salmonella,12.09
+biosynthesis,single,No,25,No,48,?,1,Bacterial extract,organic,Bacterial extract,organic,250,?,BA,dried,?,?,?,?,0.5,24,LuriaBertani,Pseudomonas,15.09
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.031,24,MuellerHinton,Listeria monocytogenes,8.2
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.25,24,MuellerHinton,Salmonella,10.2
+phytosynthesis,single,No,25,Stirring,3.5,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.25,24,MuellerHinton,Staphylococcus,10.5
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.5,24,MuellerHinton,Listeria monocytogenes,10.69
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.125,24,MuellerHinton,Listeria monocytogenes,9.75
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.125,24,MuellerHinton,Salmonella,9.75
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,1,24,MuellerHinton,Staphylococcus,11.19
+phytosynthesis,single,No,25,Stirring,24,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.062,24,MuellerHinton,Staphylococcus,9.79
+phytosynthesis,single,No,25,Stirring,24,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.031,24,MuellerHinton,Staphylococcus,9.25
+biosynthesis,single,No,25,No,48,?,1,Bacterial extract,organic,Bacterial extract,organic,250,?,BA,dried,400,Square_spherical,18,TEM,0.5,24,LuriaBertani,Klebsiella,19.14
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.062,24,MuellerHinton,Escherichia coli,7.84
+biosynthesis,single,No,25,No,48,?,1,Bacterial extract,organic,Bacterial extract,organic,250,?,BA,dried,?,?,?,?,0.5,24,LuriaBertani,Acinetobacter,14.15
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.25,24,MuellerHinton,Listeria monocytogenes,10.12
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.062,24,MuellerHinton,Salmonella,9.52
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.031,24,MuellerHinton,Salmonella,8.32
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.5,24,MuellerHinton,Staphylococcus,11.02
+phytosynthesis,single,No,25,Stirring,3.5,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.125,24,MuellerHinton,Staphylococcus,10.32
+biosynthesis,single,No,25,No,48,?,1,Bacterial extract,organic,Bacterial extract,organic,250,?,BA,dried,400,Square_spherical,18,TEM,0.5,24,LuriaBertani,Acinetobacter,18.18
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.09,?,MuellerHinton,Enterococcus,10.3
+phytosynthesis,single,No,25,Stirring,3,?,1,plant,organic,plant,organic,100,?,AB,no,450,?,48,SEM,10,24,MuellerHinton,Staphylococcus,18.2
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.5,24,MuellerHinton,Escherichia coli,9.91
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,1,24,MuellerHinton,Listeria monocytogenes,12.38
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.5,24,MuellerHinton,Salmonella,10.78
+biosynthesis,single,Heating,60,Shaker,4,11,5,plant,organic,plant,organic,10,1,AB,washed,430,spherical,56,SEM,0.5,24,Agar,Acinetobacter,20.87
+biosynthesis,single,No,25,No,48,?,4,Bacterial extract,organic,Bacterial extract,organic,250,?,BA,dried,?,?,?,?,0.5,24,LuriaBertani,Klebsiella,15.23
+biosynthesis,single,No,25,No,48,?,1,Bacterial extract,organic,Bacterial extract,organic,250,?,BA,dried,400,Square_spherical,18,TEM,0.5,24,LuriaBertani,Pseudomonas,19.25
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.125,24,MuellerHinton,Escherichia coli,9.27
+biosynthesis,single,No,25,No,48,?,4,Bacterial extract,organic,Bacterial extract,organic,250,?,BA,dried,?,?,?,?,0.5,24,LuriaBertani,Pseudomonas,22.28
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.5,24,MuellerHinton,Staphylococcus,11.46
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.5,24,MuellerHinton,Bacillus,8.46
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.25,24,MuellerHinton,Pseudomonas,8.62
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.5,24,MuellerHinton,Escherichia coli,9.46
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.75,24,MuellerHinton,Escherichia coli,11.46
+micosynthesis,single,No,25,No,24,100,1,fungal extract,organic,fungal extract,organic,?,100,BA,no,440,?,?,?,?,24,Agar,Salmonella,12.29
+phytosynthesis,single,No,24,No,2.5,?,1,plant,organic,plant,organic,100,?,BA,washing_dried,430,spherical,17.4,TEM,0.5,24,MuellerHinton,Staphylococcus,8.7
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.045,?,MuellerHinton,Enterococcus,10.2
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.0225,?,MuellerHinton,Enterococcus,7.3
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.18,?,MuellerHinton,Enterococcus,11.5
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.09,?,MuellerHinton,Pseudomonas,13.4
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.0225,?,MuellerHinton,Pseudomonas,9
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.0225,?,MuellerHinton,Acinetobacter,12.5
+wet chemical,single,No,25,Stirring,24,?,1.1,chemical,organic,chemical,organic,?,?,BCA,filtered,405,spherical,14,TEM,0.11272,24,?,Pseudomonas,11.3
+wet chemical,single,No,25,Stirring,24,?,6,chemical,organic,chemical,organic,0.08,?,BCA,filtered,418,spherical,24,TEM,0.62133,24,?,Staphylococcus,40.3
+phytosynthesis,single,No,25,Stirring,12,10,1.5,plant,organic,plant,organic,100,1,AB,no,420,spherical,27.17,TEM,0.15,24,?,Escherichia coli,28.01
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.25,24,MuellerHinton,Escherichia coli,9.53
+phytosynthesis,single,No,25,Stirring,12,10,1.5,plant,organic,plant,organic,100,1,AB,no,420,spherical,27.17,TEM,0.15,24,?,Staphylococcus,13.74
+biosynthesis,single,No,25,No,48,?,1,Bacterial extract,organic,Bacterial extract,organic,250,?,BA,dried,?,?,?,?,0.5,24,LuriaBertani,Klebsiella,14.34
+biosynthesis,single,Heating,60,Shaker,4,11,5,plant,organic,plant,organic,10,1,AB,washed,430,spherical,56,SEM,0.5,24,Agar,Streptococcus,15.46
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.031,24,MuellerHinton,Escherichia coli,8.85
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,1,24,MuellerHinton,Escherichia coli,10.56
+phytosynthesis,single,No,25,Stirring,12,10,1.5,plant,organic,plant,organic,100,1,AB,no,420,spherical,27.17,TEM,0.15,24,?,Staphylococcus,17.89
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.045,?,MuellerHinton,Enterococcus,9.6
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.0225,?,MuellerHinton,Pseudomonas,13.2
+wet chemical,single,No,25,Stirring,24,?,1.1,chemical,organic,chemical,organic,?,?,BCA,filtered,406,spherical,9,TEM,0.11628,24,?,Staphylococcus,12.4
+phytosynthesis,single,No,25,Stirring,3,?,1,plant,organic,plant,organic,100,?,AB,no,450,?,48,SEM,10,24,MuellerHinton,Escherichia coli,16.4
+phytosynthesis,single,Heating,80,Stirring,2,20,1.5,plant,organic,plant,organic,?,10,BA,no,420,spherical,10,TEM,0.08,24,MuellerHinton,Escherichia coli,7.42
+phytosynthesis,single,Heating,80,Stirring,2,20,1.5,plant,organic,plant,organic,?,10,BA,no,420,spherical,10,TEM,0.04,24,MuellerHinton,Escherichia coli,7.42
+phytosynthesis,single,Heating,80,Stirring,2,20,1.5,plant,organic,plant,organic,?,10,BA,no,420,spherical,10,TEM,0.02,24,MuellerHinton,Escherichia coli,7.42
+phytosynthesis,single,Heating,80,Stirring,2,20,1.5,plant,organic,plant,organic,?,10,BA,no,420,spherical,10,TEM,0.005,24,MuellerHinton,Escherichia coli,7.42
+phytosynthesis,single,No,25,Stirring,12,10,1.5,plant,organic,plant,organic,100,1,AB,no,420,spherical,27.17,TEM,0.15,24,?,Pseudomonas,17.51
+phytosynthesis,single,No,25,Stirring,12,10,1.5,plant,organic,plant,organic,100,1,AB,no,420,spherical,27.17,TEM,0.15,24,?,Staphylococcus,22.88
+biosynthesis,single,No,25,No,48,?,2,Bacterial extract,organic,Bacterial extract,organic,250,?,BA,dried,?,?,?,?,0.5,24,LuriaBertani,Klebsiella,17.46
+phytosynthesis,single,No,24,No,2.5,?,1,plant,organic,plant,organic,100,?,BA,washing_dried,430,spherical,17.4,TEM,1,24,MuellerHinton,Staphylococcus,12.6
+phytosynthesis,single,No,24,No,2.5,?,1,plant,organic,plant,organic,100,?,BA,washing_dried,430,spherical,17.4,TEM,1,24,MuellerHinton,Escherichia coli,13.6
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.25,24,MuellerHinton,Staphylococcus,11
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.75,24,MuellerHinton,Staphylococcus,13
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.25,24,MuellerHinton,Bacillus,7.5
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.5,24,MuellerHinton,Pseudomonas,10.5
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.75,24,MuellerHinton,Pseudomonas,12.5
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.25,24,MuellerHinton,Escherichia coli,8
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.25,24,MuellerHinton,Salmonella,7
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.5,24,MuellerHinton,Salmonella,8.5
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.75,24,MuellerHinton,Salmonella,10.5
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,1,24,MuellerHinton,Salmonella,12
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.09,?,MuellerHinton,Enterococcus,11
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.01125,?,MuellerHinton,Pseudomonas,11.2
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.01125,?,MuellerHinton,Pseudomonas,6.9
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.09,?,MuellerHinton,Acinetobacter,15.6
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.045,?,MuellerHinton,Acinetobacter,14.4
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.0225,?,MuellerHinton,Acinetobacter,10.9
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.045,?,MuellerHinton,Acinetobacter,13.9
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.01125,?,MuellerHinton,Acinetobacter,11
+wet chemical,single,No,25,Stirring,24,?,1.1,chemical,organic,chemical,organic,?,?,BCA,filtered,406,spherical,9,TEM,0.11628,24,?,Pseudomonas,9.5
+wet chemical,single,No,25,Stirring,24,?,1.1,chemical,organic,chemical,organic,?,?,BCA,filtered,405,spherical,14,TEM,0.11272,24,?,Escherichia coli,10.5
+wet chemical,single,No,25,Stirring,24,?,6,chemical,organic,chemical,organic,0.08,?,BCA,filtered,418,spherical,24,TEM,0.62133,24,?,Staphylococcus,34.5
+wet chemical,single,No,25,Stirring,24,?,6,chemical,organic,chemical,organic,0.08,?,BCA,filtered,412,spherical,30,TEM,0.59544,24,?,Escherichia coli,26.5
+wet chemical,single,No,25,Stirring,24,?,6,chemical,organic,chemical,organic,0.08,?,BCA,filtered,412,spherical,30,TEM,0.59544,24,?,Staphylococcus,29.5
+phytosynthesis,single,No,25,Stirring,12,10,1.5,plant,organic,plant,organic,100,1,AB,no,420,spherical,27.17,TEM,0.15,24,?,Escherichia coli,9.65
+phytosynthesis,single,No,25,Stirring,12,10,1.5,plant,organic,plant,organic,100,1,AB,no,420,spherical,27.17,TEM,0.15,24,?,Escherichia coli,22.67
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,1,24,MuellerHinton,Staphylococcus,15.75
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.75,24,MuellerHinton,Bacillus,11.25
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,1,24,MuellerHinton,Escherichia coli,13.25
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.045,?,MuellerHinton,Pseudomonas,12.3
+wet chemical,single,No,25,Stirring,24,?,1.1,chemical,organic,chemical,organic,?,?,BCA,filtered,406,spherical,9,TEM,0.11628,24,?,Staphylococcus,11.6
+wet chemical,single,No,25,Stirring,24,?,1.1,chemical,organic,chemical,organic,?,?,BCA,filtered,405,spherical,14,TEM,0.11272,24,?,Staphylococcus,11.6
+wet chemical,single,No,25,Stirring,24,?,6,chemical,organic,chemical,organic,0.08,?,BCA,filtered,412,spherical,30,TEM,0.59544,24,?,Pseudomonas,19.6
+biosynthesis,single,No,25,No,48,?,2,Bacterial extract,organic,Bacterial extract,organic,250,?,BA,dried,?,?,?,?,0.5,24,LuriaBertani,Acinetobacter,16.63
+phytosynthesis,single,No,25,Stirring,12,10,1.5,plant,organic,plant,organic,100,1,AB,no,420,spherical,27.17,TEM,0.15,24,?,Pseudomonas,21.8
+phytosynthesis,single,No,25,Stirring,12,10,1.5,plant,organic,plant,organic,100,1,AB,no,420,spherical,27.17,TEM,0.15,24,?,Pseudomonas,29.77
+micosynthesis,single,No,25,No,24,100,1,fungal extract,organic,fungal extract,organic,?,100,BA,no,440,?,?,?,?,24,Agar,Staphylococcus,16.69
+phytosynthesis,single,No,24,No,2.5,?,1,plant,organic,plant,organic,100,?,BA,washing_dried,430,spherical,17.4,TEM,0.5,24,MuellerHinton,Escherichia coli,6.8
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.18,?,MuellerHinton,Pseudomonas,19.1
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.045,?,MuellerHinton,Pseudomonas,15.9
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.01125,?,MuellerHinton,Acinetobacter,9.3
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.18,?,MuellerHinton,Acinetobacter,17.6
+wet chemical,single,No,25,Stirring,24,?,6,chemical,organic,chemical,organic,0.08,?,BCA,filtered,418,spherical,24,TEM,0.62133,24,?,Escherichia coli,32.7
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,1,24,MuellerHinton,Bacillus,13.43
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,1,24,MuellerHinton,Pseudomonas,14.09
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.36,?,MuellerHinton,Enterococcus,13.1
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.09,?,MuellerHinton,Pseudomonas,18.3
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.18,?,MuellerHinton,Pseudomonas,15.9
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.09,?,MuellerHinton,Acinetobacter,16.5
+biosynthesis,single,No,25,No,48,?,4,Bacterial extract,organic,Bacterial extract,organic,250,?,BA,dried,?,?,?,?,0.5,24,LuriaBertani,Acinetobacter,18.85
+phytosynthesis,single,Heating,100,Stirring,2,20,1.5,plant,organic,plant,organic,?,10,BA,no,420,spherical,10,TEM,0.08,24,MuellerHinton,Bacillus,12.85
+phytosynthesis,single,Heating,100,Stirring,2,20,1.5,plant,organic,plant,organic,?,10,BA,no,420,spherical,10,TEM,0.04,24,MuellerHinton,Bacillus,12.85
+phytosynthesis,single,Heating,100,Stirring,2,20,1.5,plant,organic,plant,organic,?,10,BA,no,420,spherical,10,TEM,0.02,24,MuellerHinton,Bacillus,12.85
+phytosynthesis,single,Heating,100,Stirring,2,20,1.5,plant,organic,plant,organic,?,10,BA,no,420,spherical,10,TEM,0.005,24,MuellerHinton,Bacillus,12.85
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.36,?,MuellerHinton,Enterococcus,12.9
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.18,?,MuellerHinton,Enterococcus,12.2
+biosynthesis,single,No,25,No,48,?,2,Bacterial extract,organic,Bacterial extract,organic,250,?,BA,dried,?,?,?,?,0.5,24,LuriaBertani,Pseudomonas,20.92
+biosynthesis,single,Heating,60,Shaker,4,11,5,plant,organic,plant,organic,10,1,AB,washed,430,spherical,56,SEM,0.5,24,Agar,Providencia stuartii,14.2
+wet chemical,single,No,25,Stirring,24,?,1.1,chemical,organic,chemical,organic,?,?,BCA,filtered,406,spherical,9,TEM,0.11628,24,?,Escherichia coli,10
+wet chemical,single,No,25,Stirring,24,?,1.1,chemical,organic,chemical,organic,?,?,BCA,filtered,405,spherical,14,TEM,0.11272,24,?,Staphylococcus,12
+wet chemical,single,No,25,Stirring,24,?,6,chemical,organic,chemical,organic,0.08,?,BCA,filtered,418,spherical,24,TEM,0.62133,24,?,Pseudomonas,30
+wet chemical,single,No,25,Stirring,24,?,6,chemical,organic,chemical,organic,0.08,?,BCA,filtered,412,spherical,30,TEM,0.59544,24,?,Staphylococcus,32
+phytosynthesis,single,No,25,Stirring,3,?,1,plant,organic,plant,organic,100,?,AB,no,450,?,48,SEM,10,24,MuellerHinton,Salmonella,20.1
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.36,?,MuellerHinton,Acinetobacter,18.9
+phytosynthesis,single,Heating,80,Stirring,2,20,1.5,plant,organic,plant,organic,?,10,BA,no,420,spherical,10,TEM,0.08,24,MuellerHinton,Staphylococcus,18.2
+phytosynthesis,single,Heating,80,Stirring,2,20,1.5,plant,organic,plant,organic,?,10,BA,no,420,spherical,10,TEM,0.04,24,MuellerHinton,Staphylococcus,18.2
+phytosynthesis,single,Heating,80,Stirring,2,20,1.5,plant,organic,plant,organic,?,10,BA,no,420,spherical,10,TEM,0.02,24,MuellerHinton,Staphylococcus,18.2
+phytosynthesis,single,Heating,80,Stirring,2,20,1.5,plant,organic,plant,organic,?,10,BA,no,420,spherical,10,TEM,0.005,24,MuellerHinton,Staphylococcus,18.2
+phytosynthesis,single,No,25,Stirring,3,?,1,plant,organic,plant,organic,100,?,AB,no,450,?,48,SEM,10,24,MuellerHinton,Streptococcus,19.2
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.36,?,MuellerHinton,Pseudomonas,21.1
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.18,?,MuellerHinton,Acinetobacter,17.5
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.36,?,MuellerHinton,Pseudomonas,17.8
+biosynthesis,single,Autoclave,121,No,0.25,100,1,Bacterial extract,organic,Bacterial extract,organic,?,10,BA,no,410,spherical,?,?,0.015,24,Agar,Staphylococcus,19
+biosynthesis,single,Autoclave,121,No,0.25,100,1,Bacterial extract,organic,Bacterial extract,organic,?,10,BA,no,410,spherical,?,?,0.03,24,Agar,Staphylococcus,20.75
+biosynthesis,single,Autoclave,121,No,0.25,100,1,Bacterial extract,organic,Bacterial extract,organic,?,10,BA,no,410,spherical,?,?,0.03,24,Agar,Escherichia coli,28.25
+micosynthesis,single,No,25,No,24,100,1,fungal extract,organic,fungal extract,organic,?,100,BA,no,440,?,?,?,?,24,Agar,Escherichia coli,14.54
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.36,?,MuellerHinton,Acinetobacter,18.5
+biosynthesis,single,Autoclave,121,No,0.25,100,1,Bacterial extract,organic,Bacterial extract,organic,?,10,BA,no,410,spherical,?,?,0.045,24,Agar,Staphylococcus,26.34
+biosynthesis,single,Autoclave,121,No,0.25,100,1,Bacterial extract,organic,Bacterial extract,organic,?,10,BA,no,410,spherical,?,?,0.015,24,Agar,Escherichia coli,18.34
+biosynthesis,single,Autoclave,121,No,0.25,100,1,Bacterial extract,organic,Bacterial extract,organic,?,10,BA,no,410,spherical,?,?,0.03,24,Agar,Klebsiella,19.29
+biosynthesis,single,Autoclave,121,No,0.25,100,1,Bacterial extract,organic,Bacterial extract,organic,?,10,BA,no,410,spherical,?,?,0.015,24,Agar,Klebsiella,17.85
+biosynthesis,single,Autoclave,121,No,0.25,100,1,Bacterial extract,organic,Bacterial extract,organic,?,10,BA,no,410,spherical,?,?,0.045,24,Agar,Klebsiella,31.1
+phytosynthesis,single,Heating,30,Yes,0.16,41,1,plant,organic,plant,organic,10,1,AB,no,428.5,spherical,18,TEM,0.106,24,MuellerHinton,Escherichia coli,15
+phytosynthesis,single,Heating,30,Yes,0.16,41,1,plant,organic,plant,organic,10,1,AB,no,428.5,spherical,18,TEM,0.106,24,MuellerHinton,Klebsiella,15
+biosynthesis,single,Autoclave,121,No,0.25,100,1,Bacterial extract,organic,Bacterial extract,organic,?,10,BA,no,410,spherical,?,?,0.045,24,Agar,Escherichia coli,30.25
+biosynthesis,single,Autoclave,121,No,0.25,100,1,Bacterial extract,organic,Bacterial extract,organic,?,10,BA,no,410,spherical,?,?,0.03,24,Agar,Pseudomonas,12.25
+biosynthesis,single,Autoclave,121,No,0.25,100,1,Bacterial extract,organic,Bacterial extract,organic,?,10,BA,no,410,spherical,?,?,0.015,24,Agar,Pseudomonas,11.65
+biosynthesis,single,Autoclave,121,No,0.25,100,1,Bacterial extract,organic,Bacterial extract,organic,?,10,BA,no,410,spherical,?,?,0.045,24,Agar,Pseudomonas,13.65
+phytosynthesis,single,Microwave,?,Shaker,24,?,1,plant,organic,plant,organic,50,?,AB,no,425,triangular,102,TEM,?,36,?,Escherichia coli,11.993
+phytosynthesis,single,Microwave,?,Shaker,24,?,1,plant,organic,plant,organic,50,?,AB,no,425,triangular,102,TEM,?,36,?,Bacillus,13.992
+phytosynthesis,single,Microwave,?,Shaker,24,?,1,plant,organic,plant,organic,50,?,AB,no,425,spherical,102,TEM,?,36,?,Bacillus,15.984
+phytosynthesis,single,Microwave,?,Shaker,24,?,1,plant,organic,plant,organic,50,?,AB,no,475,cubic,102,TEM,?,36,?,Escherichia coli,13.983
+phytosynthesis,single,Microwave,?,Shaker,24,?,1,plant,organic,plant,organic,50,?,AB,no,425,spherical,102,TEM,?,36,?,Escherichia coli,13.98
+phytosynthesis,single,Microwave,?,Shaker,24,?,1,plant,organic,plant,organic,50,?,AB,no,475,cubic,102,TEM,?,36,?,Bacillus,13.979
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.062,24,MuellerHinton,Listeria monocytogenes,9.37
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,1,24,MuellerHinton,Salmonella,11.97
+biosynthesis,single,No,25,No,48,?,1,Bacterial extract,organic,Bacterial extract,organic,250,?,BA,dried,?,?,?,?,0.5,24,LuriaBertani,Pseudomonas,14.91
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.031,24,MuellerHinton,Listeria monocytogenes,8
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.25,24,MuellerHinton,Salmonella,10
+phytosynthesis,single,No,25,Stirring,3.5,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.25,24,MuellerHinton,Staphylococcus,10.3
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.5,24,MuellerHinton,Listeria monocytogenes,10.45
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.125,24,MuellerHinton,Listeria monocytogenes,9.51
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.125,24,MuellerHinton,Salmonella,9.51
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,1,24,MuellerHinton,Staphylococcus,10.95
+phytosynthesis,single,No,25,Stirring,24,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.062,24,MuellerHinton,Staphylococcus,9.55
+phytosynthesis,single,No,25,Stirring,24,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.031,24,MuellerHinton,Staphylococcus,9.01
+biosynthesis,single,No,25,No,48,?,1,Bacterial extract,organic,Bacterial extract,organic,250,?,BA,dried,400,Square_spherical,18,TEM,0.5,24,LuriaBertani,Klebsiella,18.86
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.062,24,MuellerHinton,Escherichia coli,7.56
+biosynthesis,single,No,25,No,48,?,1,Bacterial extract,organic,Bacterial extract,organic,250,?,BA,dried,?,?,?,?,0.5,24,LuriaBertani,Acinetobacter,13.85
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.25,24,MuellerHinton,Listeria monocytogenes,9.82
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.062,24,MuellerHinton,Salmonella,9.22
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.031,24,MuellerHinton,Salmonella,8.02
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.5,24,MuellerHinton,Staphylococcus,10.72
+phytosynthesis,single,No,25,Stirring,3.5,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.125,24,MuellerHinton,Staphylococcus,10.02
+biosynthesis,single,No,25,No,48,?,1,Bacterial extract,organic,Bacterial extract,organic,250,?,BA,dried,400,Square_spherical,18,TEM,0.5,24,LuriaBertani,Acinetobacter,17.82
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.09,?,MuellerHinton,Enterococcus,9.9
+phytosynthesis,single,No,25,Stirring,3,?,1,plant,organic,plant,organic,100,?,AB,no,450,?,48,SEM,10,24,MuellerHinton,Staphylococcus,17.8
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.5,24,MuellerHinton,Escherichia coli,9.49
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,1,24,MuellerHinton,Listeria monocytogenes,11.96
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.5,24,MuellerHinton,Salmonella,10.36
+biosynthesis,single,Heating,60,Shaker,4,11,5,plant,organic,plant,organic,10,1,AB,washed,430,spherical,56,SEM,0.5,24,Agar,Acinetobacter,20.43
+biosynthesis,single,No,25,No,48,?,4,Bacterial extract,organic,Bacterial extract,organic,250,?,BA,dried,?,?,?,?,0.5,24,LuriaBertani,Klebsiella,14.77
+biosynthesis,single,No,25,No,48,?,1,Bacterial extract,organic,Bacterial extract,organic,250,?,BA,dried,400,Square_spherical,18,TEM,0.5,24,LuriaBertani,Pseudomonas,18.75
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.125,24,MuellerHinton,Escherichia coli,8.73
+biosynthesis,single,No,25,No,48,?,4,Bacterial extract,organic,Bacterial extract,organic,250,?,BA,dried,?,?,?,?,0.5,24,LuriaBertani,Pseudomonas,21.72
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.5,24,MuellerHinton,Staphylococcus,10.88
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.5,24,MuellerHinton,Bacillus,7.88
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.25,24,MuellerHinton,Pseudomonas,8.04
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.5,24,MuellerHinton,Escherichia coli,8.88
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.75,24,MuellerHinton,Escherichia coli,10.88
+micosynthesis,single,No,25,No,24,100,1,fungal extract,organic,fungal extract,organic,?,100,BA,no,440,?,?,?,?,24,Agar,Salmonella,11.71
+phytosynthesis,single,No,24,No,2.5,?,1,plant,organic,plant,organic,100,?,BA,washing_dried,430,spherical,17.4,TEM,0.5,24,MuellerHinton,Staphylococcus,8.1
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.045,?,MuellerHinton,Enterococcus,9.6
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.0225,?,MuellerHinton,Enterococcus,6.7
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.18,?,MuellerHinton,Enterococcus,10.9
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.09,?,MuellerHinton,Pseudomonas,12.8
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.0225,?,MuellerHinton,Pseudomonas,8.4
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.0225,?,MuellerHinton,Acinetobacter,11.9
+wet chemical,single,No,25,Stirring,24,?,1.1,chemical,organic,chemical,organic,?,?,BCA,filtered,405,spherical,14,TEM,0.11272,24,?,Pseudomonas,10.7
+wet chemical,single,No,25,Stirring,24,?,6,chemical,organic,chemical,organic,0.08,?,BCA,filtered,418,spherical,24,TEM,0.62133,24,?,Staphylococcus,39.7
+phytosynthesis,single,No,25,Stirring,12,10,1.5,plant,organic,plant,organic,100,1,AB,no,420,spherical,27.17,TEM,0.15,24,?,Escherichia coli,27.39
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.25,24,MuellerHinton,Escherichia coli,8.87
+phytosynthesis,single,No,25,Stirring,12,10,1.5,plant,organic,plant,organic,100,1,AB,no,420,spherical,27.17,TEM,0.15,24,?,Staphylococcus,13.08
+biosynthesis,single,No,25,No,48,?,1,Bacterial extract,organic,Bacterial extract,organic,250,?,BA,dried,?,?,?,?,0.5,24,LuriaBertani,Klebsiella,13.66
+biosynthesis,single,Heating,60,Shaker,4,11,5,plant,organic,plant,organic,10,1,AB,washed,430,spherical,56,SEM,0.5,24,Agar,Streptococcus,14.78
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.031,24,MuellerHinton,Escherichia coli,8.15
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,1,24,MuellerHinton,Escherichia coli,9.84
+phytosynthesis,single,No,25,Stirring,12,10,1.5,plant,organic,plant,organic,100,1,AB,no,420,spherical,27.17,TEM,0.15,24,?,Staphylococcus,17.15
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.045,?,MuellerHinton,Enterococcus,8.8
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.0225,?,MuellerHinton,Pseudomonas,12.4
+wet chemical,single,No,25,Stirring,24,?,1.1,chemical,organic,chemical,organic,?,?,BCA,filtered,406,spherical,9,TEM,0.11628,24,?,Staphylococcus,11.6
+phytosynthesis,single,No,25,Stirring,3,?,1,plant,organic,plant,organic,100,?,AB,no,450,?,48,SEM,10,24,MuellerHinton,Escherichia coli,15.6
+phytosynthesis,single,Heating,80,Stirring,2,20,1.5,plant,organic,plant,organic,?,10,BA,no,420,spherical,10,TEM,0.08,24,MuellerHinton,Escherichia coli,6.58
+phytosynthesis,single,Heating,80,Stirring,2,20,1.5,plant,organic,plant,organic,?,10,BA,no,420,spherical,10,TEM,0.04,24,MuellerHinton,Escherichia coli,6.58
+phytosynthesis,single,Heating,80,Stirring,2,20,1.5,plant,organic,plant,organic,?,10,BA,no,420,spherical,10,TEM,0.02,24,MuellerHinton,Escherichia coli,6.58
+phytosynthesis,single,Heating,80,Stirring,2,20,1.5,plant,organic,plant,organic,?,10,BA,no,420,spherical,10,TEM,0.005,24,MuellerHinton,Escherichia coli,6.58
+phytosynthesis,single,No,25,Stirring,12,10,1.5,plant,organic,plant,organic,100,1,AB,no,420,spherical,27.17,TEM,0.15,24,?,Pseudomonas,16.67
+phytosynthesis,single,No,25,Stirring,12,10,1.5,plant,organic,plant,organic,100,1,AB,no,420,spherical,27.17,TEM,0.15,24,?,Staphylococcus,21.98
+biosynthesis,single,No,25,No,48,?,2,Bacterial extract,organic,Bacterial extract,organic,250,?,BA,dried,?,?,?,?,0.5,24,LuriaBertani,Klebsiella,16.54
+phytosynthesis,single,No,24,No,2.5,?,1,plant,organic,plant,organic,100,?,BA,washing_dried,430,spherical,17.4,TEM,1,24,MuellerHinton,Staphylococcus,11.6
+phytosynthesis,single,No,24,No,2.5,?,1,plant,organic,plant,organic,100,?,BA,washing_dried,430,spherical,17.4,TEM,1,24,MuellerHinton,Escherichia coli,12.6
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.25,24,MuellerHinton,Staphylococcus,10
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.75,24,MuellerHinton,Staphylococcus,12
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.25,24,MuellerHinton,Bacillus,6.5
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.5,24,MuellerHinton,Pseudomonas,9.5
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.75,24,MuellerHinton,Pseudomonas,11.5
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.25,24,MuellerHinton,Escherichia coli,7
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.25,24,MuellerHinton,Salmonella,6
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.5,24,MuellerHinton,Salmonella,7.5
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.75,24,MuellerHinton,Salmonella,9.5
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,1,24,MuellerHinton,Salmonella,11
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.09,?,MuellerHinton,Enterococcus,10
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.01125,?,MuellerHinton,Pseudomonas,10.2
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.01125,?,MuellerHinton,Pseudomonas,5.9
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.09,?,MuellerHinton,Acinetobacter,14.6
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.045,?,MuellerHinton,Acinetobacter,13.4
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.0225,?,MuellerHinton,Acinetobacter,9.9
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.045,?,MuellerHinton,Acinetobacter,12.9
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.01125,?,MuellerHinton,Acinetobacter,10
+wet chemical,single,No,25,Stirring,24,?,1.1,chemical,organic,chemical,organic,?,?,BCA,filtered,406,spherical,9,TEM,0.11628,24,?,Pseudomonas,8.5
+wet chemical,single,No,25,Stirring,24,?,1.1,chemical,organic,chemical,organic,?,?,BCA,filtered,405,spherical,14,TEM,0.11272,24,?,Escherichia coli,9.5
+wet chemical,single,No,25,Stirring,24,?,6,chemical,organic,chemical,organic,0.08,?,BCA,filtered,418,spherical,24,TEM,0.62133,24,?,Staphylococcus,33.5
+wet chemical,single,No,25,Stirring,24,?,6,chemical,organic,chemical,organic,0.08,?,BCA,filtered,412,spherical,30,TEM,0.59544,24,?,Escherichia coli,25.5
+wet chemical,single,No,25,Stirring,24,?,6,chemical,organic,chemical,organic,0.08,?,BCA,filtered,412,spherical,30,TEM,0.59544,24,?,Staphylococcus,28.5
+phytosynthesis,single,No,25,Stirring,12,10,1.5,plant,organic,plant,organic,100,1,AB,no,420,spherical,27.17,TEM,0.15,24,?,Escherichia coli,8.61
+phytosynthesis,single,No,25,Stirring,12,10,1.5,plant,organic,plant,organic,100,1,AB,no,420,spherical,27.17,TEM,0.15,24,?,Escherichia coli,21.59
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,1,24,MuellerHinton,Staphylococcus,14.59
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.75,24,MuellerHinton,Bacillus,10.09
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,1,24,MuellerHinton,Escherichia coli,12.09
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.045,?,MuellerHinton,Pseudomonas,11.1
+wet chemical,single,No,25,Stirring,24,?,1.1,chemical,organic,chemical,organic,?,?,BCA,filtered,406,spherical,9,TEM,0.11628,24,?,Staphylococcus,10.4
+wet chemical,single,No,25,Stirring,24,?,1.1,chemical,organic,chemical,organic,?,?,BCA,filtered,405,spherical,14,TEM,0.11272,24,?,Staphylococcus,10.4
+wet chemical,single,No,25,Stirring,24,?,6,chemical,organic,chemical,organic,0.08,?,BCA,filtered,412,spherical,30,TEM,0.59544,24,?,Pseudomonas,18.4
+biosynthesis,single,No,25,No,48,?,2,Bacterial extract,organic,Bacterial extract,organic,250,?,BA,dried,?,?,?,?,0.5,24,LuriaBertani,Acinetobacter,15.37
+phytosynthesis,single,No,25,Stirring,12,10,1.5,plant,organic,plant,organic,100,1,AB,no,420,spherical,27.17,TEM,0.15,24,?,Pseudomonas,20.54
+phytosynthesis,single,No,25,Stirring,12,10,1.5,plant,organic,plant,organic,100,1,AB,no,420,spherical,27.17,TEM,0.15,24,?,Pseudomonas,28.51
+micosynthesis,single,No,25,No,24,100,1,fungal extract,organic,fungal extract,organic,?,100,BA,no,440,?,?,?,?,24,Agar,Staphylococcus,15.31
+phytosynthesis,single,No,24,No,2.5,?,1,plant,organic,plant,organic,100,?,BA,washing_dried,430,spherical,17.4,TEM,0.5,24,MuellerHinton,Escherichia coli,5.4
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.18,?,MuellerHinton,Pseudomonas,17.7
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.045,?,MuellerHinton,Pseudomonas,14.5
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.01125,?,MuellerHinton,Acinetobacter,7.9
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.18,?,MuellerHinton,Acinetobacter,16.2
+wet chemical,single,No,25,Stirring,24,?,6,chemical,organic,chemical,organic,0.08,?,BCA,filtered,418,spherical,24,TEM,0.62133,24,?,Escherichia coli,31.3
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,1,24,MuellerHinton,Bacillus,11.91
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,1,24,MuellerHinton,Pseudomonas,12.57
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.36,?,MuellerHinton,Enterococcus,11.5
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.09,?,MuellerHinton,Pseudomonas,16.7
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.18,?,MuellerHinton,Pseudomonas,14.3
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.09,?,MuellerHinton,Acinetobacter,14.9
+biosynthesis,single,No,25,No,48,?,4,Bacterial extract,organic,Bacterial extract,organic,250,?,BA,dried,?,?,?,?,0.5,24,LuriaBertani,Acinetobacter,17.15
+phytosynthesis,single,Heating,100,Stirring,2,20,1.5,plant,organic,plant,organic,?,10,BA,no,420,spherical,10,TEM,0.08,24,MuellerHinton,Bacillus,11.15
+phytosynthesis,single,Heating,100,Stirring,2,20,1.5,plant,organic,plant,organic,?,10,BA,no,420,spherical,10,TEM,0.04,24,MuellerHinton,Bacillus,11.15
+phytosynthesis,single,Heating,100,Stirring,2,20,1.5,plant,organic,plant,organic,?,10,BA,no,420,spherical,10,TEM,0.02,24,MuellerHinton,Bacillus,11.15
+phytosynthesis,single,Heating,100,Stirring,2,20,1.5,plant,organic,plant,organic,?,10,BA,no,420,spherical,10,TEM,0.005,24,MuellerHinton,Bacillus,11.15
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.36,?,MuellerHinton,Enterococcus,11.1
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.18,?,MuellerHinton,Enterococcus,10.4
+biosynthesis,single,No,25,No,48,?,2,Bacterial extract,organic,Bacterial extract,organic,250,?,BA,dried,?,?,?,?,0.5,24,LuriaBertani,Pseudomonas,19.08
+biosynthesis,single,Heating,60,Shaker,4,11,5,plant,organic,plant,organic,10,1,AB,washed,430,spherical,56,SEM,0.5,24,Agar,Providencia stuartii,12.24
+wet chemical,single,No,25,Stirring,24,?,1.1,chemical,organic,chemical,organic,?,?,BCA,filtered,406,spherical,9,TEM,0.11628,24,?,Escherichia coli,8
+wet chemical,single,No,25,Stirring,24,?,1.1,chemical,organic,chemical,organic,?,?,BCA,filtered,405,spherical,14,TEM,0.11272,24,?,Staphylococcus,10
+wet chemical,single,No,25,Stirring,24,?,6,chemical,organic,chemical,organic,0.08,?,BCA,filtered,418,spherical,24,TEM,0.62133,24,?,Pseudomonas,28
+wet chemical,single,No,25,Stirring,24,?,6,chemical,organic,chemical,organic,0.08,?,BCA,filtered,412,spherical,30,TEM,0.59544,24,?,Staphylococcus,30
+phytosynthesis,single,No,25,Stirring,3,?,1,plant,organic,plant,organic,100,?,AB,no,450,?,48,SEM,10,24,MuellerHinton,Salmonella,17.9
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.36,?,MuellerHinton,Acinetobacter,16.5
+phytosynthesis,single,Heating,80,Stirring,2,20,1.5,plant,organic,plant,organic,?,10,BA,no,420,spherical,10,TEM,0.08,24,MuellerHinton,Staphylococcus,15.8
+phytosynthesis,single,Heating,80,Stirring,2,20,1.5,plant,organic,plant,organic,?,10,BA,no,420,spherical,10,TEM,0.04,24,MuellerHinton,Staphylococcus,15.8
+phytosynthesis,single,Heating,80,Stirring,2,20,1.5,plant,organic,plant,organic,?,10,BA,no,420,spherical,10,TEM,0.02,24,MuellerHinton,Staphylococcus,15.8
+phytosynthesis,single,Heating,80,Stirring,2,20,1.5,plant,organic,plant,organic,?,10,BA,no,420,spherical,10,TEM,0.005,24,MuellerHinton,Staphylococcus,15.8
+phytosynthesis,single,No,25,Stirring,3,?,1,plant,organic,plant,organic,100,?,AB,no,450,?,48,SEM,10,24,MuellerHinton,Streptococcus,16.8
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.36,?,MuellerHinton,Pseudomonas,18.5
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.18,?,MuellerHinton,Acinetobacter,14.9
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.36,?,MuellerHinton,Pseudomonas,14.8
+biosynthesis,single,Autoclave,121,No,0.25,100,1,Bacterial extract,organic,Bacterial extract,organic,?,10,BA,no,410,spherical,?,?,0.015,24,Agar,Staphylococcus,16
+biosynthesis,single,Autoclave,121,No,0.25,100,1,Bacterial extract,organic,Bacterial extract,organic,?,10,BA,no,410,spherical,?,?,0.03,24,Agar,Staphylococcus,17.75
+biosynthesis,single,Autoclave,121,No,0.25,100,1,Bacterial extract,organic,Bacterial extract,organic,?,10,BA,no,410,spherical,?,?,0.03,24,Agar,Escherichia coli,25.25
+micosynthesis,single,No,25,No,24,100,1,fungal extract,organic,fungal extract,organic,?,100,BA,no,440,?,?,?,?,24,Agar,Escherichia coli,11.46
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.36,?,MuellerHinton,Acinetobacter,15.1
+biosynthesis,single,Autoclave,121,No,0.25,100,1,Bacterial extract,organic,Bacterial extract,organic,?,10,BA,no,410,spherical,?,?,0.045,24,Agar,Staphylococcus,22.16
+biosynthesis,single,Autoclave,121,No,0.25,100,1,Bacterial extract,organic,Bacterial extract,organic,?,10,BA,no,410,spherical,?,?,0.015,24,Agar,Escherichia coli,14.16
+biosynthesis,single,Autoclave,121,No,0.25,100,1,Bacterial extract,organic,Bacterial extract,organic,?,10,BA,no,410,spherical,?,?,0.03,24,Agar,Klebsiella,15.11
+biosynthesis,single,Autoclave,121,No,0.25,100,1,Bacterial extract,organic,Bacterial extract,organic,?,10,BA,no,410,spherical,?,?,0.015,24,Agar,Klebsiella,12.65
+biosynthesis,single,Autoclave,121,No,0.25,100,1,Bacterial extract,organic,Bacterial extract,organic,?,10,BA,no,410,spherical,?,?,0.045,24,Agar,Klebsiella,25.9
+phytosynthesis,single,Heating,30,Yes,0.16,41,1,plant,organic,plant,organic,10,1,AB,no,428.5,spherical,18,TEM,0.106,24,MuellerHinton,Escherichia coli,9
+phytosynthesis,single,Heating,30,Yes,0.16,41,1,plant,organic,plant,organic,10,1,AB,no,428.5,spherical,18,TEM,0.106,24,MuellerHinton,Klebsiella,9
+biosynthesis,single,Autoclave,121,No,0.25,100,1,Bacterial extract,organic,Bacterial extract,organic,?,10,BA,no,410,spherical,?,?,0.045,24,Agar,Escherichia coli,23.85
+biosynthesis,single,Autoclave,121,No,0.25,100,1,Bacterial extract,organic,Bacterial extract,organic,?,10,BA,no,410,spherical,?,?,0.03,24,Agar,Pseudomonas,5.85
+biosynthesis,single,Autoclave,121,No,0.25,100,1,Bacterial extract,organic,Bacterial extract,organic,?,10,BA,no,410,spherical,?,?,0.015,24,Agar,Pseudomonas,4.45
+biosynthesis,single,Autoclave,121,No,0.25,100,1,Bacterial extract,organic,Bacterial extract,organic,?,10,BA,no,410,spherical,?,?,0.045,24,Agar,Pseudomonas,6.45
+phytosynthesis,single,Microwave,?,Shaker,24,?,1,plant,organic,plant,organic,50,?,AB,no,425,triangular,102,TEM,?,36,?,Escherichia coli,12
+phytosynthesis,single,Microwave,?,Shaker,24,?,1,plant,organic,plant,organic,50,?,AB,no,425,triangular,102,TEM,?,36,?,Bacillus,14
+phytosynthesis,single,Microwave,?,Shaker,24,?,1,plant,organic,plant,organic,50,?,AB,no,425,spherical,102,TEM,?,36,?,Bacillus,16
+phytosynthesis,single,Microwave,?,Shaker,24,?,1,plant,organic,plant,organic,50,?,AB,no,475,cubic,102,TEM,?,36,?,Escherichia coli,14
+phytosynthesis,single,Microwave,?,Shaker,24,?,1,plant,organic,plant,organic,50,?,AB,no,425,spherical,102,TEM,?,36,?,Escherichia coli,14
+phytosynthesis,single,Microwave,?,Shaker,24,?,1,plant,organic,plant,organic,50,?,AB,no,475,cubic,102,TEM,?,36,?,Bacillus,14
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.062,24,MuellerHinton,Listeria monocytogenes,9.43
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,1,24,MuellerHinton,Salmonella,12.03
+biosynthesis,single,No,25,No,48,?,1,Bacterial extract,organic,Bacterial extract,organic,250,?,BA,dried,?,?,?,?,0.5,24,LuriaBertani,Pseudomonas,15
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.031,24,MuellerHinton,Listeria monocytogenes,8.1
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.25,24,MuellerHinton,Salmonella,10.1
+phytosynthesis,single,No,25,Stirring,3.5,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.25,24,MuellerHinton,Staphylococcus,10.4
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.5,24,MuellerHinton,Listeria monocytogenes,10.57
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.125,24,MuellerHinton,Listeria monocytogenes,9.63
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.125,24,MuellerHinton,Salmonella,9.63
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,1,24,MuellerHinton,Staphylococcus,11.07
+phytosynthesis,single,No,25,Stirring,24,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.062,24,MuellerHinton,Staphylococcus,9.67
+phytosynthesis,single,No,25,Stirring,24,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.031,24,MuellerHinton,Staphylococcus,9.13
+biosynthesis,single,No,25,No,48,?,1,Bacterial extract,organic,Bacterial extract,organic,250,?,BA,dried,400,Square_spherical,18,TEM,0.5,24,LuriaBertani,Klebsiella,19
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.062,24,MuellerHinton,Escherichia coli,7.7
+biosynthesis,single,No,25,No,48,?,1,Bacterial extract,organic,Bacterial extract,organic,250,?,BA,dried,?,?,?,?,0.5,24,LuriaBertani,Acinetobacter,14
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.25,24,MuellerHinton,Listeria monocytogenes,9.97
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.062,24,MuellerHinton,Salmonella,9.37
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.031,24,MuellerHinton,Salmonella,8.17
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.5,24,MuellerHinton,Staphylococcus,10.87
+phytosynthesis,single,No,25,Stirring,3.5,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.125,24,MuellerHinton,Staphylococcus,10.17
+biosynthesis,single,No,25,No,48,?,1,Bacterial extract,organic,Bacterial extract,organic,250,?,BA,dried,400,Square_spherical,18,TEM,0.5,24,LuriaBertani,Acinetobacter,18
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.09,?,MuellerHinton,Enterococcus,10.1
+phytosynthesis,single,No,25,Stirring,3,?,1,plant,organic,plant,organic,100,?,AB,no,450,?,48,SEM,10,24,MuellerHinton,Staphylococcus,18
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.5,24,MuellerHinton,Escherichia coli,9.7
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,1,24,MuellerHinton,Listeria monocytogenes,12.17
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.5,24,MuellerHinton,Salmonella,10.57
+biosynthesis,single,Heating,60,Shaker,4,11,5,plant,organic,plant,organic,10,1,AB,washed,430,spherical,56,SEM,0.5,24,Agar,Acinetobacter,20.65
+biosynthesis,single,No,25,No,48,?,4,Bacterial extract,organic,Bacterial extract,organic,250,?,BA,dried,?,?,?,?,0.5,24,LuriaBertani,Klebsiella,15
+biosynthesis,single,No,25,No,48,?,1,Bacterial extract,organic,Bacterial extract,organic,250,?,BA,dried,400,Square_spherical,18,TEM,0.5,24,LuriaBertani,Pseudomonas,19
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.125,24,MuellerHinton,Escherichia coli,9
+biosynthesis,single,No,25,No,48,?,4,Bacterial extract,organic,Bacterial extract,organic,250,?,BA,dried,?,?,?,?,0.5,24,LuriaBertani,Pseudomonas,22
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.5,24,MuellerHinton,Staphylococcus,11.17
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.5,24,MuellerHinton,Bacillus,8.17
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.25,24,MuellerHinton,Pseudomonas,8.33
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.5,24,MuellerHinton,Escherichia coli,9.17
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.75,24,MuellerHinton,Escherichia coli,11.17
+micosynthesis,single,No,25,No,24,100,1,fungal extract,organic,fungal extract,organic,?,100,BA,no,440,?,?,?,?,24,Agar,Salmonella,12
+phytosynthesis,single,No,24,No,2.5,?,1,plant,organic,plant,organic,100,?,BA,washing_dried,430,spherical,17.4,TEM,0.5,24,MuellerHinton,Staphylococcus,8.4
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.045,?,MuellerHinton,Enterococcus,9.9
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.0225,?,MuellerHinton,Enterococcus,7
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.18,?,MuellerHinton,Enterococcus,11.2
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.09,?,MuellerHinton,Pseudomonas,13.1
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.0225,?,MuellerHinton,Pseudomonas,8.7
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.0225,?,MuellerHinton,Acinetobacter,12.2
+wet chemical,single,No,25,Stirring,24,?,1.1,chemical,organic,chemical,organic,?,?,BCA,filtered,405,spherical,14,TEM,0.11272,24,?,Pseudomonas,11
+wet chemical,single,No,25,Stirring,24,?,6,chemical,organic,chemical,organic,0.08,?,BCA,filtered,418,spherical,24,TEM,0.62133,24,?,Staphylococcus,40
+phytosynthesis,single,No,25,Stirring,12,10,1.5,plant,organic,plant,organic,100,1,AB,no,420,spherical,27.17,TEM,0.15,24,?,Escherichia coli,27.7
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.25,24,MuellerHinton,Escherichia coli,9.2
+phytosynthesis,single,No,25,Stirring,12,10,1.5,plant,organic,plant,organic,100,1,AB,no,420,spherical,27.17,TEM,0.15,24,?,Staphylococcus,13.41
+biosynthesis,single,No,25,No,48,?,1,Bacterial extract,organic,Bacterial extract,organic,250,?,BA,dried,?,?,?,?,0.5,24,LuriaBertani,Klebsiella,14
+biosynthesis,single,Heating,60,Shaker,4,11,5,plant,organic,plant,organic,10,1,AB,washed,430,spherical,56,SEM,0.5,24,Agar,Streptococcus,15.12
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,0.031,24,MuellerHinton,Escherichia coli,8.5
+phytosynthesis,single,No,25,Stirring,3,?,3,plant,organic,plant,organic,50,5,AB,centrifuged_washed_lyophilized,430,spherical,50,FETEM,1,24,MuellerHinton,Escherichia coli,10.2
+phytosynthesis,single,No,25,Stirring,12,10,1.5,plant,organic,plant,organic,100,1,AB,no,420,spherical,27.17,TEM,0.15,24,?,Staphylococcus,17.52
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.045,?,MuellerHinton,Enterococcus,9.2
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.0225,?,MuellerHinton,Pseudomonas,12.8
+wet chemical,single,No,25,Stirring,24,?,1.1,chemical,organic,chemical,organic,?,?,BCA,filtered,406,spherical,9,TEM,0.11628,24,?,Staphylococcus,12
+phytosynthesis,single,No,25,Stirring,3,?,1,plant,organic,plant,organic,100,?,AB,no,450,?,48,SEM,10,24,MuellerHinton,Escherichia coli,16
+phytosynthesis,single,Heating,80,Stirring,2,20,1.5,plant,organic,plant,organic,?,10,BA,no,420,spherical,10,TEM,0.08,24,MuellerHinton,Escherichia coli,7
+phytosynthesis,single,Heating,80,Stirring,2,20,1.5,plant,organic,plant,organic,?,10,BA,no,420,spherical,10,TEM,0.04,24,MuellerHinton,Escherichia coli,7
+phytosynthesis,single,Heating,80,Stirring,2,20,1.5,plant,organic,plant,organic,?,10,BA,no,420,spherical,10,TEM,0.02,24,MuellerHinton,Escherichia coli,7
+phytosynthesis,single,Heating,80,Stirring,2,20,1.5,plant,organic,plant,organic,?,10,BA,no,420,spherical,10,TEM,0.005,24,MuellerHinton,Escherichia coli,7
+phytosynthesis,single,No,25,Stirring,12,10,1.5,plant,organic,plant,organic,100,1,AB,no,420,spherical,27.17,TEM,0.15,24,?,Pseudomonas,17.09
+phytosynthesis,single,No,25,Stirring,12,10,1.5,plant,organic,plant,organic,100,1,AB,no,420,spherical,27.17,TEM,0.15,24,?,Staphylococcus,22.43
+biosynthesis,single,No,25,No,48,?,2,Bacterial extract,organic,Bacterial extract,organic,250,?,BA,dried,?,?,?,?,0.5,24,LuriaBertani,Klebsiella,17
+phytosynthesis,single,No,24,No,2.5,?,1,plant,organic,plant,organic,100,?,BA,washing_dried,430,spherical,17.4,TEM,1,24,MuellerHinton,Staphylococcus,12.1
+phytosynthesis,single,No,24,No,2.5,?,1,plant,organic,plant,organic,100,?,BA,washing_dried,430,spherical,17.4,TEM,1,24,MuellerHinton,Escherichia coli,13.1
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.25,24,MuellerHinton,Staphylococcus,10.5
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.75,24,MuellerHinton,Staphylococcus,12.5
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.25,24,MuellerHinton,Bacillus,7
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.5,24,MuellerHinton,Pseudomonas,10
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.75,24,MuellerHinton,Pseudomonas,12
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.25,24,MuellerHinton,Escherichia coli,7.5
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.25,24,MuellerHinton,Salmonella,6.5
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.5,24,MuellerHinton,Salmonella,8
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.75,24,MuellerHinton,Salmonella,10
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,1,24,MuellerHinton,Salmonella,11.5
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.09,?,MuellerHinton,Enterococcus,10.5
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.01125,?,MuellerHinton,Pseudomonas,10.7
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.01125,?,MuellerHinton,Pseudomonas,6.4
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.09,?,MuellerHinton,Acinetobacter,15.1
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.045,?,MuellerHinton,Acinetobacter,13.9
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.0225,?,MuellerHinton,Acinetobacter,10.4
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.045,?,MuellerHinton,Acinetobacter,13.4
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.01125,?,MuellerHinton,Acinetobacter,10.5
+wet chemical,single,No,25,Stirring,24,?,1.1,chemical,organic,chemical,organic,?,?,BCA,filtered,406,spherical,9,TEM,0.11628,24,?,Pseudomonas,9
+wet chemical,single,No,25,Stirring,24,?,1.1,chemical,organic,chemical,organic,?,?,BCA,filtered,405,spherical,14,TEM,0.11272,24,?,Escherichia coli,10
+wet chemical,single,No,25,Stirring,24,?,6,chemical,organic,chemical,organic,0.08,?,BCA,filtered,418,spherical,24,TEM,0.62133,24,?,Staphylococcus,34
+wet chemical,single,No,25,Stirring,24,?,6,chemical,organic,chemical,organic,0.08,?,BCA,filtered,412,spherical,30,TEM,0.59544,24,?,Escherichia coli,26
+wet chemical,single,No,25,Stirring,24,?,6,chemical,organic,chemical,organic,0.08,?,BCA,filtered,412,spherical,30,TEM,0.59544,24,?,Staphylococcus,29
+phytosynthesis,single,No,25,Stirring,12,10,1.5,plant,organic,plant,organic,100,1,AB,no,420,spherical,27.17,TEM,0.15,24,?,Escherichia coli,9.13
+phytosynthesis,single,No,25,Stirring,12,10,1.5,plant,organic,plant,organic,100,1,AB,no,420,spherical,27.17,TEM,0.15,24,?,Escherichia coli,22.13
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,1,24,MuellerHinton,Staphylococcus,15.17
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,0.75,24,MuellerHinton,Bacillus,10.67
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,1,24,MuellerHinton,Escherichia coli,12.67
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.045,?,MuellerHinton,Pseudomonas,11.7
+wet chemical,single,No,25,Stirring,24,?,1.1,chemical,organic,chemical,organic,?,?,BCA,filtered,406,spherical,9,TEM,0.11628,24,?,Staphylococcus,11
+wet chemical,single,No,25,Stirring,24,?,1.1,chemical,organic,chemical,organic,?,?,BCA,filtered,405,spherical,14,TEM,0.11272,24,?,Staphylococcus,11
+wet chemical,single,No,25,Stirring,24,?,6,chemical,organic,chemical,organic,0.08,?,BCA,filtered,412,spherical,30,TEM,0.59544,24,?,Pseudomonas,19
+biosynthesis,single,No,25,No,48,?,2,Bacterial extract,organic,Bacterial extract,organic,250,?,BA,dried,?,?,?,?,0.5,24,LuriaBertani,Acinetobacter,16
+phytosynthesis,single,No,25,Stirring,12,10,1.5,plant,organic,plant,organic,100,1,AB,no,420,spherical,27.17,TEM,0.15,24,?,Pseudomonas,21.17
+phytosynthesis,single,No,25,Stirring,12,10,1.5,plant,organic,plant,organic,100,1,AB,no,420,spherical,27.17,TEM,0.15,24,?,Pseudomonas,29.14
+micosynthesis,single,No,25,No,24,100,1,fungal extract,organic,fungal extract,organic,?,100,BA,no,440,?,?,?,?,24,Agar,Staphylococcus,16
+phytosynthesis,single,No,24,No,2.5,?,1,plant,organic,plant,organic,100,?,BA,washing_dried,430,spherical,17.4,TEM,0.5,24,MuellerHinton,Escherichia coli,6.1
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.18,?,MuellerHinton,Pseudomonas,18.4
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.045,?,MuellerHinton,Pseudomonas,15.2
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.01125,?,MuellerHinton,Acinetobacter,8.6
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.18,?,MuellerHinton,Acinetobacter,16.9
+wet chemical,single,No,25,Stirring,24,?,6,chemical,organic,chemical,organic,0.08,?,BCA,filtered,418,spherical,24,TEM,0.62133,24,?,Escherichia coli,32
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,1,24,MuellerHinton,Bacillus,12.67
+phytosynthesis,single,Heating,60,Magnetic,48,200,10,algae extract,organic,algae extract,organic,100,20,AB,washing_dried,445,spherical;oval,40.45,SEM,1,24,MuellerHinton,Pseudomonas,13.33
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.36,?,MuellerHinton,Enterococcus,12.3
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.09,?,MuellerHinton,Pseudomonas,17.5
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.18,?,MuellerHinton,Pseudomonas,15.1
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.09,?,MuellerHinton,Acinetobacter,15.7
+biosynthesis,single,No,25,No,48,?,4,Bacterial extract,organic,Bacterial extract,organic,250,?,BA,dried,?,?,?,?,0.5,24,LuriaBertani,Acinetobacter,18
+phytosynthesis,single,Heating,100,Stirring,2,20,1.5,plant,organic,plant,organic,?,10,BA,no,420,spherical,10,TEM,0.08,24,MuellerHinton,Bacillus,12
+phytosynthesis,single,Heating,100,Stirring,2,20,1.5,plant,organic,plant,organic,?,10,BA,no,420,spherical,10,TEM,0.04,24,MuellerHinton,Bacillus,12
+phytosynthesis,single,Heating,100,Stirring,2,20,1.5,plant,organic,plant,organic,?,10,BA,no,420,spherical,10,TEM,0.02,24,MuellerHinton,Bacillus,12
+phytosynthesis,single,Heating,100,Stirring,2,20,1.5,plant,organic,plant,organic,?,10,BA,no,420,spherical,10,TEM,0.005,24,MuellerHinton,Bacillus,12
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.36,?,MuellerHinton,Enterococcus,12
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.18,?,MuellerHinton,Enterococcus,11.3
+biosynthesis,single,No,25,No,48,?,2,Bacterial extract,organic,Bacterial extract,organic,250,?,BA,dried,?,?,?,?,0.5,24,LuriaBertani,Pseudomonas,20
+biosynthesis,single,Heating,60,Shaker,4,11,5,plant,organic,plant,organic,10,1,AB,washed,430,spherical,56,SEM,0.5,24,Agar,Providencia stuartii,13.22
+wet chemical,single,No,25,Stirring,24,?,1.1,chemical,organic,chemical,organic,?,?,BCA,filtered,406,spherical,9,TEM,0.11628,24,?,Escherichia coli,9
+wet chemical,single,No,25,Stirring,24,?,1.1,chemical,organic,chemical,organic,?,?,BCA,filtered,405,spherical,14,TEM,0.11272,24,?,Staphylococcus,11
+wet chemical,single,No,25,Stirring,24,?,6,chemical,organic,chemical,organic,0.08,?,BCA,filtered,418,spherical,24,TEM,0.62133,24,?,Pseudomonas,29
+wet chemical,single,No,25,Stirring,24,?,6,chemical,organic,chemical,organic,0.08,?,BCA,filtered,412,spherical,30,TEM,0.59544,24,?,Staphylococcus,31
+phytosynthesis,single,No,25,Stirring,3,?,1,plant,organic,plant,organic,100,?,AB,no,450,?,48,SEM,10,24,MuellerHinton,Salmonella,19
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.36,?,MuellerHinton,Acinetobacter,17.7
+phytosynthesis,single,Heating,80,Stirring,2,20,1.5,plant,organic,plant,organic,?,10,BA,no,420,spherical,10,TEM,0.08,24,MuellerHinton,Staphylococcus,17
+phytosynthesis,single,Heating,80,Stirring,2,20,1.5,plant,organic,plant,organic,?,10,BA,no,420,spherical,10,TEM,0.04,24,MuellerHinton,Staphylococcus,17
+phytosynthesis,single,Heating,80,Stirring,2,20,1.5,plant,organic,plant,organic,?,10,BA,no,420,spherical,10,TEM,0.02,24,MuellerHinton,Staphylococcus,17
+phytosynthesis,single,Heating,80,Stirring,2,20,1.5,plant,organic,plant,organic,?,10,BA,no,420,spherical,10,TEM,0.005,24,MuellerHinton,Staphylococcus,17
+phytosynthesis,single,No,25,Stirring,3,?,1,plant,organic,plant,organic,100,?,AB,no,450,?,48,SEM,10,24,MuellerHinton,Streptococcus,18
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.36,?,MuellerHinton,Pseudomonas,19.8
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.18,?,MuellerHinton,Acinetobacter,16.2
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.36,?,MuellerHinton,Pseudomonas,16.3
+biosynthesis,single,Autoclave,121,No,0.25,100,1,Bacterial extract,organic,Bacterial extract,organic,?,10,BA,no,410,spherical,?,?,0.015,24,Agar,Staphylococcus,17.5
+biosynthesis,single,Autoclave,121,No,0.25,100,1,Bacterial extract,organic,Bacterial extract,organic,?,10,BA,no,410,spherical,?,?,0.03,24,Agar,Staphylococcus,19.25
+biosynthesis,single,Autoclave,121,No,0.25,100,1,Bacterial extract,organic,Bacterial extract,organic,?,10,BA,no,410,spherical,?,?,0.03,24,Agar,Escherichia coli,26.75
+micosynthesis,single,No,25,No,24,100,1,fungal extract,organic,fungal extract,organic,?,100,BA,no,440,?,?,?,?,24,Agar,Escherichia coli,13
+phytosynthesis,single,No,25,No,4,?,7,plant,organic,plant,organic,91,?,BA,no,430,spherical,25,SEM,0.36,?,MuellerHinton,Acinetobacter,16.8
+biosynthesis,single,Autoclave,121,No,0.25,100,1,Bacterial extract,organic,Bacterial extract,organic,?,10,BA,no,410,spherical,?,?,0.045,24,Agar,Staphylococcus,24.25
+biosynthesis,single,Autoclave,121,No,0.25,100,1,Bacterial extract,organic,Bacterial extract,organic,?,10,BA,no,410,spherical,?,?,0.015,24,Agar,Escherichia coli,16.25
+biosynthesis,single,Autoclave,121,No,0.25,100,1,Bacterial extract,organic,Bacterial extract,organic,?,10,BA,no,410,spherical,?,?,0.03,24,Agar,Klebsiella,17.2
+biosynthesis,single,Autoclave,121,No,0.25,100,1,Bacterial extract,organic,Bacterial extract,organic,?,10,BA,no,410,spherical,?,?,0.015,24,Agar,Klebsiella,15.25
+biosynthesis,single,Autoclave,121,No,0.25,100,1,Bacterial extract,organic,Bacterial extract,organic,?,10,BA,no,410,spherical,?,?,0.045,24,Agar,Klebsiella,28.5
+phytosynthesis,single,Heating,30,Yes,0.16,41,1,plant,organic,plant,organic,10,1,AB,no,428.5,spherical,18,TEM,0.106,24,MuellerHinton,Escherichia coli,12
+phytosynthesis,single,Heating,30,Yes,0.16,41,1,plant,organic,plant,organic,10,1,AB,no,428.5,spherical,18,TEM,0.106,24,MuellerHinton,Klebsiella,12
+biosynthesis,single,Autoclave,121,No,0.25,100,1,Bacterial extract,organic,Bacterial extract,organic,?,10,BA,no,410,spherical,?,?,0.045,24,Agar,Escherichia coli,27.05
+biosynthesis,single,Autoclave,121,No,0.25,100,1,Bacterial extract,organic,Bacterial extract,organic,?,10,BA,no,410,spherical,?,?,0.03,24,Agar,Pseudomonas,9.05
+biosynthesis,single,Autoclave,121,No,0.25,100,1,Bacterial extract,organic,Bacterial extract,organic,?,10,BA,no,410,spherical,?,?,0.015,24,Agar,Pseudomonas,8.05
+biosynthesis,single,Autoclave,121,No,0.25,100,1,Bacterial extract,organic,Bacterial extract,organic,?,10,BA,no,410,spherical,?,?,0.045,24,Agar,Pseudomonas,10.05
+phytosynthesis,single,Microwave,?,Magnetic,0.008,55,100,plant,organic,plant,organic,?,5,AB,washed,445,?,38.7,TEM,?,24,Agar,Escherichia coli,20
+phytosynthesis,single,Microwave,?,Magnetic,0.008,55,100,plant,organic,plant,organic,?,5,AB,washed,445,?,38.7,TEM,?,24,Agar,Staphylococcus,16
+phytosynthesis,single,No,25,No,24,?,1,plant,organic,plant,organic,25,?,AB,washed,?,?,3,TEM,?,18,LuriaBertani,Escherichia coli,1.9
+phytosynthesis,single,No,25,No,24,?,1,plant,organic,plant,organic,25,?,AB,washed,?,?,3,TEM,?,18,LuriaBertani,Staphylococcus,1.38
+phytosynthesis,single,No,25,No,24,?,1,plant,organic,plant,organic,25,?,AB,washed,?,?,3,TEM,?,18,LuriaBertani,Bacillus,2.1
+phytosynthesis,single,No,25,No,24,?,1,plant,organic,plant,organic,25,?,AB,washed,?,?,3,TEM,?,18,LuriaBertani,Pseudomonas,1.79
+phytosynthesis,single,No,25,No,24,?,1,plant,organic,plant,organic,25,?,AB,washed,?,?,3,TEM,?,18,LuriaBertani,Staphylococcus,1.17
+phytosynthesis,single,No,25,No,24,?,1,plant,organic,plant,organic,25,?,AB,washed,?,?,3,TEM,?,18,LuriaBertani,Klebsiella,1.6
+phytosynthesis,single,No,25,No,24,?,1,plant,organic,plant,organic,25,?,AB,washed,?,?,3,TEM,?,18,LuriaBertani,Escherichia coli,2.4
+phytosynthesis,single,No,25,No,24,?,1,plant,organic,plant,organic,25,?,AB,washed,?,?,3,TEM,?,18,LuriaBertani,Staphylococcus,1.8
+phytosynthesis,single,No,25,No,24,?,1,plant,organic,plant,organic,25,?,AB,washed,?,?,3,TEM,?,18,LuriaBertani,Bacillus,2.9
+phytosynthesis,single,No,25,No,24,?,1,plant,organic,plant,organic,25,?,AB,washed,?,?,3,TEM,?,18,LuriaBertani,Pseudomonas,2.2
+phytosynthesis,single,No,25,No,24,?,1,plant,organic,plant,organic,25,?,AB,washed,?,?,3,TEM,?,18,LuriaBertani,Staphylococcus,1.67
+phytosynthesis,single,No,25,No,24,?,1,plant,organic,plant,organic,25,?,AB,washed,?,?,3,TEM,?,18,LuriaBertani,Klebsiella,1.97
+phytosynthesis,single,No,25,No,24,?,1,plant,organic,plant,organic,25,?,AB,washed,?,?,3,TEM,?,18,LuriaBertani,Escherichia coli,3.3
+phytosynthesis,single,No,25,No,24,?,1,plant,organic,plant,organic,25,?,AB,washed,?,?,3,TEM,?,18,LuriaBertani,Staphylococcus,2.4
+phytosynthesis,single,No,25,No,24,?,1,plant,organic,plant,organic,25,?,AB,washed,?,?,3,TEM,?,18,LuriaBertani,Bacillus,3.8
+phytosynthesis,single,No,25,No,24,?,1,plant,organic,plant,organic,25,?,AB,washed,?,?,3,TEM,?,18,LuriaBertani,Pseudomonas,2.8
+phytosynthesis,single,No,25,No,24,?,1,plant,organic,plant,organic,25,?,AB,washed,?,?,3,TEM,?,18,LuriaBertani,Staphylococcus,2.4
+phytosynthesis,single,No,25,No,24,?,1,plant,organic,plant,organic,25,?,AB,washed,?,?,3,TEM,?,18,LuriaBertani,Klebsiella,2.56
+phytosynthesis,single,No,25,No,24,?,1,plant,organic,plant,organic,25,?,AB,washed,?,?,3,TEM,?,18,LuriaBertani,Escherichia coli,4.2
+phytosynthesis,single,No,25,No,24,?,1,plant,organic,plant,organic,25,?,AB,washed,?,?,3,TEM,?,18,LuriaBertani,Staphylococcus,3.7
+phytosynthesis,single,No,25,No,24,?,1,plant,organic,plant,organic,25,?,AB,washed,?,?,3,TEM,?,18,LuriaBertani,Bacillus,4.67
+phytosynthesis,single,No,25,No,24,?,1,plant,organic,plant,organic,25,?,AB,washed,?,?,3,TEM,?,18,LuriaBertani,Pseudomonas,4.1
+phytosynthesis,single,No,25,No,24,?,1,plant,organic,plant,organic,25,?,AB,washed,?,?,3,TEM,?,18,LuriaBertani,Staphylococcus,3.1
+phytosynthesis,single,No,25,No,24,?,1,plant,organic,plant,organic,25,?,AB,washed,?,?,3,TEM,?,18,LuriaBertani,Klebsiella,3.5
+phytochemical ,single,Heating,100,Stirring,?,100,1,plant,organic,plant,organic,?,?,AB,washing_dried,418,spherical,4,TEM,0.75,24,Agar,Escherichia coli,0
+phytochemical ,single,Heating,100,Stirring,?,100,1,plant,organic,plant,organic,?,?,AB,washing_dried,418,spherical,4,TEM,1.5,24,Agar,Escherichia coli,0.266
+phytochemical ,single,Heating,100,Stirring,?,100,1,plant,organic,plant,organic,?,?,AB,washing_dried,418,spherical,4,TEM,3,24,Agar,Escherichia coli,1.781
+phytochemical ,single,Heating,100,Stirring,?,100,1,plant,organic,plant,organic,?,?,AB,washing_dried,418,spherical,4,TEM,6,24,Agar,Escherichia coli,2.75
+phytochemical ,single,Heating,100,Stirring,?,100,1,plant,organic,plant,organic,?,?,AB,washing_dried,418,spherical,4,TEM,0.75,24,Agar,Bacillus,0.172
+phytochemical ,single,Heating,100,Stirring,?,100,1,plant,organic,plant,organic,?,?,AB,washing_dried,418,spherical,4,TEM,1.5,24,Agar,Bacillus,0.0703
+phytochemical ,single,Heating,100,Stirring,?,100,1,plant,organic,plant,organic,?,?,AB,washing_dried,418,spherical,4,TEM,3,24,Agar,Bacillus,1.438
+phytochemical ,single,Heating,100,Stirring,?,100,1,plant,organic,plant,organic,?,?,AB,washing_dried,418,spherical,4,TEM,6,24,Agar,Bacillus,2.438
+phytochemical ,single,Heating,100,Stirring,?,100,1,plant,organic,plant,organic,?,?,AB,washing_dried,418,spherical,4,TEM,0.75,24,Agar,Staphylococcus,0.281
+phytochemical ,single,Heating,100,Stirring,?,100,1,plant,organic,plant,organic,?,?,AB,washing_dried,418,spherical,4,TEM,1.5,24,Agar,Staphylococcus,0.625
+phytochemical ,single,Heating,100,Stirring,?,100,1,plant,organic,plant,organic,?,?,AB,washing_dried,418,spherical,4,TEM,3,24,Agar,Staphylococcus,1.156
+phytochemical ,single,Heating,100,Stirring,?,100,1,plant,organic,plant,organic,?,?,AB,washing_dried,418,spherical,4,TEM,6,24,Agar,Staphylococcus,2.188
+phytochemical ,single,Heating,100,Stirring,?,100,1,plant,organic,plant,organic,?,?,AB,washing_dried,418,spherical,4,TEM,0.75,24,Agar,Salmonella,1.688
+phytochemical ,single,Heating,100,Stirring,?,100,1,plant,organic,plant,organic,?,?,AB,washing_dried,418,spherical,4,TEM,1.5,24,Agar,Salmonella,2.656
+phytochemical ,single,Heating,100,Stirring,?,100,1,plant,organic,plant,organic,?,?,AB,washing_dried,418,spherical,4,TEM,3,24,Agar,Salmonella,3.438
+phytochemical ,single,Heating,100,Stirring,?,100,1,plant,organic,plant,organic,?,?,AB,washing_dried,418,spherical,4,TEM,6,24,Agar,Salmonella,4.813
+phytochemical ,single,Heating,100,Stirring,?,100,1,plant,organic,plant,organic,?,?,AB,washing_dried,418,spherical,4,TEM,0.75,24,Agar,Staphylococcus,0.609
+phytochemical ,single,Heating,100,Stirring,?,100,1,plant,organic,plant,organic,?,?,AB,washing_dried,418,spherical,4,TEM,1.5,24,Agar,Staphylococcus,1.219
+phytochemical ,single,Heating,100,Stirring,?,100,1,plant,organic,plant,organic,?,?,AB,washing_dried,418,spherical,4,TEM,3,24,Agar,Staphylococcus,2.031
+phytochemical ,single,Heating,100,Stirring,?,100,1,plant,organic,plant,organic,?,?,AB,washing_dried,418,spherical,4,TEM,6,24,Agar,Staphylococcus,2.375
+phytochemical ,single,Heating,70,Stirring,2,100,2,chemical,organic,chemical,inorganic,0.1,100,CADB,washed,350,spherical,10,TEM,0.75,24,Agar,Escherichia coli,0
+phytochemical ,single,Heating,70,Stirring,2,100,2,chemical,organic,chemical,inorganic,0.1,100,CADB,washed,350,spherical,10,TEM,1.5,24,Agar,Escherichia coli,0.18
+phytochemical ,single,Heating,70,Stirring,2,100,2,chemical,organic,chemical,inorganic,0.1,100,CADB,washed,350,spherical,10,TEM,3,24,Agar,Escherichia coli,0.34
+phytochemical ,single,Heating,70,Stirring,2,100,2,chemical,organic,chemical,inorganic,0.1,100,CADB,washed,350,spherical,10,TEM,6,24,Agar,Escherichia coli,1.14
+phytochemical ,single,Heating,70,Stirring,2,100,2,chemical,organic,chemical,inorganic,0.1,100,CADB,washed,350,spherical,10,TEM,0.75,24,Agar,Bacillus,0.18
+phytochemical ,single,Heating,70,Stirring,2,100,2,chemical,organic,chemical,inorganic,0.1,100,CADB,washed,350,spherical,10,TEM,1.5,24,Agar,Bacillus,0.38
+phytochemical ,single,Heating,70,Stirring,2,100,2,chemical,organic,chemical,inorganic,0.1,100,CADB,washed,350,spherical,10,TEM,3,24,Agar,Bacillus,1.32
+phytochemical ,single,Heating,70,Stirring,2,100,2,chemical,organic,chemical,inorganic,0.1,100,CADB,washed,350,spherical,10,TEM,6,24,Agar,Bacillus,1.43
+phytochemical ,single,Heating,70,Stirring,2,100,2,chemical,organic,chemical,inorganic,0.1,100,CADB,washed,350,spherical,10,TEM,0.75,24,Agar,Staphylococcus,0.25
+phytochemical ,single,Heating,70,Stirring,2,100,2,chemical,organic,chemical,inorganic,0.1,100,CADB,washed,350,spherical,10,TEM,1.5,24,Agar,Staphylococcus,0.38
+phytochemical ,single,Heating,70,Stirring,2,100,2,chemical,organic,chemical,inorganic,0.1,100,CADB,washed,350,spherical,10,TEM,3,24,Agar,Staphylococcus,0.59
+phytochemical ,single,Heating,70,Stirring,2,100,2,chemical,organic,chemical,inorganic,0.1,100,CADB,washed,350,spherical,10,TEM,6,24,Agar,Staphylococcus,2.32
+phytochemical ,single,Heating,70,Stirring,2,100,2,chemical,organic,chemical,inorganic,0.1,100,CADB,washed,350,spherical,10,TEM,0.75,24,Agar,Salmonella,0.5
+phytochemical ,single,Heating,70,Stirring,2,100,2,chemical,organic,chemical,inorganic,0.1,100,CADB,washed,350,spherical,10,TEM,1.5,24,Agar,Salmonella,1.29
+phytochemical ,single,Heating,70,Stirring,2,100,2,chemical,organic,chemical,inorganic,0.1,100,CADB,washed,350,spherical,10,TEM,3,24,Agar,Salmonella,2.04
+phytochemical ,single,Heating,70,Stirring,2,100,2,chemical,organic,chemical,inorganic,0.1,100,CADB,washed,350,spherical,10,TEM,6,24,Agar,Salmonella,3.39
+phytochemical ,single,Heating,70,Stirring,2,100,2,chemical,organic,chemical,inorganic,0.1,100,CADB,washed,350,spherical,10,TEM,0.75,24,Agar,Staphylococcus,0
+phytochemical ,single,Heating,70,Stirring,2,100,2,chemical,organic,chemical,inorganic,0.1,100,CADB,washed,350,spherical,10,TEM,1.5,24,Agar,Staphylococcus,0.23
+phytochemical ,single,Heating,70,Stirring,2,100,2,chemical,organic,chemical,inorganic,0.1,100,CADB,washed,350,spherical,10,TEM,3,24,Agar,Staphylococcus,0.34
+phytochemical ,single,Heating,70,Stirring,2,100,2,chemical,organic,chemical,inorganic,0.1,100,CADB,washed,350,spherical,10,TEM,6,24,Agar,Staphylococcus,0.77
+phytosynthesis,single,No,25,No,?,50,10,plant,organic,plant,organic,?,5,AB,no,440,spherical,25,TEM,0.1,24,MuellerHinton,Staphylococcus,14.7
+phytosynthesis,single,No,25,No,?,50,10,plant,organic,plant,organic,?,5,AB,no,440,spherical,25,TEM,0.1,24,MuellerHinton,Bacillus,12.1
+phytosynthesis,single,No,25,No,?,50,10,plant,organic,plant,organic,?,5,AB,no,440,spherical,25,TEM,0.1,24,MuellerHinton,Salmonella,15
+phytosynthesis,single,No,25,No,?,50,10,plant,organic,plant,organic,?,5,AB,no,440,spherical,25,TEM,0.1,24,MuellerHinton,Escherichia coli,15
+phytosynthesis,single,No,25,Stirring,1,88,100,plant,organic,plant,organic,11.6,16,BA,washing_dried,415,spherical,4.9,TEM,0.005,24,MuellerHinton,Vibrio,25
+phytosynthesis,single,No,25,Stirring,1,88,100,plant,organic,plant,organic,11.6,16,BA,washing_dried,415,spherical,4.9,TEM,0.01,24,MuellerHinton,Vibrio,25
+phytosynthesis,single,No,25,Stirring,1,88,100,plant,organic,plant,organic,11.6,16,BA,washing_dried,415,spherical,4.9,TEM,0.015,24,MuellerHinton,Vibrio,25
+phytosynthesis,single,No,25,Stirring,1,88,100,plant,organic,plant,organic,11.6,16,BA,washing_dried,415,spherical,4.9,TEM,0.02,24,MuellerHinton,Vibrio,25
+phytosynthesis,single,No,25,Stirring,1,88,100,plant,organic,plant,organic,11.6,16,BA,washing_dried,415,spherical,4.9,TEM,0.025,24,MuellerHinton,Vibrio,25
+phytosynthesis,single,No,25,Stirring,1,88,100,plant,organic,plant,organic,11.6,16,BA,washing_dried,415,spherical,4.9,TEM,0.03,24,MuellerHinton,Vibrio,25
+phytosynthesis,single,No,25,Stirring,1,88,100,plant,organic,plant,organic,11.6,16,BA,washing_dried,415,spherical,4.9,TEM,0.035,24,MuellerHinton,Vibrio,25
+phytosynthesis,single,Incubator,28,No,72,100,1,algae extract,organic,algae extract,organic,?,10,AB,washed,440,spherical,8,TEM,0.05,24,MuellerHinton,Klebsiella,10
+phytosynthesis,single,Incubator,28,No,72,100,1,algae extract,organic,algae extract,organic,?,10,AB,washed,440,spherical,8,TEM,0.05,24,MuellerHinton,Aeromonas,16
+phytosynthesis,single,Incubator,28,No,72,100,1,algae extract,organic,algae extract,organic,?,10,AB,washed,440,spherical,8,TEM,0.05,24,MuellerHinton,Acinetobacter,17
+phytosynthesis,single,Incubator,28,No,72,100,1,algae extract,organic,algae extract,organic,?,10,AB,washed,440,spherical,8,TEM,0.05,24,MuellerHinton,Staphylococcus,8
+phytosynthesis,single,Incubator,28,No,72,100,1,algae extract,organic,algae extract,organic,?,10,AB,washed,440,spherical,8,TEM,0.05,24,MuellerHinton,Klebsiella,13
+phytosynthesis,single,Incubator,28,No,72,100,1,algae extract,organic,algae extract,organic,?,10,AB,washed,440,spherical,8,TEM,0.05,24,MuellerHinton,Aeromonas,18
+phytosynthesis,single,Incubator,28,No,72,100,1,algae extract,organic,algae extract,organic,?,10,AB,washed,440,spherical,8,TEM,0.05,24,MuellerHinton,Acinetobacter,18
+phytosynthesis,single,Incubator,28,No,72,100,1,algae extract,organic,algae extract,organic,?,10,AB,washed,440,spherical,8,TEM,0.05,24,MuellerHinton,Staphylococcus,9
+phytosynthesis,single,Incubator,28,No,72,100,1,algae extract,organic,algae extract,organic,?,10,AB,washed,440,spherical,8,TEM,0.05,24,MuellerHinton,Klebsiella,15
+phytosynthesis,single,Incubator,28,No,72,100,1,algae extract,organic,algae extract,organic,?,10,AB,washed,440,spherical,8,TEM,0.05,24,MuellerHinton,Aeromonas,19
+phytosynthesis,single,Incubator,28,No,72,100,1,algae extract,organic,algae extract,organic,?,10,AB,washed,440,spherical,8,TEM,0.05,24,MuellerHinton,Acinetobacter,19
+phytosynthesis,single,Incubator,28,No,72,100,1,algae extract,organic,algae extract,organic,?,10,AB,washed,440,spherical,8,TEM,0.05,24,MuellerHinton,Staphylococcus,13
+phytosynthesis,single,Incubator,28,No,72,100,1,algae extract,organic,algae extract,organic,?,10,AB,washed,440,spherical,8,TEM,0.05,24,MuellerHinton,Klebsiella,18
+phytosynthesis,single,Incubator,28,No,72,100,1,algae extract,organic,algae extract,organic,?,10,AB,washed,440,spherical,8,TEM,0.05,24,MuellerHinton,Aeromonas,22
+phytosynthesis,single,Incubator,28,No,72,100,1,algae extract,organic,algae extract,organic,?,10,AB,washed,440,spherical,8,TEM,0.05,24,MuellerHinton,Acinetobacter,21
+phytosynthesis,single,Incubator,28,No,72,100,1,algae extract,organic,algae extract,organic,?,10,AB,washed,440,spherical,8,TEM,0.05,24,MuellerHinton,Staphylococcus,12
+micosynthesis,single,Incubator,40,No,168,3,1,fungal extract,organic,fungal extract,organic,0.333,?,BA,washed,422,cubic,15,TEM,?,24,Agar,Staphylococcus,3
+micosynthesis,single,Incubator,40,No,168,3,1,fungal extract,organic,fungal extract,organic,0.333,?,BA,washed,422,cubic,15,TEM,?,24,Agar,Klebsiella,2.9
+micosynthesis,single,Incubator,40,No,168,3,1,fungal extract,organic,fungal extract,organic,0.333,?,BA,washed,422,cubic,15,TEM,?,24,Agar,Salmonella,3.1
+micosynthesis,single,Incubator,40,No,168,3,1,fungal extract,organic,fungal extract,organic,0.333,?,BA,washed,422,cubic,15,TEM,?,24,Agar,Escherichia coli,3.2
+phytosynthesis,single,Heating,100,Stirring,0.5,?,0.25,algae extract,organic,algae extract,organic,500,?,BA,no,427,spherical,41,TEM,0.0135,18,Middlebrook,Mycobacterium,0
+phytosynthesis,single,Heating,100,Stirring,0.5,?,0.25,algae extract,organic,algae extract,organic,500,?,BA,no,427,spherical,41,TEM,0.00084,18,Middlebrook,Mycobacterium,0
+phytosynthesis,single,Heating,100,Stirring,0.5,?,0.25,algae extract,organic,algae extract,organic,500,?,BA,no,427,spherical,41,TEM,0.0135,18,Middlebrook,Mycobacterium,0
+phytosynthesis,single,Heating,100,Stirring,0.5,?,0.25,algae extract,organic,algae extract,organic,500,?,BA,no,427,spherical,41,TEM,0.00084,18,Middlebrook,Mycobacterium,0
+phytosynthesis,single,Heating,100,Stirring,0.5,?,0.25,algae extract,organic,algae extract,organic,500,?,BA,no,427,spherical,41,TEM,0.0135,18,MuellerHinton,Escherichia coli,0
+phytosynthesis,single,Heating,100,Stirring,0.5,?,0.25,algae extract,organic,algae extract,organic,500,?,BA,no,427,spherical,41,TEM,0.00084,18,MuellerHinton,Escherichia coli,0
+phytosynthesis,single,Heating,100,Stirring,0.5,?,0.25,algae extract,organic,algae extract,organic,500,?,BA,no,427,spherical,41,TEM,0.0135,18,MuellerHinton,Klebsiella,0
+phytosynthesis,single,Heating,100,Stirring,0.5,?,0.25,algae extract,organic,algae extract,organic,500,?,BA,no,427,spherical,41,TEM,0.00084,18,MuellerHinton,Klebsiella,0
+phytosynthesis,single,Heating,100,Stirring,0.5,?,0.25,algae extract,organic,algae extract,organic,500,?,BA,no,427,spherical,41,TEM,0.0135,18,MuellerHinton,Staphylococcus,0
+phytosynthesis,single,Heating,100,Stirring,0.5,?,0.25,algae extract,organic,algae extract,organic,500,?,BA,no,427,spherical,41,TEM,0.00084,18,MuellerHinton,Staphylococcus,0
+phytosynthesis,single,Heating,100,Stirring,0.5,?,0.25,algae extract,organic,algae extract,organic,500,?,BA,no,427,spherical,41,TEM,0.0135,18,MuellerHinton,Enterococcus,0
+phytosynthesis,single,Heating,100,Stirring,0.5,?,0.25,algae extract,organic,algae extract,organic,500,?,BA,no,427,spherical,41,TEM,0.00084,18,MuellerHinton,Enterococcus,0
+phytosynthesis,single,Heating,70,Stirring,1,?,1,plant,organic,plant,organic,500,?,BA,washed,420,spherical,60,AFM,2,24,MuellerHinton,Klebsiella,14
+phytosynthesis,single,Heating,70,Stirring,1,?,1,plant,organic,plant,organic,333,?,BA,washed,425,spherical,60,AFM,2,24,MuellerHinton,Klebsiella,14
+phytosynthesis,single,Heating,70,Stirring,1,?,1,plant,organic,plant,organic,250,?,BA,washed,420,spherical,60,AFM,2,24,MuellerHinton,Klebsiella,14
+phytosynthesis,single,Heating,70,Stirring,1,?,1,plant,organic,plant,organic,200,?,BA,washed,430,spherical,60,AFM,2,24,MuellerHinton,Klebsiella,14
+phytosynthesis,single,Heating,70,Stirring,1,?,1,plant,organic,plant,organic,167,?,BA,washed,430,spherical,60,AFM,2,24,MuellerHinton,Klebsiella,14
+phytosynthesis,single,Heating,70,Stirring,1,?,1,plant,organic,plant,organic,500,?,BA,washed,420,spherical,60,AFM,2,24,MuellerHinton,Bacillus,0
+phytosynthesis,single,Heating,70,Stirring,1,?,1,plant,organic,plant,organic,333,?,BA,washed,425,spherical,60,AFM,2,24,MuellerHinton,Bacillus,0
+phytosynthesis,single,Heating,70,Stirring,1,?,1,plant,organic,plant,organic,250,?,BA,washed,420,spherical,60,AFM,2,24,MuellerHinton,Bacillus,0
+phytosynthesis,single,Heating,70,Stirring,1,?,1,plant,organic,plant,organic,200,?,BA,washed,430,spherical,60,AFM,2,24,MuellerHinton,Bacillus,0
+phytosynthesis,single,Heating,70,Stirring,1,?,1,plant,organic,plant,organic,167,?,BA,washed,430,spherical,60,AFM,2,24,MuellerHinton,Bacillus,0
+phytosynthesis,single,Heating,70,Stirring,1,?,1,plant,organic,plant,organic,500,?,BA,washed,420,spherical,60,AFM,2,24,MuellerHinton,Staphylococcus,0
+phytosynthesis,single,Heating,70,Stirring,1,?,1,plant,organic,plant,organic,333,?,BA,washed,425,spherical,60,AFM,2,24,MuellerHinton,Staphylococcus,0
+phytosynthesis,single,Heating,70,Stirring,1,?,1,plant,organic,plant,organic,250,?,BA,washed,420,spherical,60,AFM,2,24,MuellerHinton,Staphylococcus,0
+phytosynthesis,single,Heating,70,Stirring,1,?,1,plant,organic,plant,organic,200,?,BA,washed,430,spherical,60,AFM,2,24,MuellerHinton,Staphylococcus,0
+phytosynthesis,single,Heating,70,Stirring,1,?,1,plant,organic,plant,organic,167,?,BA,washed,430,spherical,60,AFM,2,24,MuellerHinton,Staphylococcus,0
+phytosynthesis,single,No,25,No,0.5,?,1,plant,organic,plant,organic,100,?,BA,washing_dried,432,spherical,22,TEM,?,24,MuellerHinton,Klebsiella,7.8
+phytosynthesis,single,No,25,No,0.5,?,1,plant,organic,plant,organic,100,?,BA,washing_dried,432,spherical,22,TEM,?,24,MuellerHinton,Escherichia coli,7
+phytosynthesis,single,No,25,No,0.5,?,1,plant,organic,plant,organic,100,?,BA,washing_dried,432,spherical,22,TEM,?,24,MuellerHinton,Bacillus,6
+phytosynthesis,single,No,25,No,0.5,?,1,plant,organic,plant,organic,100,?,BA,washing_dried,432,spherical,22,TEM,?,24,MuellerHinton,Staphylococcus,5.5
+phytosynthesis,single,No,25,No,0.5,?,1,plant,organic,plant,organic,100,?,BA,washing_dried,432,spherical,22,TEM,?,24,MuellerHinton,Klebsiella,11
+phytosynthesis,single,No,25,No,0.5,?,1,plant,organic,plant,organic,100,?,BA,washing_dried,432,spherical,22,TEM,?,24,MuellerHinton,Escherichia coli,8.3
+phytosynthesis,single,No,25,No,0.5,?,1,plant,organic,plant,organic,100,?,BA,washing_dried,432,spherical,22,TEM,?,24,MuellerHinton,Bacillus,8.3
+phytosynthesis,single,No,25,No,0.5,?,1,plant,organic,plant,organic,100,?,BA,washing_dried,432,spherical,22,TEM,?,24,MuellerHinton,Staphylococcus,3.9
+phytosynthesis,single,No,25,No,0.5,?,1,plant,organic,plant,organic,100,?,BA,washing_dried,432,spherical,22,TEM,?,24,MuellerHinton,Klebsiella,22
+phytosynthesis,single,No,25,No,0.5,?,1,plant,organic,plant,organic,100,?,BA,washing_dried,432,spherical,22,TEM,?,24,MuellerHinton,Escherichia coli,13.7
+phytosynthesis,single,No,25,No,0.5,?,1,plant,organic,plant,organic,100,?,BA,washing_dried,432,spherical,22,TEM,?,24,MuellerHinton,Bacillus,12
+phytosynthesis,single,No,25,No,0.5,?,1,plant,organic,plant,organic,100,?,BA,washing_dried,432,spherical,22,TEM,?,24,MuellerHinton,Staphylococcus,7
+phytosynthesis,single,No,25,No,0.5,?,1,plant,organic,plant,organic,100,?,BA,washing_dried,432,spherical,22,TEM,?,24,MuellerHinton,Klebsiella,17
+phytosynthesis,single,No,25,No,0.5,?,1,plant,organic,plant,organic,100,?,BA,washing_dried,432,spherical,22,TEM,?,24,MuellerHinton,Escherichia coli,16
+phytosynthesis,single,No,25,No,0.5,?,1,plant,organic,plant,organic,100,?,BA,washing_dried,432,spherical,22,TEM,?,24,MuellerHinton,Bacillus,14
+phytosynthesis,single,No,25,No,0.5,?,1,plant,organic,plant,organic,100,?,BA,washing_dried,432,spherical,22,TEM,?,24,MuellerHinton,Staphylococcus,8.5
+micosynthesis,single,Heating,28,Shaker,72,50,1,fungal extract,organic,fungal extract,organic,?,50,BA,no,450,spherical,17.26,TEM,0.0051,12,LuriaBertani,Escherichia coli,7
+micosynthesis,single,Heating,28,Shaker,72,50,1,fungal extract,organic,fungal extract,organic,?,50,BA,no,450,spherical,17.26,TEM,0.0102,12,LuriaBertani,Escherichia coli,11.1
+micosynthesis,single,Heating,28,Shaker,72,50,1,fungal extract,organic,fungal extract,organic,?,50,BA,no,450,spherical,17.26,TEM,0.0255,12,LuriaBertani,Escherichia coli,14.5
+micosynthesis,single,Heating,28,Shaker,72,50,1,fungal extract,organic,fungal extract,organic,?,50,BA,no,450,spherical,17.26,TEM,0.0357,12,LuriaBertani,Escherichia coli,21
+micosynthesis,single,Heating,28,Shaker,72,50,1,fungal extract,organic,fungal extract,organic,?,50,BA,no,450,spherical,17.26,TEM,0.051,12,LuriaBertani,Escherichia coli,28
+micosynthesis,single,Heating,28,Shaker,72,50,1,fungal extract,organic,fungal extract,organic,?,50,BA,no,450,spherical,17.26,TEM,0.0051,12,LuriaBertani,Escherichia coli,14.5
+micosynthesis,single,Heating,28,Shaker,72,50,1,fungal extract,organic,fungal extract,organic,?,50,BA,no,450,spherical,17.26,TEM,0.0102,12,LuriaBertani,Escherichia coli,17.5
+micosynthesis,single,Heating,28,Shaker,72,50,1,fungal extract,organic,fungal extract,organic,?,50,BA,no,450,spherical,17.26,TEM,0.0255,12,LuriaBertani,Escherichia coli,19
+micosynthesis,single,Heating,28,Shaker,72,50,1,fungal extract,organic,fungal extract,organic,?,50,BA,no,450,spherical,17.26,TEM,0.0357,12,LuriaBertani,Escherichia coli,22
+micosynthesis,single,Heating,28,Shaker,72,50,1,fungal extract,organic,fungal extract,organic,?,50,BA,no,450,spherical,17.26,TEM,0.051,12,LuriaBertani,Escherichia coli,30
+micosynthesis,single,Heating,28,Shaker,72,50,1,fungal extract,organic,fungal extract,organic,?,50,BA,no,450,spherical,17.26,TEM,0.0051,48,LuriaBertani,Agrobacterium tumefaciens,6.5
+micosynthesis,single,Heating,28,Shaker,72,50,1,fungal extract,organic,fungal extract,organic,?,50,BA,no,450,spherical,17.26,TEM,0.0102,48,LuriaBertani,Agrobacterium tumefaciens,18
+micosynthesis,single,Heating,28,Shaker,72,50,1,fungal extract,organic,fungal extract,organic,?,50,BA,no,450,spherical,17.26,TEM,0.0255,48,LuriaBertani,Agrobacterium tumefaciens,20
+micosynthesis,single,Heating,28,Shaker,72,50,1,fungal extract,organic,fungal extract,organic,?,50,BA,no,450,spherical,17.26,TEM,0.0357,48,LuriaBertani,Agrobacterium tumefaciens,24
+micosynthesis,single,Heating,28,Shaker,72,50,1,fungal extract,organic,fungal extract,organic,?,50,BA,no,450,spherical,17.26,TEM,0.051,48,LuriaBertani,Agrobacterium tumefaciens,27
+micosynthesis,single,Heating,28,Shaker,72,50,1,fungal extract,organic,fungal extract,organic,?,50,BA,no,450,spherical,17.26,TEM,0.0051,48,LuriaBertani,Agrobacterium tumefaciens,7
+micosynthesis,single,Heating,28,Shaker,72,50,1,fungal extract,organic,fungal extract,organic,?,50,BA,no,450,spherical,17.26,TEM,0.0102,48,LuriaBertani,Agrobacterium tumefaciens,15
+micosynthesis,single,Heating,28,Shaker,72,50,1,fungal extract,organic,fungal extract,organic,?,50,BA,no,450,spherical,17.26,TEM,0.0255,48,LuriaBertani,Escherichia coli,19
+micosynthesis,single,Heating,28,Shaker,72,50,1,fungal extract,organic,fungal extract,organic,?,50,BA,no,450,spherical,17.26,TEM,0.0357,48,LuriaBertani,Escherichia coli,25
+micosynthesis,single,Heating,28,Shaker,72,50,1,fungal extract,organic,fungal extract,organic,?,50,BA,no,450,spherical,17.26,TEM,0.051,48,LuriaBertani,Escherichia coli,33
+phytosynthesis,single,No,25,Magnetic,24,?,2,plant,organic,plant,organic,100,?,BA,washed,470,spherical,?,?,?,24,Agar,Xanthomonas phaseoli pv. phaseoli,12
+phytosynthesis,single,No,25,Mechanic,24,260,0.1,plant,organic,plant,organic,?,10,AB,washed,378,spherical,26.95,TEM,?,24,MuellerHinton,Escherichia coli,8
+phytosynthesis,single,No,25,Mechanic,24,260,0.1,plant,organic,plant,organic,?,10,AB,washed,378,spherical,26.95,TEM,?,24,MuellerHinton,Escherichia coli,14
+phytosynthesis,single,No,25,Mechanic,24,260,0.1,plant,organic,plant,organic,?,10,AB,washed,378,spherical,26.95,TEM,?,24,MuellerHinton,Escherichia coli,16
+phytosynthesis,single,No,25,Mechanic,24,260,0.1,plant,organic,plant,organic,?,10,AB,washed,378,spherical,26.95,TEM,?,24,MuellerHinton,Escherichia coli,18
+phytosynthesis,single,No,25,Mechanic,24,260,0.1,plant,organic,plant,organic,?,10,AB,washed,378,spherical,26.95,TEM,?,24,MuellerHinton,Pseudomonas,10
+phytosynthesis,single,No,25,Mechanic,24,260,0.1,plant,organic,plant,organic,?,10,AB,washed,378,spherical,26.95,TEM,?,24,MuellerHinton,Pseudomonas,13
+phytosynthesis,single,No,25,Mechanic,24,260,0.1,plant,organic,plant,organic,?,10,AB,washed,378,spherical,26.95,TEM,?,24,MuellerHinton,Pseudomonas,17
+phytosynthesis,single,No,25,Mechanic,24,260,0.1,plant,organic,plant,organic,?,10,AB,washed,378,spherical,26.95,TEM,?,24,MuellerHinton,Pseudomonas,20
+phytosynthesis,single,No,25,Mechanic,24,260,0.1,plant,organic,plant,organic,?,10,AB,washed,378,spherical,26.95,TEM,?,24,MuellerHinton,Salmonella,0
+phytosynthesis,single,No,25,Mechanic,24,260,0.1,plant,organic,plant,organic,?,10,AB,washed,378,spherical,26.95,TEM,?,24,MuellerHinton,Salmonella,0
+phytosynthesis,single,No,25,Mechanic,24,260,0.1,plant,organic,plant,organic,?,10,AB,washed,378,spherical,26.95,TEM,?,24,MuellerHinton,Salmonella,10
+phytosynthesis,single,No,25,Mechanic,24,260,0.1,plant,organic,plant,organic,?,10,AB,washed,378,spherical,26.95,TEM,?,24,MuellerHinton,Salmonella,14
+phytosynthesis,single,No,25,Mechanic,24,260,0.1,plant,organic,plant,organic,?,10,AB,washed,378,spherical,26.95,TEM,?,24,MuellerHinton,Klebsiella,9
+phytosynthesis,single,No,25,Mechanic,24,260,0.1,plant,organic,plant,organic,?,10,AB,washed,378,spherical,26.95,TEM,?,24,MuellerHinton,Klebsiella,14
+phytosynthesis,single,No,25,Mechanic,24,260,0.1,plant,organic,plant,organic,?,10,AB,washed,378,spherical,26.95,TEM,?,24,MuellerHinton,Klebsiella,18
+phytosynthesis,single,No,25,Mechanic,24,260,0.1,plant,organic,plant,organic,?,10,AB,washed,378,spherical,26.95,TEM,?,24,MuellerHinton,Klebsiella,20
+phytosynthesis,single,No,25,Mechanic,24,260,0.1,plant,organic,plant,organic,?,10,AB,washed,378,spherical,26.95,TEM,?,24,MuellerHinton,Staphylococcus,10
+phytosynthesis,single,No,25,Mechanic,24,260,0.1,plant,organic,plant,organic,?,10,AB,washed,378,spherical,26.95,TEM,?,24,MuellerHinton,Staphylococcus,14
+phytosynthesis,single,No,25,Mechanic,24,260,0.1,plant,organic,plant,organic,?,10,AB,washed,378,spherical,26.95,TEM,?,24,MuellerHinton,Staphylococcus,19
+phytosynthesis,single,No,25,Mechanic,24,260,0.1,plant,organic,plant,organic,?,10,AB,washed,378,spherical,26.95,TEM,?,24,MuellerHinton,Staphylococcus,21
+phytosynthesis,single,No,25,Mechanic,24,260,0.1,plant,organic,plant,organic,?,10,AB,washed,378,spherical,26.95,TEM,?,24,MuellerHinton,Staphylococcus,6
+phytosynthesis,single,No,25,Mechanic,24,260,0.1,plant,organic,plant,organic,?,10,AB,washed,378,spherical,26.95,TEM,?,24,MuellerHinton,Staphylococcus,7
+phytosynthesis,single,No,25,Mechanic,24,260,0.1,plant,organic,plant,organic,?,10,AB,washed,378,spherical,26.95,TEM,?,24,MuellerHinton,Staphylococcus,11
+phytosynthesis,single,No,25,Mechanic,24,260,0.1,plant,organic,plant,organic,?,10,AB,washed,378,spherical,26.95,TEM,?,24,MuellerHinton,Staphylococcus,13
+phytosynthesis,single,No,25,No,0.91,100,1,plant,organic,plant,organic,?,5,AB,no,436,spherical,20.1,TEM,?,24,?,Salmonella,17
+phytosynthesis,single,No,25,No,0.5,100,1,plant,organic,plant,organic,?,5,AB,no,436,spherical,20.1,TEM,?,24,?,Pseudomonas,15
+phytosynthesis,single,No,25,No,0.5,100,1,plant,organic,plant,organic,?,5,AB,no,436,spherical,20.1,TEM,?,24,?,Streptococcus,11
+phytosynthesis,single,No,25,No,0.5,100,1,plant,organic,plant,organic,?,5,AB,no,436,spherical,20.1,TEM,?,24,?,Streptococcus,14
+phytosynthesis,single,UV,25,Mechanic,1,75,1,plant,organic,plant,organic,?,15,AB,no,480,spherical,70,TEM,0.108,24,Agar,Bacillus,2
+phytosynthesis,single,UV,25,Mechanic,1,75,1,plant,organic,plant,organic,?,15,AB,no,480,spherical,70,TEM,0.432,24,Agar,Pseudomonas,3
+phytosynthesis,single,UV,25,Mechanic,1,75,15,plant,organic,plant,organic,?,15,AB,no,450,spherical,?,?,1.08,24,Agar,Bacillus,7
+phytosynthesis,single,UV,25,Mechanic,1,75,15,plant,organic,plant,organic,?,15,AB,no,450,spherical,?,?,1.619,24,Agar,Pseudomonas,8
+phytosynthesis,single,UV,25,Mechanic,1,75,4,plant,organic,plant,organic,?,15,AB,no,?,spherical,?,?,0.108,24,Agar,Bacillus,4
+phytosynthesis,single,UV,25,Mechanic,1,75,4,plant,organic,plant,organic,?,15,AB,no,?,spherical,?,?,0.432,24,Agar,Pseudomonas,5
+phytosynthesis,single,UV,25,Mechanic,1,75,10,plant,organic,plant,organic,?,15,AB,no,?,spherical,?,?,1.08,24,Agar,Bacillus,5
+phytosynthesis,single,UV,25,Mechanic,1,75,10,plant,organic,plant,organic,?,15,AB,no,?,spherical,?,?,1.619,24,Agar,Pseudomonas,6
+phytosynthesis,single,UV,25,Magnetic,0.17,40,1,plant,organic,plant,organic,?,20,AB,no,280,spherical,18,TEM,0.108,21,Agar,Erwinia carotovora,10
+phytosynthesis,single,UV,25,Magnetic,0.17,40,1,plant,organic,plant,organic,?,20,AB,no,280,spherical,18,TEM,0.108,21,Agar,Proteus,13.6
+phytosynthesis,single,UV,25,Magnetic,0.17,40,1,plant,organic,plant,organic,?,20,AB,no,280,spherical,18,TEM,0.108,21,Agar,Klebsiella,14.3
+phytosynthesis,single,UV,25,Magnetic,0.17,40,1,plant,organic,plant,organic,?,20,AB,no,280,spherical,18,TEM,0.108,21,Agar,Bacillus,9
+phytosynthesis,single,UV,25,Magnetic,0.17,40,1,plant,organic,plant,organic,?,20,AB,no,280,spherical,18,TEM,0.108,21,Agar,Staphylococcus,14
+phytosynthesis,single,UV,25,Magnetic,0.17,40,1,plant,organic,plant,organic,?,20,AB,no,280,spherical,18,TEM,0.108,36,Agar,Candida,19
+phytosynthesis,single,UV,25,Magnetic,0.17,40,1,plant,organic,plant,organic,?,20,AB,no,280,spherical,14,TEM,0.108,21,Agar,Erwinia carotovora,9
+phytosynthesis,single,UV,25,Magnetic,0.17,40,1,plant,organic,plant,organic,?,20,AB,no,280,spherical,14,TEM,0.108,21,Agar,Proteus,12.3
+phytosynthesis,single,UV,25,Magnetic,0.17,40,1,plant,organic,plant,organic,?,20,AB,no,280,spherical,14,TEM,0.108,21,Agar,Klebsiella,13
+phytosynthesis,single,UV,25,Magnetic,0.17,40,1,plant,organic,plant,organic,?,20,AB,no,280,spherical,14,TEM,0.108,21,Agar,Bacillus,11
+phytosynthesis,single,UV,25,Magnetic,0.17,40,1,plant,organic,plant,organic,?,20,AB,no,280,spherical,14,TEM,0.108,21,Agar,Staphylococcus,8
+phytosynthesis,single,UV,25,Magnetic,0.17,40,1,plant,organic,plant,organic,?,20,AB,no,280,spherical,14,TEM,0.108,36,Agar,Candida,9
+phytosynthesis,single,Heating,80,Magnetic,3,10,100,algae extract,organic,algae extract,organic,20,7,AB,no,436,spherical,4.5,TEM,1000,24,LuriaBertani,Staphylococcus,17.5
+phytosynthesis,single,Heating,80,Magnetic,3,10,100,algae extract,organic,algae extract,organic,20,7,AB,no,436,spherical,4.5,TEM,500,24,LuriaBertani,Staphylococcus,13.8
+phytosynthesis,single,Heating,80,Magnetic,3,10,100,algae extract,organic,algae extract,organic,20,7,AB,no,436,spherical,4.5,TEM,100,24,LuriaBertani,Staphylococcus,12
+phytosynthesis,single,Heating,80,Magnetic,3,10,100,algae extract,organic,algae extract,organic,20,7,AB,no,436,spherical,4.5,TEM,1000,24,LuriaBertani,Escherichia coli,16
+phytosynthesis,single,Heating,80,Magnetic,3,10,100,algae extract,organic,algae extract,organic,20,7,AB,no,436,spherical,4.5,TEM,500,24,LuriaBertani,Escherichia coli,11.5
+phytosynthesis,single,Heating,80,Magnetic,3,10,100,algae extract,organic,algae extract,organic,20,7,AB,no,436,spherical,4.5,TEM,100,24,LuriaBertani,Escherichia coli,0
+wet chemical,single,Heating,200,Magnetic,?,52,9.3,chemical,organic,chemical,organic,?,?,AB,pH adjusted,419,spherical,35,TEM,0.02,24,LuriaBertani,Escherichia coli,10
+wet chemical,single,Heating,200,Magnetic,?,52,9.3,chemical,organic,chemical,organic,?,?,AB,pH adjusted,419,spherical,35,TEM,0.06,24,LuriaBertani,Escherichia coli,18
+wet chemical,single,Heating,200,Magnetic,?,52,9.3,chemical,organic,chemical,organic,?,?,AB,pH adjusted,419,spherical,35,TEM,0.1,24,LuriaBertani,Escherichia coli,22
+wet chemical,single,Heating,200,Magnetic,?,52,9.3,chemical,organic,chemical,organic,?,?,AB,pH adjusted,419,spherical,35,TEM,0.02,24,LuriaBertani,Escherichia coli,6
+wet chemical,single,Heating,200,Magnetic,?,52,9.3,chemical,organic,chemical,organic,?,?,AB,pH adjusted,419,spherical,35,TEM,0.06,24,LuriaBertani,Escherichia coli,12
+wet chemical,single,Heating,200,Magnetic,?,52,9.3,chemical,organic,chemical,organic,?,?,AB,pH adjusted,419,spherical,35,TEM,0.1,24,LuriaBertani,Escherichia coli,16
+wet chemical,single,Heating,200,Magnetic,?,52,9.3,chemical,organic,chemical,organic,?,?,AB,pH adjusted,419,spherical,35,TEM,0.02,24,LuriaBertani,Staphylococcus,12
+wet chemical,single,Heating,200,Magnetic,?,52,9.3,chemical,organic,chemical,organic,?,?,AB,pH adjusted,419,spherical,35,TEM,0.06,24,LuriaBertani,Staphylococcus,16
+wet chemical,single,Heating,200,Magnetic,?,52,9.3,chemical,organic,chemical,organic,?,?,AB,pH adjusted,419,spherical,35,TEM,0.1,24,LuriaBertani,Staphylococcus,18
+wet chemical,single,Heating,200,Magnetic,?,52,9.3,chemical,organic,chemical,organic,?,?,AB,pH adjusted,419,spherical,35,TEM,0.02,24,LuriaBertani,Staphylococcus,6
+wet chemical,single,Heating,200,Magnetic,?,52,9.3,chemical,organic,chemical,organic,?,?,AB,pH adjusted,419,spherical,35,TEM,0.06,24,LuriaBertani,Staphylococcus,12
+wet chemical,single,Heating,200,Magnetic,?,52,9.3,chemical,organic,chemical,organic,?,?,AB,pH adjusted,419,spherical,35,TEM,0.1,24,LuriaBertani,Staphylococcus,14
+phytosynthesis,single,sonication,25,No,?,?,3,plant,organic,plant,organic,0.051,?,?,washed,445,spherical,15,TEM,30,24,Sabouraud,Candida,8
+phytosynthesis,single,sonication,25,No,?,?,3,plant,organic,plant,organic,0.051,?,?,washed,445,spherical,15,TEM,30,24,Sabouraud,Saccharomyces,9
+phytosynthesis,single,sonication,25,No,?,?,3,plant,organic,plant,organic,0.051,?,?,washed,450,spherical,15,TEM,30,24,Sabouraud,Candida,9
+phytosynthesis,single,sonication,25,No,?,?,3,plant,organic,plant,organic,0.051,?,?,washed,450,spherical,15,TEM,30,24,Sabouraud,Saccharomyces,10
+phytosynthesis,single,sonication,25,No,?,?,3,plant,organic,plant,organic,0.051,?,?,washed,450,spherical,15,TEM,30,24,Sabouraud,Candida,12
+phytosynthesis,single,sonication,25,No,?,?,3,plant,organic,plant,organic,0.051,?,?,washed,450,spherical,15,TEM,30,24,Sabouraud,Saccharomyces,8
+phytosynthesis,single,sonication,25,No,?,?,3,plant,organic,plant,organic,0.051,?,?,washed,420,spherical,15,TEM,30,24,Sabouraud,Candida,12
+phytosynthesis,single,sonication,25,No,?,?,3,plant,organic,plant,organic,0.051,?,?,washed,420,spherical,15,TEM,30,24,Sabouraud,Saccharomyces,19
+phytosynthesis,single,sonication,25,No,?,?,3,plant,organic,plant,organic,0.51,?,?,washed,420,spherical,15,TEM,30,24,Sabouraud,Candida,8
+phytosynthesis,single,sonication,25,No,?,?,3,plant,organic,plant,organic,0.51,?,?,washed,420,spherical,15,TEM,30,24,Sabouraud,Saccharomyces,8
+phytosynthesis,single,sonication,25,No,?,?,3,plant,organic,plant,organic,0.51,?,?,washed,420,spherical,15,TEM,30,24,Sabouraud,Candida,8
+phytosynthesis,single,sonication,25,No,?,?,3,plant,organic,plant,organic,0.51,?,?,washed,420,spherical,15,TEM,30,24,Sabouraud,Saccharomyces,14
+phytosynthesis,single,No,25,Magnetic,?,15,25,plant,organic,plant,organic,?,5,BA,no,434,spherical,36,AFM,1.802,24,Agar,Bacillus,13
+phytosynthesis,single,No,25,Magnetic,?,15,25,plant,organic,plant,organic,?,5,BA,no,434,spherical,36,AFM,1.802,24,Agar,Lactobacillus,12
+phytosynthesis,single,No,25,Magnetic,?,15,25,plant,organic,plant,organic,?,5,BA,no,434,spherical,36,AFM,1.802,24,Agar,Staphylococcus,14
+phytosynthesis,single,No,25,Magnetic,?,15,25,plant,organic,plant,organic,?,5,BA,no,434,spherical,36,AFM,1.802,24,Agar,Pseudomonas,15
+phytosynthesis,single,No,25,Magnetic,?,15,25,plant,organic,plant,organic,?,5,BA,no,434,spherical,36,AFM,1.802,168,Agar,Aspergillus,18
+phytosynthesis,single,No,25,Magnetic,?,15,25,plant,organic,plant,organic,?,5,BA,no,434,spherical,36,AFM,1.802,168,Agar,Penicillium,20
+phytosynthesis,single,No,25,Magnetic,4,?,1,fungal extract,organic,fungal extract,organic,?,?,BA,no,420,spherical,32.5,SEM,0.1079,48,Agar,Phoma,22
+phytosynthesis,single,No,25,Magnetic,4,?,1,fungal extract,organic,fungal extract,organic,?,?,BA,no,420,spherical,32.5,SEM,0.1079,48,Agar,Phoma,14
+phytosynthesis,single,No,25,Magnetic,4,?,1,fungal extract,organic,fungal extract,organic,?,?,BA,no,420,spherical,32.5,SEM,0.1079,48,Agar,Fusarium,14
+phytosynthesis,single,No,25,Magnetic,4,?,1,fungal extract,organic,fungal extract,organic,?,?,BA,no,420,spherical,32.5,SEM,0.1079,48,Agar,Trichoderma,20
+phytosynthesis,single,No,25,Magnetic,4,?,1,fungal extract,organic,fungal extract,organic,?,?,BA,no,420,spherical,32.5,SEM,0.1079,48,Agar,Candida,26
+phytosynthesis,single,Heating,37,Magnetic,4,100,1,plant,organic,plant,organic,?,5,AB,dried,465,spherical,35,SEM,0.0974,24,LuriaBertani,Bacillus,8
+phytosynthesis,single,Heating,37,Magnetic,4,100,1,plant,organic,plant,organic,?,5,AB,dried,465,spherical,35,SEM,0.0974,24,LuriaBertani,Bacillus,8
+phytosynthesis,single,Heating,37,Magnetic,4,100,1,plant,organic,plant,organic,?,5,AB,dried,465,spherical,35,SEM,0.0974,24,LuriaBertani,Bacillus,8.5
+phytosynthesis,single,Heating,37,Magnetic,4,100,1,plant,organic,plant,organic,?,5,AB,dried,465,spherical,35,SEM,0.0974,24,LuriaBertani,Bacillus,11
+phytosynthesis,single,Heating,37,Magnetic,4,100,1,plant,organic,plant,organic,?,5,AB,dried,465,spherical,35,SEM,0.0974,24,LuriaBertani,Bacillus,13
+phytosynthesis,single,Heating,37,Magnetic,4,100,1,plant,organic,plant,organic,?,5,AB,dried,465,spherical,35,SEM,0.0974,24,LuriaBertani,Klebsiella,5
+phytosynthesis,single,Heating,37,Magnetic,4,100,1,plant,organic,plant,organic,?,5,AB,dried,465,spherical,35,SEM,0.0974,24,LuriaBertani,Klebsiella,6
+phytosynthesis,single,Heating,37,Magnetic,4,100,1,plant,organic,plant,organic,?,5,AB,dried,465,spherical,35,SEM,0.0974,24,LuriaBertani,Klebsiella,8
+phytosynthesis,single,Heating,37,Magnetic,4,100,1,plant,organic,plant,organic,?,5,AB,dried,465,spherical,35,SEM,0.0974,24,LuriaBertani,Klebsiella,9
+phytosynthesis,single,Heating,37,Magnetic,4,100,1,plant,organic,plant,organic,?,5,AB,dried,465,spherical,35,SEM,0.0974,24,LuriaBertani,Klebsiella,11
+phytosynthesis,single,Heating,35,Shaker,0.25,30,10,plant,organic,plant,organic,100,5,BA,no,435,spherical,29,SEM,0.9,48,Sabouraud,Candida,14
+phytosynthesis,single,Heating,35,Shaker,0.25,30,10,plant,organic,plant,organic,100,5,BA,no,435,spherical,29,SEM,0.9,48,Sabouraud,Candida,18
+phytosynthesis,single,Heating,35,Shaker,0.25,30,10,plant,organic,plant,organic,100,5,BA,no,435,spherical,29,SEM,0.9,48,Sabouraud,Candida,22
+phytosynthesis,single,Heating,35,Shaker,0.25,30,10,plant,organic,plant,organic,100,5,BA,no,435,spherical,29,SEM,0.9,48,Sabouraud,Candida,21
+phytosynthesis,single,Heating,35,Shaker,0.25,30,10,plant,organic,plant,organic,100,5,BA,no,435,spherical,29,SEM,0.9,48,Sabouraud,Candida,15
+phytosynthesis,single,Heating,35,Shaker,0.25,30,20,plant,organic,plant,organic,100,5,BA,no,435,spherical,29,SEM,1.8,48,Sabouraud,Candida,16
+phytosynthesis,single,Heating,35,Shaker,0.25,30,20,plant,organic,plant,organic,100,5,BA,no,435,spherical,29,SEM,1.8,48,Sabouraud,Candida,21
+phytosynthesis,single,Heating,35,Shaker,0.25,30,20,plant,organic,plant,organic,100,5,BA,no,435,spherical,29,SEM,1.8,48,Sabouraud,Candida,27
+phytosynthesis,single,Heating,35,Shaker,0.25,30,20,plant,organic,plant,organic,100,5,BA,no,435,spherical,29,SEM,1.8,48,Sabouraud,Candida,25
+phytosynthesis,single,Heating,35,Shaker,0.25,30,20,plant,organic,plant,organic,100,5,BA,no,435,spherical,29,SEM,1.8,48,Sabouraud,Candida,17
+phytosynthesis,single,Heating,80,Stirring,3,?,2,plant,organic,plant,organic,40,?,AB,washed,425,spherical,20.35,TEM,0.216,24,MuellerHinton,Staphylococcus,15
+phytosynthesis,single,Heating,80,Stirring,3,?,2,plant,organic,plant,organic,40,?,AB,washed,425,spherical,20.35,TEM,0.216,24,MuellerHinton,Bacillus,20
+phytosynthesis,single,Heating,80,Stirring,3,?,2,plant,organic,plant,organic,40,?,AB,washed,425,spherical,20.35,TEM,0.216,24,MuellerHinton,Escherichia coli,16
+phytosynthesis,single,Heating,80,Stirring,3,?,2,plant,organic,plant,organic,40,?,AB,washed,425,spherical,20.35,TEM,0.216,24,MuellerHinton,Pseudomonas,19
+phytosynthesis,single,Heating,80,Stirring,3,?,2,plant,organic,plant,organic,40,?,AB,washed,425,spherical,20.35,TEM,0.216,36,MuellerHinton,Candida,13
+phytosynthesis,single,Heating,80,Stirring,?,100,1,plant,organic,plant,organic,100,20,AB,no,438,spherical,13,TEM,0.0125,12,?,Setosphaeria turcica,7
+phytosynthesis,single,Heating,80,Stirring,?,100,1,plant,organic,plant,organic,100,20,AB,no,438,spherical,13,TEM,0.025,12,?,Setosphaeria turcica,9
+phytosynthesis,single,Heating,80,Stirring,?,100,1,plant,organic,plant,organic,100,20,AB,no,438,spherical,13,TEM,0.05,12,?,Setosphaeria turcica,12
+phytosynthesis,single,Heating,80,Stirring,?,100,1,plant,organic,plant,organic,100,20,AB,no,438,spherical,13,TEM,0.1,12,?,Setosphaeria turcica,14
+phytosynthesis,single,Heating,80,Stirring,?,100,1,plant,organic,plant,organic,100,20,AB,no,438,spherical,13,TEM,0.2,12,?,Setosphaeria turcica,17
+wet chemical,single,No,25,Stirring,24,4,2500,chemical,organic,chemical,organic,?,2,AB,no,428,spherical,60,SEM,5.4,24,MuellerHinton,Staphylococcus,16
+wet chemical,single,No,25,Stirring,24,4,2500,chemical,organic,chemical,organic,?,2,AB,no,428,spherical,60,SEM,5.4,24,MuellerHinton,Escherichia coli,15
+wet chemical,single,No,25,Stirring,24,4,2500,chemical,organic,chemical,organic,?,2,AB,no,428,spherical,60,SEM,5.4,24,MuellerHinton,Bacillus,20
+wet chemical,single,No,25,Stirring,24,4,2500,chemical,organic,chemical,organic,?,2,AB,no,428,spherical,60,SEM,5.4,24,MuellerHinton,Staphylococcus,15
+wet chemical,single,No,25,Stirring,24,4,2500,chemical,organic,chemical,organic,?,2,AB,no,428,spherical,60,SEM,5.4,24,MuellerHinton,Pseudomonas,18.5
+wet chemical,single,No,25,Stirring,24,4,2500,chemical,organic,chemical,organic,?,2,AB,no,428,spherical,60,SEM,5.4,24,MuellerHinton,Actinomycetes,17
+wet chemical,single,No,25,Stirring,24,4,2500,chemical,organic,chemical,organic,?,2,AB,no,428,spherical,60,SEM,5.4,24,MuellerHinton,Aspergillus,15
+phytosynthesis,multi,Heating,60,Stirring,0.17,110,1,plant,organic,plant,organic,40,10,AB,no,440,spherical,45,SEM,0.00982,24,LuriaBertani,Staphylococcus,10
+phytosynthesis,multi,Heating,60,Stirring,0.17,110,1,plant,organic,plant,organic,40,10,AB,no,440,spherical,45,SEM,0.00982,24,LuriaBertani,Bacillus,8
+phytosynthesis,multi,Heating,60,Stirring,0.17,110,1,plant,organic,plant,organic,40,10,AB,no,440,spherical,45,SEM,0.00982,24,LuriaBertani,Klebsiella,14
+phytosynthesis,multi,Heating,60,Stirring,0.17,110,1,plant,organic,plant,organic,40,10,AB,no,440,spherical,45,SEM,0.00982,24,LuriaBertani,Pseudomonas,14
+phytosynthesis,multi,Heating,60,Stirring,0.17,110,1,plant,organic,plant,organic,40,10,AB,no,445,spherical,45,SEM,0.00982,24,LuriaBertani,Staphylococcus,6
+phytosynthesis,multi,Heating,60,Stirring,0.17,110,1,plant,organic,plant,organic,40,10,AB,no,445,spherical,45,SEM,0.00982,24,LuriaBertani,Bacillus,7
+phytosynthesis,multi,Heating,60,Stirring,0.17,110,1,plant,organic,plant,organic,40,10,AB,no,445,spherical,45,SEM,0.00982,24,LuriaBertani,Klebsiella,13
+phytosynthesis,multi,Heating,60,Stirring,0.17,110,1,plant,organic,plant,organic,40,10,AB,no,445,spherical,45,SEM,0.00982,24,LuriaBertani,Pseudomonas,12
+phytosynthesis,single,Heating,85,Magnetic,2,50,1,plant,organic,plant,organic,?,25,AB,no,372,spherical,13.6,TEM,0.054,48,MuellerHinton,Staphylococcus,15
+phytosynthesis,single,Heating,85,Magnetic,2,50,1,plant,organic,plant,organic,?,25,AB,no,372,spherical,13.6,TEM,0.054,48,MuellerHinton,Staphylococcus,12
+phytosynthesis,single,Heating,85,Magnetic,2,50,1,plant,organic,plant,organic,?,25,AB,no,372,spherical,13.6,TEM,0.054,48,MuellerHinton,Escherichia coli,12
+phytosynthesis,single,Heating,85,Magnetic,2,50,1,plant,organic,plant,organic,?,25,AB,no,372,spherical,13.6,TEM,0.054,48,MuellerHinton,Proteus,11
+phytosynthesis,single,No,25,Stirring,72,510,1,plant,organic,plant,organic,100,500,BA,no,450,spherical,10.27,SEM,0.02,24,CorkBorer,Escherichia coli,8
+phytosynthesis,single,No,25,Stirring,72,510,1,plant,organic,plant,organic,100,500,BA,no,450,spherical,10.27,SEM,0.04,24,CorkBorer,Escherichia coli,10
+phytosynthesis,single,No,25,Stirring,72,510,1,plant,organic,plant,organic,100,500,BA,no,450,spherical,10.27,SEM,0.06,24,CorkBorer,Escherichia coli,12
+phytosynthesis,single,No,25,Stirring,72,510,1,plant,organic,plant,organic,100,500,BA,no,450,spherical,10.27,SEM,0.02,24,CorkBorer,Staphylococcus,6
+phytosynthesis,single,No,25,Stirring,72,510,1,plant,organic,plant,organic,100,500,BA,no,450,spherical,10.27,SEM,0.04,24,CorkBorer,Staphylococcus,9
+phytosynthesis,single,No,25,Stirring,72,510,1,plant,organic,plant,organic,100,500,BA,no,450,spherical,10.27,SEM,0.06,24,CorkBorer,Staphylococcus,11
+phytosynthesis,single,No,25,Stirring,72,510,1,plant,organic,plant,organic,100,500,BA,no,450,spherical,10.27,SEM,0.02,24,CorkBorer,Pseudomonas,4
+phytosynthesis,single,No,25,Stirring,72,510,1,plant,organic,plant,organic,100,500,BA,no,450,spherical,10.27,SEM,0.04,24,CorkBorer,Pseudomonas,6
+phytosynthesis,single,No,25,Stirring,72,510,1,plant,organic,plant,organic,100,500,BA,no,450,spherical,10.27,SEM,0.06,24,CorkBorer,Pseudomonas,9
+phytosynthesis,single,No,25,Stirring,72,510,1,plant,organic,plant,organic,100,500,BA,no,450,spherical,10.27,SEM,0.02,24,CorkBorer,Klebsiella,9
+phytosynthesis,single,No,25,Stirring,72,510,1,plant,organic,plant,organic,100,500,BA,no,450,spherical,10.27,SEM,0.04,24,CorkBorer,Klebsiella,10
+phytosynthesis,single,No,25,Stirring,72,510,1,plant,organic,plant,organic,100,500,BA,no,450,spherical,10.27,SEM,0.06,24,CorkBorer,Klebsiella,12
+phytosynthesis,single,No,25,Stirring,72,510,1,plant,organic,plant,organic,100,500,BA,no,450,spherical,10.27,SEM,0.02,24,CorkBorer,Klebsiella,10
+phytosynthesis,single,No,25,Stirring,72,510,1,plant,organic,plant,organic,100,500,BA,no,450,spherical,10.27,SEM,0.04,24,CorkBorer,Klebsiella,11
+phytosynthesis,single,No,25,Stirring,72,510,1,plant,organic,plant,organic,100,500,BA,no,450,spherical,10.27,SEM,0.06,24,CorkBorer,Klebsiella,13
+phytosynthesis,single,No,25,Stirring,72,510,1,plant,organic,plant,organic,100,500,BA,no,450,spherical,10.27,SEM,0.02,24,CorkBorer,Acinetobacter,11
+phytosynthesis,single,No,25,Stirring,72,510,1,plant,organic,plant,organic,100,500,BA,no,450,spherical,10.27,SEM,0.04,24,CorkBorer,Acinetobacter,12
+phytosynthesis,single,No,25,Stirring,72,510,1,plant,organic,plant,organic,100,500,BA,no,450,spherical,10.27,SEM,0.06,24,CorkBorer,Acinetobacter,13
+phytosynthesis,single,No,25,Shaker,4,110,1,plant,organic,plant,organic,50,8.33,AB,no,415,spherical,5,SEM,0.1,24,Agar,Salmonella,21
+phytosynthesis,single,No,25,Shaker,4,110,1,plant,organic,plant,organic,50,8.33,AB,no,415,spherical,5,SEM,0.1,24,Agar,Bacillus,16
+phytosynthesis,single,No,25,Shaker,4,110,1,plant,organic,plant,organic,50,8.33,AB,no,415,spherical,5,SEM,0.1,24,Agar,Staphylococcus,18
+phytosynthesis,single,No,25,Shaker,4,110,1,plant,organic,plant,organic,50,8.33,AB,no,415,spherical,5,SEM,0.1,24,Agar,Escherichia coli,17.5
+phytosynthesis,single,No,25,Shaker,4,110,1,plant,organic,plant,organic,50,8.33,AB,no,415,spherical,5,SEM,0.1,24,Agar,Pseudomonas,17
+phytosynthesis,single,No,25,Shaker,4,110,1,plant,organic,plant,organic,50,8.33,AB,no,415,spherical,5,SEM,0.1,24,Agar,Aspergillus,12
+phytosynthesis,single,No,25,Shaker,4,110,1,plant,organic,plant,organic,50,8.33,AB,no,415,spherical,5,SEM,0.1,24,Agar,Aspergillus,13
+phytosynthesis,single,No,25,Shaker,4,110,1,plant,organic,plant,organic,50,8.33,AB,no,415,spherical,5,SEM,0.1,24,Agar,Candida,18
+phytosynthesis,single,No,25,Magnetic,48,50,1,plant,organic,plant,organic,100,5,AB,washed,418,spherical;oval,25.2,TEM,0.1,24,MuellerHinton,Escherichia coli,13
+phytosynthesis,single,No,25,Magnetic,48,50,1,plant,organic,plant,organic,100,5,AB,washed,418,spherical;oval,25.2,TEM,0.1,24,MuellerHinton,Enterococcus,12
+phytosynthesis,single,No,25,Magnetic,48,50,1,plant,organic,plant,organic,100,5,AB,washed,418,spherical;oval,25.2,TEM,0.1,24,MuellerHinton,Staphylococcus,12
+phytosynthesis,single,No,25,Magnetic,48,50,1,plant,organic,plant,organic,100,5,AB,washed,418,spherical;oval,25.2,TEM,0.1,24,MuellerHinton,Klebsiella,14
+biosynthesis,single,Heating,60,Magnetic,4,100,1,plant,organic,plant,organic,100,10,AB,washed,535.5,spherical,15.98,XRD,1,24,MuellerHinton,Escherichia coli,20
+biosynthesis,single,Heating,60,Magnetic,4,100,1,plant,organic,plant,organic,100,10,AB,washed,535.5,spherical,15.98,XRD,1,24,MuellerHinton,Staphylococcus,14
+biosynthesis,single,Heating,60,Magnetic,4,100,1,plant,organic,plant,organic,100,10,AB,washed,535.5,spherical,15.98,XRD,1,24,MuellerHinton,Candida,24
+wet chemical,multi,Heating,100,Stirring,0.58,50,1,biomolecule,organic,biomolecule,organic,0.02,10,AB,no,440,spherical,35,TEM,0.086,24,MuellerHinton,Bacillus,9.899494937
+wet chemical,multi,Heating,100,Stirring,0.58,50,1,biomolecule,organic,biomolecule,organic,0.02,10,AB,no,440,spherical,35,TEM,0.086,24,MuellerHinton,Bacillus,11.83215957
+wet chemical,multi,Heating,100,Stirring,0.58,50,1,biomolecule,organic,biomolecule,organic,0.02,10,AB,no,440,spherical,35,TEM,0.086,24,MuellerHinton,Staphylococcus,10.48808848
+wet chemical,multi,Heating,100,Stirring,0.58,50,1,biomolecule,organic,biomolecule,organic,0.02,10,AB,no,440,spherical,35,TEM,0.086,24,MuellerHinton,Escherichia coli,10.95445115
+wet chemical,multi,Heating,100,Stirring,0.58,50,1,biomolecule,organic,biomolecule,organic,0.02,10,AB,no,440,spherical,35,TEM,0.086,24,MuellerHinton,Vibrio,10
+wet chemical,multi,Heating,100,Stirring,0.58,50,1,biomolecule,organic,biomolecule,organic,0.02,10,AB,no,440,spherical,35,TEM,0.086,24,MuellerHinton,Vibrio,9.486832981
+wet chemical,multi,Heating,100,Stirring,0.58,50,1,biomolecule,organic,biomolecule,organic,0.02,10,AB,no,440,spherical,35,TEM,0.086,24,MuellerHinton,Vibrio,10
+wet chemical,multi,Heating,100,Stirring,0.58,50,1,biomolecule,organic,biomolecule,organic,0.02,10,AB,no,440,spherical,35,TEM,0.086,24,MuellerHinton,Pseudomonas,10.95445115
+wet chemical,multi,Heating,100,Stirring,0.58,50,1,biomolecule,organic,biomolecule,organic,0.02,10,AB,no,440,spherical,35,TEM,0.086,24,MuellerHinton,Salmonella,10.48808848
+phytosynthesis,multi,Heating,80,Stirring,0.42,6.5,6,plant,organic,plant,organic,?,2,ABD,washed,416,spherical,13,TEM,30,24,?,Bacillus,4
+phytosynthesis,multi,Heating,80,Stirring,0.42,6.5,6,plant,organic,plant,organic,?,2,ABD,washed,416,spherical,13,TEM,30,24,?,Shigella flexneri,5.5
+phytosynthesis,single,Autoclave,121,No,0.5,?,1,plant,organic,plant,organic,1,?,?,no,412,spherical,5.7,TEM,0.1079,24,MuellerHinton,Staphylococcus,12.25
+phytosynthesis,single,Autoclave,121,No,0.5,?,1,plant,organic,plant,organic,1,?,?,no,412,spherical,5.7,TEM,0.1079,24,MuellerHinton,Escherichia coli,11
+phytosynthesis,single,Autoclave,121,No,0.5,?,1,plant,organic,plant,organic,1,?,?,no,412,spherical,5.7,TEM,0.1079,24,MuellerHinton,Escherichia coli,7.6
+phytosynthesis,single,Autoclave,121,No,0.5,?,1,plant,organic,plant,organic,1,?,?,no,412,spherical,5.7,TEM,0.1079,24,MuellerHinton,Pseudomonas,12
+wet chemical,single,Heating,60,Stirring,?,?,1,none,none,chemical,organic,?,?,?,washed,425,Irregular,47.29,AFM,0.01079,24,MuellerHinton,Escherichia coli,1
+wet chemical,single,Heating,60,Stirring,?,?,1,none,none,chemical,organic,?,?,?,washed,425,Irregular,47.29,AFM,0.01079,24,MuellerHinton,Staphylococcus,1.75
+wet chemical,single,Heating,60,Stirring,?,?,1,none,none,chemical,organic,?,?,?,washed,425,Irregular,47.29,AFM,0.01079,24,MuellerHinton,Escherichia coli,1.75
+wet chemical,single,Heating,60,Stirring,?,?,1,none,none,chemical,organic,?,?,?,washed,425,Irregular,47.29,AFM,0.01079,24,MuellerHinton,Staphylococcus,2.5
+wet chemical,single,Microwave,?,No,0.025,7,29,chemical,organic,chemical,organic,?,5,BA,washed,420,spherical,9,TEM,0.02,24,MuellerHinton,Bacillus,18
+wet chemical,single,Microwave,?,No,0.025,7,29,chemical,organic,chemical,organic,?,5,BA,washed,420,spherical,9,TEM,0.02,24,MuellerHinton,Bacillus,14
+wet chemical,single,Microwave,?,No,0.025,7,29,chemical,organic,chemical,organic,?,5,BA,washed,420,spherical,9,TEM,0.02,24,MuellerHinton,Escherichia coli,18
+wet chemical,single,Microwave,?,No,0.025,7,29,chemical,organic,chemical,organic,?,5,BA,washed,420,spherical,9,TEM,0.02,24,MuellerHinton,Pseudomonas,10
+wet chemical,single,Microwave,?,No,0.025,7,29,chemical,organic,chemical,organic,?,5,BA,washed,420,spherical,9,TEM,0.04,24,MuellerHinton,Bacillus,19
+wet chemical,single,Microwave,?,No,0.025,7,29,chemical,organic,chemical,organic,?,5,BA,washed,420,spherical,9,TEM,0.04,24,MuellerHinton,Bacillus,18
+wet chemical,single,Microwave,?,No,0.025,7,29,chemical,organic,chemical,organic,?,5,BA,washed,420,spherical,9,TEM,0.04,24,MuellerHinton,Escherichia coli,21
+wet chemical,single,Microwave,?,No,0.025,7,29,chemical,organic,chemical,organic,?,5,BA,washed,420,spherical,9,TEM,0.04,24,MuellerHinton,Pseudomonas,12
+wet chemical,single,Microwave,?,No,0.025,7,29,chemical,organic,chemical,organic,?,5,BA,washed,420,spherical,9,TEM,0.06,24,MuellerHinton,Bacillus,21
+wet chemical,single,Microwave,?,No,0.025,7,29,chemical,organic,chemical,organic,?,5,BA,washed,420,spherical,9,TEM,0.06,24,MuellerHinton,Bacillus,20
+wet chemical,single,Microwave,?,No,0.025,7,29,chemical,organic,chemical,organic,?,5,BA,washed,420,spherical,9,TEM,0.06,24,MuellerHinton,Escherichia coli,25
+wet chemical,single,Microwave,?,No,0.025,7,29,chemical,organic,chemical,organic,?,5,BA,washed,420,spherical,9,TEM,0.06,24,MuellerHinton,Pseudomonas,14
+wet chemical,single,Microwave,?,No,0.025,7,29,chemical,organic,chemical,organic,?,5,BA,washed,420,spherical,9,TEM,0.08,24,MuellerHinton,Bacillus,23
+wet chemical,single,Microwave,?,No,0.025,7,29,chemical,organic,chemical,organic,?,5,BA,washed,420,spherical,9,TEM,0.08,24,MuellerHinton,Bacillus,25
+wet chemical,single,Microwave,?,No,0.025,7,29,chemical,organic,chemical,organic,?,5,BA,washed,420,spherical,9,TEM,0.08,24,MuellerHinton,Escherichia coli,28
+wet chemical,single,Microwave,?,No,0.025,7,29,chemical,organic,chemical,organic,?,5,BA,washed,420,spherical,9,TEM,0.08,24,MuellerHinton,Pseudomonas,15
+phytosynthesis,single,Heating,60,Mechanic,0.33,110,1,plant,organic,plant,organic,0.5,5,BA,washing_dried,433,spherical,23.44,SEM,0.08,24,MuellerHinton,Bacillus,4
+phytosynthesis,single,Heating,60,Mechanic,0.33,110,1,plant,organic,plant,organic,1,10,BA,washing_dried,425,spherical,17.85,SEM,?,24,MuellerHinton,Bacillus,4
+phytosynthesis,single,Heating,60,Mechanic,0.33,110,1,plant,organic,plant,organic,0.5,5,BA,washing_dried,433,spherical,23.44,SEM,?,24,MuellerHinton,Staphylococcus,11
+phytosynthesis,single,Heating,60,Mechanic,0.33,110,1,plant,organic,plant,organic,1,10,BA,washing_dried,425,spherical,17.85,SEM,?,24,MuellerHinton,Staphylococcus,3
+phytosynthesis,single,Heating,60,Mechanic,0.33,110,1,plant,organic,plant,organic,0.5,5,BA,washing_dried,433,spherical,23.44,SEM,?,24,MuellerHinton,Pseudomonas,10
+phytosynthesis,single,Heating,60,Mechanic,0.33,110,1,plant,organic,plant,organic,1,10,BA,washing_dried,425,spherical,17.85,SEM,?,24,MuellerHinton,Pseudomonas,6
+phytosynthesis,single,Heating,60,Mechanic,0.33,110,1,plant,organic,plant,organic,0.5,5,BA,washing_dried,433,spherical,23.44,SEM,?,24,MuellerHinton,Escherichia coli,9
+phytosynthesis,single,Heating,60,Mechanic,0.33,110,1,plant,organic,plant,organic,1,10,BA,washing_dried,425,spherical,17.85,SEM,?,24,MuellerHinton,Escherichia coli,5
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.0001,24,?,Klebsiella,15
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.0001,24,?,Acinetobacter,11
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.0001,24,?,Pseudomonas,11
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.0001,24,?,Escherichia coli,11
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.0001,24,?,Acinetobacter,13
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.0005,24,?,Klebsiella,16
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.0005,24,?,Acinetobacter,18
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.0005,24,?,Pseudomonas,12
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.0005,24,?,Escherichia coli,13
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.0005,24,?,Acinetobacter,14
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.001,24,?,Klebsiella,18
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.001,24,?,Acinetobacter,20
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.001,24,?,Pseudomonas,19
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.001,24,?,Escherichia coli,14
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.001,24,?,Acinetobacter,15
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.0015,24,?,Klebsiella,19
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.0015,24,?,Acinetobacter,21
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.0015,24,?,Pseudomonas,20
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.0015,24,?,Escherichia coli,15
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.0015,24,?,Acinetobacter,17
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.002,24,?,Klebsiella,25
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.002,24,?,Acinetobacter,22
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.002,24,?,Pseudomonas,21
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.002,24,?,Escherichia coli,16
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.002,24,?,Acinetobacter,14
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.003,24,?,Klebsiella,27
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.003,24,?,Acinetobacter,25
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.003,24,?,Pseudomonas,22
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.003,24,?,Escherichia coli,22
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.003,24,?,Acinetobacter,18
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.004,24,?,Klebsiella,29
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.004,24,?,Acinetobacter,26
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.004,24,?,Pseudomonas,24
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.004,24,?,Escherichia coli,24
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.004,24,?,Acinetobacter,18.5
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.005,24,?,Klebsiella,30
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.005,24,?,Acinetobacter,28
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.005,24,?,Pseudomonas,25
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.005,24,?,Escherichia coli,25
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.005,24,?,Acinetobacter,21
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.006,24,?,Klebsiella,32
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.006,24,?,Acinetobacter,29
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.006,24,?,Pseudomonas,27
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.006,24,?,Escherichia coli,25
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.006,24,?,Acinetobacter,22
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.007,24,?,Klebsiella,33
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.007,24,?,Acinetobacter,31
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.007,24,?,Pseudomonas,30
+micosynthesis,single,No,25,Mechanic,?,?,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.007,24,?,Escherichia coli,27
+micosynthesis,single,No,25,No,?,10,1,fungal extract,organic,fungal extract,organic,0.6,100,AB,no,400,cubic,0.681,AFM,0.007,24,?,Acinetobacter,25
+phytosynthesis,single,No,25,No,4,100,1,plant,organic,plant,organic,?,10,AB,washed,430,spherical,34.2,TEM,0.5,24,MuellerHinton,Bacillus,24
+phytosynthesis,single,No,25,No,4,100,1,plant,organic,plant,organic,?,10,AB,washed,430,spherical,34.2,TEM,0.5,24,MuellerHinton,Staphylococcus,27
+phytosynthesis,single,No,25,No,4,100,1,plant,organic,plant,organic,?,10,AB,washed,430,spherical,34.2,TEM,0.5,24,MuellerHinton,Shigella flexneri,16
+phytosynthesis,single,No,25,No,4,100,1,plant,organic,plant,organic,?,10,AB,washed,430,spherical,34.2,TEM,0.5,24,MuellerHinton,Escherichia coli,19
+phytosynthesis,single,No,25,Mechanic,2.5,10,1,plant,organic,plant,organic,?,?,AB,washed,420,spherical,36.5,TEM,0.05,24,MuellerHinton,Staphylococcus,15
+phytosynthesis,single,No,25,Mechanic,2.5,10,1,plant,organic,plant,organic,?,?,AB,washed,420,spherical,36.5,TEM,0.1,24,MuellerHinton,Staphylococcus,16
+phytosynthesis,single,No,25,Mechanic,2.5,10,1,plant,organic,plant,organic,?,?,AB,washed,420,spherical,36.5,TEM,0.15,24,MuellerHinton,Staphylococcus,18
+phytosynthesis,single,No,25,Mechanic,2.5,10,1,plant,organic,plant,organic,?,?,AB,washed,420,spherical,36.5,TEM,0.2,24,MuellerHinton,Staphylococcus,20
+phytosynthesis,single,No,25,Mechanic,2.5,10,1,plant,organic,plant,organic,?,?,AB,washed,420,spherical,36.5,TEM,0.25,24,MuellerHinton,Staphylococcus,21
+phytosynthesis,single,No,25,Mechanic,2.5,10,1,plant,organic,plant,organic,?,?,AB,washed,420,spherical,36.5,TEM,0.3,24,MuellerHinton,Staphylococcus,23
+phytosynthesis,single,No,25,Mechanic,2.5,10,1,plant,organic,plant,organic,?,?,AB,washed,420,spherical,36.5,TEM,0.05,24,MuellerHinton,Bacillus,13
+phytosynthesis,single,No,25,Mechanic,2.5,10,1,plant,organic,plant,organic,?,?,AB,washed,420,spherical,36.5,TEM,0.1,24,MuellerHinton,Bacillus,15
+phytosynthesis,single,No,25,Mechanic,2.5,10,1,plant,organic,plant,organic,?,?,AB,washed,420,spherical,36.5,TEM,0.15,24,MuellerHinton,Bacillus,17
+phytosynthesis,single,No,25,Mechanic,2.5,10,1,plant,organic,plant,organic,?,?,AB,washed,420,spherical,36.5,TEM,0.2,24,MuellerHinton,Bacillus,18
+phytosynthesis,single,No,25,Mechanic,2.5,10,1,plant,organic,plant,organic,?,?,AB,washed,420,spherical,36.5,TEM,0.25,24,MuellerHinton,Bacillus,20
+phytosynthesis,single,No,25,Mechanic,2.5,10,1,plant,organic,plant,organic,?,?,AB,washed,420,spherical,36.5,TEM,0.3,24,MuellerHinton,Bacillus,21
+phytosynthesis,single,No,25,Mechanic,2.5,10,1,plant,organic,plant,organic,?,?,AB,washed,420,spherical,36.5,TEM,0.05,24,MuellerHinton,Streptococcus,12
+phytosynthesis,single,No,25,Mechanic,2.5,10,1,plant,organic,plant,organic,?,?,AB,washed,420,spherical,36.5,TEM,0.1,24,MuellerHinton,Streptococcus,14
+phytosynthesis,single,No,25,Mechanic,2.5,10,1,plant,organic,plant,organic,?,?,AB,washed,420,spherical,36.5,TEM,0.15,24,MuellerHinton,Streptococcus,15
+phytosynthesis,single,No,25,Mechanic,2.5,10,1,plant,organic,plant,organic,?,?,AB,washed,420,spherical,36.5,TEM,0.2,24,MuellerHinton,Streptococcus,17
+phytosynthesis,single,No,25,Mechanic,2.5,10,1,plant,organic,plant,organic,?,?,AB,washed,420,spherical,36.5,TEM,0.25,24,MuellerHinton,Streptococcus,18
+phytosynthesis,single,No,25,Mechanic,2.5,10,1,plant,organic,plant,organic,?,?,AB,washed,420,spherical,36.5,TEM,0.3,24,MuellerHinton,Streptococcus,20
+phytosynthesis,single,No,25,Mechanic,2.5,10,1,plant,organic,plant,organic,?,?,AB,washed,420,spherical,36.5,TEM,0.05,24,MuellerHinton,Escherichia coli,16
+phytosynthesis,single,No,25,Mechanic,2.5,10,1,plant,organic,plant,organic,?,?,AB,washed,420,spherical,36.5,TEM,0.1,24,MuellerHinton,Escherichia coli,17
+phytosynthesis,single,No,25,Mechanic,2.5,10,1,plant,organic,plant,organic,?,?,AB,washed,420,spherical,36.5,TEM,0.15,24,MuellerHinton,Escherichia coli,19
+phytosynthesis,single,No,25,Mechanic,2.5,10,1,plant,organic,plant,organic,?,?,AB,washed,420,spherical,36.5,TEM,0.2,24,MuellerHinton,Escherichia coli,21
+phytosynthesis,single,No,25,Mechanic,2.5,10,1,plant,organic,plant,organic,?,?,AB,washed,420,spherical,36.5,TEM,0.25,24,MuellerHinton,Escherichia coli,23
+phytosynthesis,single,No,25,Mechanic,2.5,10,1,plant,organic,plant,organic,?,?,AB,washed,420,spherical,36.5,TEM,0.3,24,MuellerHinton,Escherichia coli,25
+phytosynthesis,single,No,25,Mechanic,2.5,10,1,plant,organic,plant,organic,?,?,AB,washed,420,spherical,36.5,TEM,0.05,24,MuellerHinton,Pseudomonas,19
+phytosynthesis,single,No,25,Mechanic,2.5,10,1,plant,organic,plant,organic,?,?,AB,washed,420,spherical,36.5,TEM,0.1,24,MuellerHinton,Pseudomonas,21
+phytosynthesis,single,No,25,Mechanic,2.5,10,1,plant,organic,plant,organic,?,?,AB,washed,420,spherical,36.5,TEM,0.15,24,MuellerHinton,Pseudomonas,22
+phytosynthesis,single,No,25,Mechanic,2.5,10,1,plant,organic,plant,organic,?,?,AB,washed,420,spherical,36.5,TEM,0.2,24,MuellerHinton,Pseudomonas,23
+phytosynthesis,single,No,25,Mechanic,2.5,10,1,plant,organic,plant,organic,?,?,AB,washed,420,spherical,36.5,TEM,0.25,24,MuellerHinton,Pseudomonas,26
+phytosynthesis,single,No,25,Mechanic,2.5,10,1,plant,organic,plant,organic,?,?,AB,washed,420,spherical,36.5,TEM,0.3,24,MuellerHinton,Pseudomonas,28
+phytosynthesis,single,No,25,Mechanic,2.5,10,1,plant,organic,plant,organic,?,?,AB,washed,420,spherical,36.5,TEM,0.05,24,MuellerHinton,Salmonella,17
+phytosynthesis,single,No,25,Mechanic,2.5,10,1,plant,organic,plant,organic,?,?,AB,washed,420,spherical,36.5,TEM,0.1,24,MuellerHinton,Salmonella,19
+phytosynthesis,single,No,25,Mechanic,2.5,10,1,plant,organic,plant,organic,?,?,AB,washed,420,spherical,36.5,TEM,0.15,24,MuellerHinton,Salmonella,20
+phytosynthesis,single,No,25,Mechanic,2.5,10,1,plant,organic,plant,organic,?,?,AB,washed,420,spherical,36.5,TEM,0.2,24,MuellerHinton,Salmonella,21
+phytosynthesis,single,No,25,Mechanic,2.5,10,1,plant,organic,plant,organic,?,?,AB,washed,420,spherical,36.5,TEM,0.25,24,MuellerHinton,Salmonella,24
+phytosynthesis,single,No,25,No,54,100,1,plant,organic,plant,organic,?,?,AB,washed,420,spherical,36.5,TEM,0.3,24,MuellerHinton,Salmonella,26
+micosynthesis,single,No,25,No,54,100,2,fungal extract,organic,fungal extract,organic,?,20,BA,washed,450,Spherical;oval,45,TEM,0.05,24,MuellerHinton,Escherichia coli,17
+micosynthesis,single,No,25,No,54,100,2,fungal extract,organic,fungal extract,organic,?,20,BA,washed,450,Spherical;oval,45,TEM,0.05,24,MuellerHinton,Shigella flexneri,18
+micosynthesis,single,No,25,No,54,100,2,fungal extract,organic,fungal extract,organic,?,20,BA,washed,450,Spherical;oval,45,TEM,0.05,24,MuellerHinton,Salmonella,14
+micosynthesis,single,No,25,No,54,100,2,fungal extract,organic,fungal extract,organic,?,20,BA,washed,450,Spherical;oval,45,TEM,0.05,24,MuellerHinton,Listeria monocytogenes,13
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.05,72,potato dextrose medium,Aspergillus,1.2
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.05,72,potato dextrose medium,Aspergillus,1.3
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.05,72,potato dextrose medium,Aspergillus,1.9
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.05,72,potato dextrose medium,Cladosporium_Acremonium,0.8
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.05,72,potato dextrose medium,Epicoccum,1.2
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.05,72,potato dextrose medium,Trichoderma,1.1
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.05,72,potato dextrose medium,Rhizopus oligosporus,1
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.05,72,Agar,Pseudomonas,0.7
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.05,72,Agar,Pseudomonas,1
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.05,72,Agar,Pseudomonas,0.9
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.05,72,Agar,Mycobacterium,0.5
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.05,72,Agar,Legionella,0.9
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.05,72,Agar,Aeromonas,0.4
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.05,72,Agar,Klebsiella,0.6
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.05,72,Agar,Campylobacter,1
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.05,72,Agar,Helicobacter pylori,0.5
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.05,72,Agar,Staphylococcus,1
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.1,72,potato dextrose medium,Aspergillus,2.6
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.1,72,potato dextrose medium,Aspergillus,1.9
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.1,72,potato dextrose medium,Aspergillus,2.2
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.1,72,potato dextrose medium,Cladosporium_Acremonium,1.6
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.1,72,potato dextrose medium,Epicoccum,2.7
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.1,72,potato dextrose medium,Trichoderma,1.4
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.1,72,potato dextrose medium,Rhizopus oligosporus,1.5
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.1,72,Agar,Pseudomonas,1
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.1,72,Agar,Pseudomonas,1.2
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.1,72,Agar,Pseudomonas,1.3
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.1,72,Agar,Mycobacterium,1.4
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.1,72,Agar,Legionella,1.7
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.1,72,Agar,Aeromonas,1.1
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.1,72,Agar,Klebsiella,1.2
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.1,72,Agar,Campylobacter,1.5
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.1,72,Agar,Helicobacter pylori,1.1
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.1,72,Agar,Staphylococcus,2
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.17,72,potato dextrose medium,Aspergillus,3.5
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.17,72,potato dextrose medium,Aspergillus,3.9
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.17,72,potato dextrose medium,Aspergillus,3
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.17,72,potato dextrose medium,Cladosporium_Acremonium,1.8
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.17,72,potato dextrose medium,Epicoccum,3.4
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.17,72,potato dextrose medium,Trichoderma,1.9
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.17,72,potato dextrose medium,Rhizopus oligosporus,2.8
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.17,72,Agar,Pseudomonas,1.7
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.17,72,Agar,Pseudomonas,1.8
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.17,72,Agar,Pseudomonas,1.5
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.17,72,Agar,Mycobacterium,2
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.17,72,Agar,Legionella,2.1
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.17,72,Agar,Aeromonas,1.8
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.17,72,Agar,Klebsiella,5
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.17,72,Agar,Campylobacter,2.5
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.17,72,Agar,Helicobacter pylori,2.3
+phytosynthesis,single,No,25,Mechanic,1,100,1,plant,organic,plant,organic,50,10,BA,no,432,spherical,50,TEM,0.17,72,Agar,Staphylococcus,2.5
+phytosynthesis,single,Heating,70,No,0.33,215,1,plant,organic,plant,organic,0.7,15,AB,washed,430,spherical,24,TEM,0.0125,24,MuellerHinton,Pseudomonas,16
+phytosynthesis,single,Heating,70,No,0.33,215,1,plant,organic,plant,organic,0.7,15,AB,washed,430,spherical,24,TEM,0.025,24,MuellerHinton,Pseudomonas,18
+phytosynthesis,single,Heating,70,No,0.33,215,1,plant,organic,plant,organic,0.7,15,AB,washed,430,spherical,24,TEM,0.05,24,MuellerHinton,Pseudomonas,21
+phytosynthesis,single,Heating,70,No,0.33,215,1,plant,organic,plant,organic,0.7,15,AB,washed,430,spherical,24,TEM,0.1,24,MuellerHinton,Escherichia coli,11
+phytosynthesis,multi,Microwave,?,No,0.08,25,3,plant,organic,plant,organic,2,5,AB,no,420,spherical,55,TEM,0.025,?,LuriaBertani,Bacillus,0
+phytosynthesis,multi,Microwave,?,No,0.08,25,3,plant,organic,plant,organic,2,5,AB,no,420,spherical,55,TEM,0.025,?,LuriaBertani,Escherichia coli,12
+phytosynthesis,multi,Microwave,?,No,0.08,25,3,plant,organic,plant,organic,2,5,AB,no,420,spherical,55,TEM,0.05,?,LuriaBertani,Bacillus,7
+phytosynthesis,multi,Microwave,?,No,0.08,25,3,plant,organic,plant,organic,2,5,AB,no,420,spherical,55,TEM,0.05,?,LuriaBertani,Escherichia coli,12.5
+phytosynthesis,multi,Microwave,?,No,0.08,25,3,plant,organic,plant,organic,2,5,AB,no,420,spherical,55,TEM,0.075,?,LuriaBertani,Bacillus,9
+phytosynthesis,multi,Microwave,?,No,0.08,25,3,plant,organic,plant,organic,2,5,AB,no,420,spherical,55,TEM,0.075,?,LuriaBertani,Escherichia coli,8.5
+phytosynthesis,multi,Microwave,?,No,0.017,25,3,plant,organic,plant,organic,2,5,AB,no,410,spherical_cubical_irregular,40,TEM,0.025,?,LuriaBertani,Bacillus,13
+phytosynthesis,multi,Microwave,?,No,0.017,25,3,plant,organic,plant,organic,2,5,AB,no,410,spherical_cubical_irregular,40,TEM,0.025,?,LuriaBertani,Escherichia coli,9
+phytosynthesis,multi,Microwave,?,No,0.017,25,3,plant,organic,plant,organic,2,5,AB,no,410,spherical_cubical_irregular,40,TEM,0.05,?,LuriaBertani,Bacillus,17
+phytosynthesis,multi,Microwave,?,No,0.017,25,3,plant,organic,plant,organic,2,5,AB,no,410,spherical_cubical_irregular,40,TEM,0.05,?,LuriaBertani,Escherichia coli,9
+phytosynthesis,multi,Microwave,?,No,0.017,25,3,plant,organic,plant,organic,2,5,AB,no,410,spherical_cubical_irregular,40,TEM,0.075,?,LuriaBertani,Bacillus,19
+phytosynthesis,single,Heating,35,No,48,100,1,plant,organic,plant,organic,2,20,BA,no,435,?,40,SEM,40,24,Agar,Escherichia coli,0.0195
+phytosynthesis,single,Heating,35,No,48,100,1,plant,organic,plant,organic,2,20,BA,no,435,?,40,SEM,50,24,Agar,Escherichia coli,0.02073
+phytosynthesis,single,Heating,35,No,48,100,1,plant,organic,plant,organic,2,20,BA,no,435,?,40,SEM,60,24,Agar,Escherichia coli,0.02166
+phytosynthesis,single,Heating,35,No,48,100,1,plant,organic,plant,organic,2,20,BA,no,435,?,40,SEM,40,24,Agar,Pseudomonas,0.01916
+phytosynthesis,single,Heating,35,No,48,100,1,plant,organic,plant,organic,2,20,BA,no,435,?,40,SEM,50,24,Agar,Pseudomonas,0.021
+phytosynthesis,single,Heating,35,No,48,100,1,plant,organic,plant,organic,2,20,BA,no,435,?,40,SEM,60,24,Agar,Pseudomonas,0.02167
+phytosynthesis,single,Heating,35,No,48,100,1,plant,organic,plant,organic,2,20,BA,no,435,?,40,SEM,40,24,Agar,Staphylococcus,0.019
+phytosynthesis,single,Heating,35,No,48,100,1,plant,organic,plant,organic,2,20,BA,no,435,?,40,SEM,50,24,Agar,Staphylococcus,0.02116
+phytosynthesis,single,Heating,35,No,48,100,1,plant,organic,plant,organic,2,20,BA,no,435,?,40,SEM,60,24,Agar,Staphylococcus,0.02116
+phytosynthesis,single,Heating,35,No,48,100,1,plant,organic,plant,organic,2,20,BA,no,435,?,40,SEM,40,24,Agar,Bacillus,0.01833
+phytosynthesis,single,Heating,35,No,48,100,1,plant,organic,plant,organic,2,20,BA,no,435,?,40,SEM,50,24,Agar,Bacillus,0.01433
+phytosynthesis,single,Heating,35,No,48,100,1,plant,organic,plant,organic,2,20,BA,no,435,?,40,SEM,60,24,Agar,Bacillus,0.01716
+phytosynthesis,multi,No,25,Mechanic,24,200,15,plant,organic,plant,organic,5,100,AB,washed,452,spherical,40.6,FESEM,0.2,24,Agar,Clostridiumhaemolyticum,9
+phytosynthesis,multi,No,25,Mechanic,24,200,15,plant,organic,plant,organic,5,100,AB,washed,780,Irregular,108.35,FESEM,0.2,24,Agar,Clostridiumhaemolyticum,1.17
+phytosynthesis,multi,No,25,Mechanic,24,200,15,plant,organic,plant,organic,5,100,AB,washed,780,Irregular,56.25,FESEM,0.2,24,Agar,Clostridiumhaemolyticum,12
+phytosynthesis,multi,No,25,Mechanic,24,200,15,plant,organic,plant,organic,5,100,AB,washed,446,spherical,20.5,FESEM,0.2,24,Agar,Escherichia coli,15
+phytosynthesis,multi,No,25,Mechanic,24,200,15,plant,organic,plant,organic,5,100,AB,washed,446,spherical,20.5,FESEM,0.2,24,Agar,Bacillus,10
+phytosynthesis,multi,No,25,Mechanic,24,200,15,plant,organic,plant,organic,5,100,AB,washed,446,spherical,20.5,FESEM,0.2,24,Agar,Clostridiumhaemolyticum,8
+phytosynthesis,multi,No,25,Mechanic,24,200,15,plant,organic,plant,organic,5,100,AB,washed,446,spherical,20.5,FESEM,0.2,24,Agar,Clostridiumhaemolyticum,10.3
+phytosynthesis,multi,No,25,Mechanic,24,200,15,plant,organic,plant,organic,5,100,AB,washed,452,spherical,40.6,FESEM,0.2,24,Agar,Escherichia coli,12.3
+phytosynthesis,multi,No,25,Mechanic,24,200,15,plant,organic,plant,organic,5,100,AB,washed,452,spherical,40.6,FESEM,0.2,24,Agar,Bacillus,9.7
+phytosynthesis,multi,No,25,Mechanic,24,200,15,plant,organic,plant,organic,5,100,AB,washed,452,spherical,40.6,FESEM,0.2,24,Agar,Clostridiumhaemolyticum,9.3
+phytosynthesis,multi,No,25,Mechanic,24,200,15,plant,organic,plant,organic,5,100,AB,washed,452,spherical,40.6,FESEM,0.2,24,Agar,Clostridiumhaemolyticum,12
+phytosynthesis,multi,No,25,Mechanic,24,200,15,plant,organic,plant,organic,5,100,AB,washed,452,spherical,40.6,FESEM,0.2,24,Agar,Escherichia coli,11
+phytosynthesis,multi,No,25,Mechanic,24,200,15,plant,organic,plant,organic,5,100,AB,washed,452,spherical,40.6,FESEM,0.2,24,Agar,Bacillus,11
+phytosynthesis,multi,No,25,Mechanic,24,200,15,plant,organic,plant,organic,5,100,AB,washed,452,spherical,40.6,FESEM,0.2,24,Agar,Clostridiumhaemolyticum,5
+phytosynthesis,multi,No,25,Mechanic,24,200,15,plant,organic,plant,organic,5,100,AB,washed,780,Irregular,108.35,FESEM,0.2,24,Agar,Escherichia coli,1.6
+phytosynthesis,multi,No,25,Mechanic,24,200,15,plant,organic,plant,organic,5,100,AB,washed,780,Irregular,108.35,FESEM,0.2,24,Agar,Bacillus,1.4
+phytosynthesis,multi,No,25,Mechanic,24,200,15,plant,organic,plant,organic,5,100,AB,washed,780,Irregular,108.35,FESEM,0.2,24,Agar,Clostridiumhaemolyticum,1.23
+phytosynthesis,multi,No,25,Mechanic,24,200,15,plant,organic,plant,organic,5,100,AB,washed,780,Irregular,108.35,FESEM,0.2,24,Agar,Clostridiumhaemolyticum,1.2
+phytosynthesis,multi,No,25,Mechanic,24,200,15,plant,organic,plant,organic,5,100,AB,washed,780,Irregular,56.25,FESEM,0.2,24,Agar,Escherichia coli,12.3
+phytosynthesis,multi,No,25,Mechanic,24,200,15,plant,organic,plant,organic,5,100,AB,washed,780,Irregular,56.25,FESEM,0.2,24,Agar,Bacillus,9
+phytosynthesis,multi,No,25,Mechanic,24,200,15,plant,organic,plant,organic,5,100,AB,washed,780,Irregular,56.25,FESEM,0.2,24,Agar,Clostridiumhaemolyticum,9
+phytosynthesis,multi,No,25,Mechanic,24,200,15,plant,organic,plant,organic,5,100,AB,washed,780,Irregular,56.25,FESEM,0.2,24,Agar,Clostridiumhaemolyticum,13.3
+phytosynthesis,multi,No,25,Mechanic,24,200,15,plant,organic,plant,organic,5,100,AB,washed,780,Irregular,57.4,FESEM,0.2,24,Agar,Escherichia coli,1.6
+phytosynthesis,multi,No,25,Mechanic,24,200,15,plant,organic,plant,organic,5,100,AB,washed,780,Irregular,57.4,FESEM,0.2,24,Agar,Bacillus,1.03
+phytosynthesis,multi,No,25,Mechanic,24,200,15,plant,organic,plant,organic,5,100,AB,washed,780,Irregular,57.4,FESEM,0.2,24,Agar,Clostridiumhaemolyticum,1.06
+phytosynthesis,multi,No,25,Mechanic,24,200,15,plant,organic,plant,organic,5,100,AB,washed,780,Irregular,57.4,FESEM,0.2,24,Agar,Clostridiumhaemolyticum,1.27
+phytosynthesis,multi,No,25,Mechanic,24,200,15,plant,organic,plant,organic,5,100,AB,washed,780,Irregular,57.4,FESEM,0.2,24,Agar,Clostridiumhaemolyticum,1.33
+phytosynthesis,multi,No,25,Mechanic,24,200,15,plant,organic,plant,organic,5,100,AB,washed,446,spherical,20.5,FESEM,0.2,24,Agar,Clostridiumhaemolyticum,9
+phytosynthesis,single,No,20,Mechanic,2,6,1,plant,organic,plant,organic,1.5,?,BA,no,420,Spherical_hexagonal_irregular,40,HR-TEM,?,3,LuriaBertani,Staphylococcus,20
+phytosynthesis,single,No,20,Mechanic,2,6,1,plant,organic,plant,organic,3,?,BA,no,420,Spherical_hexagonal_irregular,40,HR-TEM,?,3,LuriaBertani,Staphylococcus,20
+phytosynthesis,single,No,20,Mechanic,2,6,1,plant,organic,plant,organic,6,?,BA,no,420,Spherical_hexagonal_irregular,40,HR-TEM,?,3,LuriaBertani,Staphylococcus,40
+phytosynthesis,single,No,20,Mechanic,2,6,1,plant,organic,plant,organic,12,?,BA,no,?,?,?,?,?,3,LuriaBertani,Pseudomonas,5
+phytosynthesis,single,No,20,Mechanic,2,6,1,plant,organic,plant,organic,24,?,BA,no,?,?,?,?,?,3,LuriaBertani,Candida,80
+phytosynthesis,single,Autoclave,121,No,0.25,100,1,plant,organic,plant,organic,1,10,AB,washed,437,spherical,15,TEM,?,24,MuellerHinton,Staphylococcus,16.45
+phytosynthesis,single,Autoclave,121,No,0.25,100,1,plant,organic,plant,organic,1,10,AB,washed,437,spherical,15,TEM,?,24,MuellerHinton,Streptococcus,17.22
+phytosynthesis,single,Autoclave,121,No,0.25,100,1,plant,organic,plant,organic,1,10,AB,washed,437,spherical,15,TEM,?,24,MuellerHinton,Bacillus,18
+phytosynthesis,single,Autoclave,121,No,0.25,100,1,plant,organic,plant,organic,1,10,AB,washed,437,spherical,15,TEM,?,24,MuellerHinton,Enterococcus,14.12
+phytosynthesis,single,Autoclave,121,No,0.25,100,1,plant,organic,plant,organic,1,10,AB,washed,437,spherical,15,TEM,?,24,MuellerHinton,Enterococcus,16
+phytosynthesis,single,Autoclave,121,No,0.25,100,1,plant,organic,plant,organic,1,10,AB,washed,437,spherical,15,TEM,?,24,MuellerHinton,Enterococcus,15.32
+phytosynthesis,single,Autoclave,121,No,0.25,100,1,plant,organic,plant,organic,1,10,AB,washed,437,spherical,15,TEM,?,24,MuellerHinton,Escherichia coli,17.76
+phytosynthesis,single,Autoclave,121,No,0.25,100,1,plant,organic,plant,organic,1,10,AB,washed,437,spherical,15,TEM,?,24,MuellerHinton,Pseudomonas,15
+phytosynthesis,single,Autoclave,121,No,0.25,100,1,plant,organic,plant,organic,1,10,AB,washed,437,spherical,15,TEM,?,24,MuellerHinton,Pseudomonas,16.33
+phytosynthesis,single,Autoclave,121,No,0.25,100,1,plant,organic,plant,organic,1,10,AB,washed,437,spherical,15,TEM,?,24,MuellerHinton,Pseudomonas,11.44
+phytosynthesis,single,Autoclave,121,No,0.25,100,1,plant,organic,plant,organic,1,10,AB,washed,437,spherical,15,TEM,?,24,MuellerHinton,Klebsiella,13.24
+phytosynthesis,single,Autoclave,121,No,0.25,100,1,plant,organic,plant,organic,1,10,AB,washed,437,spherical,15,TEM,?,24,MuellerHinton,Calcateuticals anitratus,11.74
+phytosynthesis,single,Autoclave,121,No,0.25,100,1,plant,organic,plant,organic,1,10,AB,washed,437,spherical,15,TEM,?,24,MuellerHinton,Salmonella,10.33
+phytosynthesis,single,Heating,70,No,1,100,1,plant,organic,plant,organic,1,10,AB,no,437,spherical,40,SEM,?,24,MuellerHinton,Klebsiella,9
+phytosynthesis,single,Heating,70,No,1,100,1,plant,organic,plant,organic,1,10,AB,no,437,spherical,40,SEM,?,24,MuellerHinton,Klebsiella,10
+phytosynthesis,single,Heating,70,No,1,100,1,plant,organic,plant,organic,1,10,AB,no,437,spherical,40,SEM,?,24,MuellerHinton,Klebsiella,9
+phytosynthesis,single,Heating,70,No,1,100,1,plant,organic,plant,organic,1,10,AB,no,437,spherical,40,SEM,?,24,MuellerHinton,Klebsiella,12
+phytosynthesis,single,Heating,70,No,1,100,1,plant,organic,plant,organic,1,10,AB,no,437,spherical,40,SEM,?,24,MuellerHinton,Klebsiella,13
+phytosynthesis,single,Heating,70,No,1,100,1,plant,organic,plant,organic,1,10,AB,no,437,spherical,40,SEM,?,24,MuellerHinton,Bacillus,8
+phytosynthesis,single,Heating,70,No,1,100,1,plant,organic,plant,organic,1,10,AB,no,437,spherical,40,SEM,?,24,MuellerHinton,Bacillus,9
+phytosynthesis,single,Heating,70,No,1,100,1,plant,organic,plant,organic,1,10,AB,no,437,spherical,40,SEM,?,24,MuellerHinton,Bacillus,9
+phytosynthesis,single,Heating,70,No,1,100,1,plant,organic,plant,organic,1,10,AB,no,437,spherical,40,SEM,?,24,MuellerHinton,Bacillus,11
+phytosynthesis,single,Heating,70,No,1,100,1,plant,organic,plant,organic,1,10,AB,no,437,spherical,40,SEM,?,24,MuellerHinton,Bacillus,11
+phytosynthesis,single,No,25,No,0.03,31,20,plant,organic,plant,organic,3.2,10,AB,no,420,spherical,28.47,TEM,?,17,?,Escherichia coli,8
+phytosynthesis,single,No,25,No,0.03,31,20,plant,organic,plant,organic,3.2,10,AB,no,420,spherical,28.47,TEM,?,17,?,Pseudomonas,11
+phytosynthesis,single,No,25,No,0.03,31,20,plant,organic,plant,organic,3.2,10,AB,no,420,spherical,28.47,TEM,?,17,?,Bacillus,12
+phytosynthesis,single,No,25,No,0.03,31,20,plant,organic,plant,organic,3.2,10,AB,no,420,spherical,28.47,TEM,?,17,?,Staphylococcus,8
+phytosynthesis,single,No,25,No,0.03,31,20,plant,organic,plant,organic,3.2,10,AB,no,420,spherical,28.47,TEM,?,17,?,Candida,8
+phytosynthesis,single,No,25,No,0.03,31,20,plant,organic,plant,organic,3.2,10,AB,no,420,spherical,28.47,TEM,?,17,?,Staphylococcus,0
+biosynthesis,single,No,25,No,48,100,1,algae extract,organic,algae extract,organic,1,10,AB,no,418,spherical,22,TEM,0.02,?,LuriaBertani,Escherichia coli,10
+biosynthesis,single,No,25,No,48,100,1,algae extract,organic,algae extract,organic,1,10,AB,no,418,spherical,22,TEM,0.02,?,LuriaBertani,Staphylococcus,10
+biosynthesis,single,No,25,No,48,100,1,algae extract,organic,algae extract,organic,1,10,AB,no,418,spherical,22,TEM,0.04,?,LuriaBertani,Escherichia coli,12
+biosynthesis,single,No,25,No,48,100,1,algae extract,organic,algae extract,organic,1,10,AB,no,418,spherical,22,TEM,0.04,?,LuriaBertani,Staphylococcus,12
+phytosynthesis,single,Heating,50,No,0.5,42.5,2.2,plant,organic,plant,organic,200,30,BA,washed,410,spherical,25,SEM,5,?,LuriaBertani,Staphylococcus,10
+phytosynthesis,single,Heating,50,No,0.5,42.5,2.2,plant,organic,plant,organic,200,30,BA,washed,410,spherical,25,SEM,10,?,LuriaBertani,Staphylococcus,8
+phytosynthesis,single,Heating,50,No,0.5,42.5,2.2,plant,organic,plant,organic,200,30,BA,washed,410,spherical,25,SEM,20,?,LuriaBertani,Staphylococcus,11
+phytosynthesis,single,Heating,50,No,0.5,42.5,2.2,plant,organic,plant,organic,200,30,BA,washed,410,spherical,25,SEM,5,?,LuriaBertani,Klebsiella,9
+phytosynthesis,single,Heating,50,No,0.5,42.5,2.2,plant,organic,plant,organic,200,30,BA,washed,410,spherical,25,SEM,10,?,LuriaBertani,Klebsiella,8
+phytosynthesis,single,Heating,50,No,0.5,42.5,2.2,plant,organic,plant,organic,200,30,BA,washed,410,spherical,25,SEM,20,?,LuriaBertani,Klebsiella,10
+biosynthesis,single,Heating,70,Mechanic,72,?,1,Bacterial extract,organic,Bacterial extract,organic,1,?,AB,no,450,spherical,47,HR-TEM,?,?,LuriaBertani,Pseudomonas,25
+biosynthesis,single,Heating,70,Mechanic,72,?,1,Bacterial extract,organic,Bacterial extract,organic,1,?,AB,no,450,spherical,47,HR-TEM,?,?,LuriaBertani,Pseudomonas,27
+biosynthesis,single,Heating,70,Mechanic,72,?,1,Bacterial extract,organic,Bacterial extract,organic,1,?,AB,no,450,spherical,47,HR-TEM,?,?,LuriaBertani,Pseudomonas,37
+biosynthesis,single,Heating,70,Mechanic,72,?,1,Bacterial extract,organic,?,?,?,?,AB,no,?,?,?,?,?,?,LuriaBertani,Staphylococcus,27
+biosynthesis,single,Heating,70,Mechanic,72,?,1,Bacterial extract,organic,?,?,?,?,AB,no,?,?,?,?,?,?,LuriaBertani,Staphylococcus,30
+biosynthesis,single,Heating,70,Mechanic,72,?,1,Bacterial extract,organic,?,?,?,?,AB,no,?,?,?,?,?,?,LuriaBertani,Staphylococcus,32
+biosynthesis,single,Heating,70,Mechanic,72,?,1,Bacterial extract,organic,?,?,?,?,AB,no,?,?,?,?,?,?,Sabouraud,Candida,20
+biosynthesis,single,Heating,70,Mechanic,72,?,1,Bacterial extract,organic,?,?,?,?,AB,no,?,?,?,?,?,?,Sabouraud,Candida,25
+biosynthesis,single,Heating,70,Mechanic,72,?,1,Bacterial extract,organic,?,?,?,?,AB,no,?,?,?,?,?,?,Sabouraud,Candida,30
+biosynthesis,single,Heating,70,Mechanic,72,?,1,Bacterial extract,organic,?,?,2,?,AB,no,450,spherical,?,?,?,?,Agar,Fusarium,20
+biosynthesis,single,Heating,70,Mechanic,72,?,1,Bacterial extract,organic,?,?,3,?,AB,no,450,spherical,?,?,?,?,potato dextrose medium,Fusarium,22
+biosynthesis,single,Heating,70,Mechanic,72,?,1,Bacterial extract,organic,?,?,4,?,AB,no,450,spherical,?,?,?,?,potato dextrose medium,Fusarium,27
+biosynthesis,single,Heating,70,Mechanic,72,?,1,Bacterial extract,organic,?,?,?,?,A,no,?,?,?,?,?,?,Sabouraud,Fusarium,20
+biosynthesis,single,Heating,70,Mechanic,72,?,1,Bacterial extract,organic,?,?,?,?,A,no,?,?,?,?,?,?,Sabouraud,Fusarium,22
+biosynthesis,single,Heating,70,Mechanic,72,?,1,Bacterial extract,organic,?,?,?,?,A,no,?,?,?,?,?,?,Sabouraud,Fusarium,27
+wet chemical,single,No,25,Mechanic,0.4,?,5,chemical,inorganic,?,?,?,?,CA,washed,?,spherical,276.75,HR-TEM,?,24,LuriaBertani,Staphylococcus,14.29
+wet chemical,single,No,25,Mechanic,0.4,?,30,chemical,inorganic,?,?,?,?,CA,washed,?,spherical,301.98,HR-TEM,?,24,LuriaBertani,Staphylococcus,14.84
+wet chemical,single,No,25,Mechanic,0.4,?,45,chemical,inorganic,?,?,?,?,CA,washed,?,spherical,334.79,HR-TEM,?,24,LuriaBertani,Staphylococcus,15.12
+wet chemical,single,No,25,Mechanic,0.4,?,30,chemical,inorganic,?,?,?,?,CA,washed,?,spherical,276.75,HR-TEM,?,24,LuriaBertani,Streptococcus,13.59
+wet chemical,single,No,25,Mechanic,0.4,?,30,chemical,inorganic,?,?,?,?,CA,washed,?,spherical,301.98,HR-TEM,?,24,LuriaBertani,Streptococcus,14.23
+wet chemical,single,No,25,Mechanic,0.4,?,45,chemical,inorganic,?,?,?,?,CA,washed,?,spherical,334.79,HR-TEM,?,24,LuriaBertani,Streptococcus,14.75
+phytochemical ,single,Heating,50,Magnetic,2,12,0.5,plant,organic,plant,organic,30,10,AB,washed,440,spherical,15,TEM,0.005,?,?,Proteus,14
+phytochemical ,single,Heating,50,Magnetic,2,12,0.5,plant,organic,plant,organic,30,10,AB,washed,440,spherical,15,TEM,0.01,?,?,Proteus,16
+phytochemical ,single,Heating,50,Magnetic,2,12,0.5,plant,organic,plant,organic,30,10,AB,washed,440,spherical,15,TEM,0.02,?,?,Proteus,17
+phytochemical ,single,Heating,50,Magnetic,2,12,0.5,plant,organic,plant,organic,30,10,AB,washed,440,spherical,15,TEM,0.05,?,?,Escherichia coli,9
+phytochemical ,single,Heating,50,Magnetic,2,12,0.5,plant,organic,plant,organic,30,10,AB,washed,440,spherical,15,TEM,0.01,?,?,Escherichia coli,10
+phytochemical ,single,Heating,50,Magnetic,2,24,1,plant,organic,plant,organic,30,20,AB,washed,440,spherical,15,TEM,0.02,?,?,Escherichia coli,13
+phytochemical ,single,Heating,50,Magnetic,2,24,1,plant,organic,plant,organic,30,20,AB,washed,440,spherical,15,TEM,0.05,?,?,Klebsiella,10
+phytochemical ,single,Heating,50,Magnetic,2,24,1,plant,organic,plant,organic,30,20,AB,washed,440,spherical,15,TEM,0.01,?,?,Klebsiella,12
+phytochemical ,single,Heating,50,Magnetic,2,48,2,plant,organic,plant,organic,30,40,AB,washed,440,spherical,15,TEM,0.02,?,?,Klebsiella,15
+phytosynthesis,single,No,25,No,?,100,10,plant,organic,plant,organic,?,?,?,dried,447,spherical,8.1,TEM,0.1,24,?,Staphylococcus,19
+phytosynthesis,single,No,25,No,?,100,10,plant,organic,plant,organic,?,?,?,dried,447,spherical,8.1,TEM,0.01,24,?,Staphylococcus,19
+phytosynthesis,single,No,25,No,?,100,10,plant,organic,plant,organic,?,?,?,dried,447,spherical,8.1,TEM,0.001,24,?,Staphylococcus,14
+phytosynthesis,single,No,25,No,?,100,10,plant,organic,plant,organic,?,?,?,dried,447,spherical,8.1,TEM,0.1,24,?,Escherichia coli,16
+phytosynthesis,single,No,25,No,?,100,10,plant,organic,plant,organic,?,?,?,dried,447,spherical,8.1,TEM,0.01,24,?,Escherichia coli,14
+phytosynthesis,single,No,25,No,?,100,10,plant,organic,plant,organic,?,?,?,dried,447,spherical,8.1,TEM,0.001,24,?,Escherichia coli,12
+phytosynthesis,single,No,25,No,0.16,250,1,plant,organic,plant,organic,20,?,?,no,420,spherical,?,?,0.4,24,MuellerHinton,Staphylococcus,21
+phytosynthesis,single,No,25,No,0.16,250,1,plant,organic,plant,organic,20,?,?,no,420,spherical,?,?,0.637,24,MuellerHinton,Staphylococcus,5
+phytosynthesis,single,No,25,No,0.16,250,1,plant,organic,plant,organic,20,?,?,no,420,spherical,?,?,0.203,24,MuellerHinton,Staphylococcus,5
+phytosynthesis,single,No,25,No,0.16,250,1,plant,organic,plant,organic,20,?,?,no,420,spherical,?,?,0.06,24,MuellerHinton,Staphylococcus,5
+phytosynthesis,single,No,25,No,0.16,250,1,plant,organic,plant,organic,20,?,?,no,420,spherical,?,?,0.203,24,MuellerHinton,Staphylococcus,7
+phytosynthesis,single,No,25,No,0.16,250,1,plant,organic,plant,organic,20,?,?,no,420,spherical,?,?,0.203,24,MuellerHinton,Staphylococcus,19
+phytosynthesis,single,No,25,No,0.16,250,1,plant,organic,plant,organic,20,?,?,no,420,spherical,?,?,0.342,24,MuellerHinton,Staphylococcus,18
+phytosynthesis,single,No,25,No,0.16,250,1,plant,organic,plant,organic,20,?,?,no,420,spherical,?,?,0.203,24,MuellerHinton,Staphylococcus,4
+phytosynthesis,single,No,25,No,0.16,250,1,plant,organic,plant,organic,20,?,?,no,420,spherical,?,?,0.637,24,MuellerHinton,Staphylococcus,4
+phytosynthesis,single,No,25,No,0.16,250,1,plant,organic,plant,organic,20,?,?,no,420,spherical,?,?,0.342,24,MuellerHinton,Staphylococcus,21
+phytosynthesis,single,No,25,No,0.16,250,1,plant,organic,plant,organic,20,?,?,no,420,spherical,64.8,?,0.4,24,MuellerHinton,Escherichia coli,24
+phytosynthesis,single,No,25,No,0.16,250,1,plant,organic,plant,organic,20,?,?,no,420,spherical,64.8,?,0.637,24,MuellerHinton,Escherichia coli,3
+phytosynthesis,single,No,25,No,0.16,250,1,plant,organic,plant,organic,20,?,?,no,420,spherical,64.8,?,0.203,24,MuellerHinton,Escherichia coli,4
+phytosynthesis,single,No,25,No,0.16,250,1,plant,organic,plant,organic,20,?,?,no,420,spherical,64.8,?,0.06,24,MuellerHinton,Escherichia coli,7
+phytosynthesis,single,No,25,No,0.16,250,1,plant,organic,plant,organic,20,?,?,no,420,spherical,64.8,?,0.203,24,MuellerHinton,Escherichia coli,5
+phytosynthesis,single,No,25,No,0.16,250,1,plant,organic,plant,organic,20,?,?,no,420,spherical,64.8,?,0.203,24,MuellerHinton,Escherichia coli,20
+phytosynthesis,single,No,25,No,0.16,250,1,plant,organic,plant,organic,20,?,?,no,420,spherical,64.8,?,0.342,24,MuellerHinton,Escherichia coli,20
+phytosynthesis,single,No,25,No,0.16,250,1,plant,organic,plant,organic,20,?,?,no,420,spherical,64.8,?,0.203,24,MuellerHinton,Escherichia coli,6
+phytosynthesis,single,No,25,No,0.16,250,1,plant,organic,plant,organic,20,?,?,no,420,spherical,64.8,?,0.637,24,MuellerHinton,Escherichia coli,5
+phytosynthesis,single,No,25,No,0.16,250,1,plant,organic,plant,organic,20,?,?,no,420,spherical,64.8,?,0.342,24,MuellerHinton,Escherichia coli,16
+phytosynthesis,single,Heating,100,No,0.5,50,?,none,?,plant,organic,?,?,?,no,430,spherical,62,TEM,0.025,24,?,Escherichia coli,15.7
+phytosynthesis,single,Heating,100,No,0.5,50,?,none,?,plant,organic,?,?,?,no,430,spherical,62,TEM,0.05,24,?,Escherichia coli,16.5
+phytosynthesis,single,Heating,100,No,0.5,50,?,none,?,plant,organic,?,?,?,no,430,spherical,62,TEM,0.1,24,?,Escherichia coli,19.3
+phytosynthesis,single,Heating,100,No,0.5,50,?,none,?,plant,organic,?,?,?,no,410,spherical,32,TEM,0.025,24,?,Pseudomonas,14.6
+phytosynthesis,single,Heating,100,No,0.5,50,?,none,?,plant,organic,?,?,?,no,410,spherical,32,TEM,0.05,24,?,Escherichia coli,16.1
+phytosynthesis,single,Heating,100,No,0.5,50,?,none,?,plant,organic,?,?,?,no,410,spherical,32,TEM,0.1,24,?,Escherichia coli,18.8
+phytosynthesis,single,Heating,100,No,0.5,50,?,none,?,plant,organic,?,?,?,no,430,spherical,62,TEM,0.025,24,?,Escherichia coli,13.6
+phytosynthesis,single,Heating,100,No,0.5,50,?,none,?,plant,organic,?,?,?,no,430,spherical,62,TEM,0.05,24,?,Escherichia coli,15.4
+phytosynthesis,single,Heating,100,No,0.5,50,?,none,?,plant,organic,?,?,?,no,430,spherical,62,TEM,0.1,24,?,Escherichia coli,16.2
+phytosynthesis,single,Heating,100,No,0.5,50,?,none,?,plant,organic,?,?,?,no,410,spherical,32,TEM,0.025,24,?,Pseudomonas,14.8
+phytosynthesis,single,Heating,100,No,0.5,50,?,none,?,plant,organic,?,?,?,no,410,spherical,32,TEM,0.05,24,?,Escherichia coli,16
+phytosynthesis,single,Heating,100,No,0.5,50,?,none,?,plant,organic,?,?,?,no,410,spherical,32,TEM,0.1,24,?,Escherichia coli,16.8
+wet chemical,single,No,25,No,?,?,1,Cell extract,organic,chemical,organic,?,?,?,washed,450,?,32,TEM,100,?,?,Escherichia coli,0
+wet chemical,single,No,25,No,?,?,1,Cell extract,organic,chemical,organic,?,?,?,washed,450,?,32,TEM,250,?,?,Escherichia coli,16
+wet chemical,single,No,25,No,?,?,1,Cell extract,organic,chemical,organic,?,?,?,washed,450,?,32,TEM,500,?,?,Escherichia coli,16
+wet chemical,single,No,25,No,?,?,1,Cell extract,organic,chemical,organic,?,?,?,washed,450,?,32,TEM,750,?,?,Escherichia coli,15
+wet chemical,single,No,25,No,?,?,1,Cell extract,organic,chemical,organic,?,?,?,washed,450,?,32,TEM,100,?,?,Proteus,13
+wet chemical,single,No,25,No,?,?,1,Cell extract,organic,chemical,organic,?,?,?,washed,450,?,32,TEM,250,?,?,Proteus,14
+wet chemical,single,No,25,No,?,?,1,Cell extract,organic,chemical,organic,?,?,?,washed,450,?,32,TEM,500,?,?,Proteus,15
+wet chemical,single,No,25,No,?,?,1,Cell extract,organic,chemical,organic,?,?,?,washed,450,?,32,TEM,750,?,?,Proteus,15
+wet chemical,single,No,25,No,?,?,1,Cell extract,organic,chemical,organic,?,?,?,washed,450,?,32,TEM,100,?,?,Staphylococcus,0
+wet chemical,single,No,25,No,?,?,1,Cell extract,organic,chemical,organic,?,?,?,washed,450,?,32,TEM,250,?,?,Staphylococcus,14
+wet chemical,single,No,25,No,?,?,1,Cell extract,organic,chemical,organic,?,?,?,washed,450,?,32,TEM,500,?,?,Staphylococcus,14
+wet chemical,single,No,25,No,?,?,1,Cell extract,organic,chemical,organic,?,?,?,washed,450,?,32,TEM,750,?,?,Staphylococcus,14
+green,single,Heating,65,Stirring,0.08,?,?,Animal derivate,organic,animal derivate,organic,?,?,AB,no,430,spherical,20,TEM,0.01,24,LuriaBertani,Escherichia coli,15
+green,single,Heating,65,Stirring,0.08,?,?,Animal derivate,organic,animal derivate,organic,?,?,AB,no,430,spherical,20,TEM,0.02,24,LuriaBertani,Escherichia coli,15
+green,single,Heating,65,Stirring,0.08,?,?,Animal derivate,organic,animal derivate,organic,?,?,AB,no,430,spherical,20,TEM,0.03,24,LuriaBertani,Escherichia coli,17
+green,single,Heating,65,Stirring,0.08,?,?,Animal derivate,organic,animal derivate,organic,?,?,AB,no,430,spherical,20,TEM,0.04,24,LuriaBertani,Escherichia coli,18.5
+green,single,Heating,65,Stirring,0.08,?,?,Animal derivate,organic,animal derivate,organic,?,?,AB,no,430,spherical,20,TEM,0.05,24,LuriaBertani,Escherichia coli,20
+green,single,Heating,65,Stirring,0.08,?,?,Animal derivate,organic,animal derivate,organic,?,?,AB,no,430,spherical,20,TEM,0.01,24,LuriaBertani,Pseudomonas,0
+green,single,Heating,65,Stirring,0.08,?,?,Animal derivate,organic,animal derivate,organic,?,?,AB,no,430,spherical,20,TEM,0.02,24,LuriaBertani,Pseudomonas,16
+green,single,Heating,65,Stirring,0.08,?,?,Animal derivate,organic,animal derivate,organic,?,?,AB,no,430,spherical,20,TEM,0.03,24,LuriaBertani,Pseudomonas,16.5
+green,single,Heating,65,Stirring,0.08,?,?,Animal derivate,organic,animal derivate,organic,?,?,AB,no,430,spherical,20,TEM,0.04,24,LuriaBertani,Pseudomonas,19
+green,single,Heating,65,Stirring,0.08,?,?,Animal derivate,organic,animal derivate,organic,?,?,AB,no,430,spherical,20,TEM,0.05,24,LuriaBertani,Pseudomonas,18.5
+green,single,Heating,65,Stirring,0.08,?,?,Animal derivate,organic,animal derivate,organic,?,?,AB,no,430,spherical,20,TEM,0.01,24,LuriaBertani,Pseudomonas,0
+green,single,Heating,65,Stirring,0.08,?,?,Animal derivate,organic,animal derivate,organic,?,?,AB,no,430,spherical,20,TEM,0.02,24,LuriaBertani,Pseudomonas,14.5
+green,single,Heating,65,Stirring,0.08,?,?,Animal derivate,organic,animal derivate,organic,?,?,AB,no,430,spherical,20,TEM,0.03,24,LuriaBertani,Pseudomonas,17
+green,single,Heating,65,Stirring,0.08,?,?,Animal derivate,organic,animal derivate,organic,?,?,AB,no,430,spherical,20,TEM,0.04,24,LuriaBertani,Pseudomonas,18
+green,single,Heating,65,Stirring,0.08,?,?,Animal derivate,organic,animal derivate,organic,?,?,AB,no,430,spherical,20,TEM,0.05,24,LuriaBertani,Pseudomonas,18
+green,single,Heating,65,Stirring,0.08,?,?,Animal derivate,organic,animal derivate,organic,?,?,AB,no,425,spherical,15,TEM,0.01,24,LuriaBertani,Escherichia coli,20
+green,single,Heating,65,Stirring,0.08,?,?,Animal derivate,organic,animal derivate,organic,?,?,AB,no,425,spherical,15,TEM,0.02,24,LuriaBertani,Pseudomonas,20
+green,single,Heating,65,Stirring,0.08,?,?,Animal derivate,organic,animal derivate,organic,?,?,AB,no,425,spherical,15,TEM,0.03,24,LuriaBertani,Pseudomonas,20
+phytosynthesis,single,No,25,No,48,90,1,plant,organic,plant,organic,?,10,AB,no,430,spherical,100.4,TEM,?,24,MuellerHinton,Staphylococcus,11
+phytosynthesis,single,No,25,No,48,90,1,plant,organic,plant,organic,?,10,AB,no,430,spherical,100.4,TEM,?,24,MuellerHinton,Escherichia coli,12
+phytosynthesis,single,No,25,No,48,90,1,plant,organic,plant,organic,?,10,AB,no,430,spherical,100.4,TEM,?,24,MuellerHinton,Pseudomonas,16
+phytosynthesis,single,No,25,No,48,90,1,plant,organic,plant,organic,?,10,AB,no,430,spherical,105.7,TEM,?,24,MuellerHinton,Staphylococcus,10
+phytosynthesis,single,No,25,No,48,90,1,plant,organic,plant,organic,?,10,AB,no,430,spherical,105.7,TEM,?,24,MuellerHinton,Escherichia coli,11
+phytosynthesis,single,No,25,No,48,90,1,plant,organic,plant,organic,?,10,AB,no,430,spherical,105.7,TEM,?,24,MuellerHinton,Pseudomonas,0
+phytosynthesis,single,No,25,No,48,90,1,plant,organic,plant,organic,?,10,AB,no,420,spherical,67.8,TEM,?,24,MuellerHinton,Staphylococcus,18
+phytosynthesis,single,No,25,No,48,90,1,plant,organic,plant,organic,?,10,AB,no,420,spherical,67.8,TEM,?,24,MuellerHinton,Escherichia coli,12
+phytosynthesis,single,No,25,No,48,90,1,plant,organic,plant,organic,?,10,AB,no,420,spherical,67.8,TEM,?,24,MuellerHinton,Pseudomonas,15
+phytosynthesis,single,No,25,No,48,90,1,plant,organic,plant,organic,?,10,AB,no,440,spherical,147,TEM,?,24,MuellerHinton,Staphylococcus,13
+phytosynthesis,single,No,25,No,48,90,1,plant,organic,plant,organic,?,10,AB,no,440,spherical,147,TEM,?,24,MuellerHinton,Escherichia coli,20
+phytosynthesis,single,No,25,No,48,90,1,plant,organic,plant,organic,?,10,AB,no,440,spherical,147,TEM,?,24,MuellerHinton,Pseudomonas,14
+phytosynthesis,single,No,25,No,48,90,1,plant,organic,plant,organic,?,10,AB,no,430,spherical,155.7,TEM,?,24,MuellerHinton,Staphylococcus,12
+phytosynthesis,single,No,25,No,48,90,1,plant,organic,plant,organic,?,10,AB,no,430,spherical,155.7,TEM,?,24,MuellerHinton,Escherichia coli,10
+phytosynthesis,single,No,25,No,48,90,1,plant,organic,plant,organic,?,10,AB,no,430,spherical,155.7,TEM,?,24,MuellerHinton,Pseudomonas,15
+phytosynthesis,single,No,25,No,48,90,1,plant,organic,plant,organic,?,10,AB,no,425,spherical,121.3,TEM,?,24,MuellerHinton,Staphylococcus,15
+phytosynthesis,single,No,25,No,48,90,1,plant,organic,plant,organic,?,10,AB,no,425,spherical,121.3,TEM,?,24,MuellerHinton,Escherichia coli,16
+phytosynthesis,single,No,25,No,48,90,1,plant,organic,plant,organic,?,10,AB,no,425,spherical,121.3,TEM,?,24,MuellerHinton,Pseudomonas,14
+phytosynthesis,single,No,25,Stirring,2,200,1,plant,organic,plant,organic,?,?,AB,no,416,flower,?,?,?,?,?,Staphylococcus,9
+phytosynthesis,single,No,25,Stirring,2,200,1,plant,organic,plant,organic,?,?,AB,no,416,flower,?,?,?,?,?,Bacillus,9
+phytosynthesis,single,No,25,Stirring,2,200,1,plant,organic,plant,organic,?,?,AB,no,416,flower,?,?,?,?,?,Escherichia coli,8
+phytosynthesis,single,No,25,Stirring,2,200,1,plant,organic,plant,organic,?,?,AB,no,416,flower,?,?,?,?,?,Candida,10
+phytosynthesis,single,No,25,Stirring,2,200,1,plant,organic,plant,organic,?,?,AB,no,416,flower,?,?,?,?,?,Saccharomyces,10
+phytosynthesis,single,Heating,80,Stirring,1,200,1,plant,organic,plant,organic,?,?,AB,no,420,spherical,?,?,?,?,?,Staphylococcus,7
+phytosynthesis,single,Heating,80,Stirring,1,200,1,plant,organic,plant,organic,?,?,AB,no,420,spherical,?,?,?,?,?,Bacillus,7
+phytosynthesis,single,Heating,80,Stirring,1,200,1,plant,organic,plant,organic,?,?,AB,no,420,spherical,?,?,?,?,?,Escherichia coli,0
+phytosynthesis,single,Heating,80,Stirring,1,200,1,plant,organic,plant,organic,?,?,AB,no,420,spherical,?,?,?,?,?,Candida,7
+phytosynthesis,single,Heating,80,Stirring,1,200,1,plant,organic,plant,organic,?,?,AB,no,420,spherical,?,?,?,?,?,Saccharomyces,7
+phytosynthesis,single,No,25,No,?,500,1,plant,organic,plant,organic,1,?,?,washed,446,spherical,40,SAED,?,24,?,Candida,20
+phytosynthesis,single,No,25,No,?,500,1,plant,organic,plant,organic,1,?,?,washed,446,spherical,40,SAED,?,24,?,Candida,18
+phytosynthesis,single,No,25,No,?,500,1,plant,organic,plant,organic,1,?,?,washed,446,spherical,40,SAED,?,24,?,Candida,18
+phytosynthesis,single,No,25,No,?,500,1,plant,organic,plant,organic,1,?,?,washed,446,spherical,40,SAED,?,24,?,Candida,12
+phytosynthesis,single,No,25,No,?,500,1,plant,organic,plant,organic,1,?,?,washed,446,spherical,40,SAED,?,24,?,Candida,9
+phytosynthesis,single,No,25,No,5,?,10,plant,organic,plant,organic,10,?,?,washed,430,spherical,24,TEM,0.05,24,MuellerHinton,Bacillus,19
+phytosynthesis,single,No,25,No,5,?,10,plant,organic,plant,organic,10,?,?,washed,430,spherical,24,TEM,0.05,24,MuellerHinton,Staphylococcus,14
+phytosynthesis,single,No,25,No,5,?,10,plant,organic,plant,organic,10,?,?,washed,430,spherical,24,TEM,0.05,24,MuellerHinton,Salmonella,16
+phytosynthesis,single,No,25,No,5,?,10,plant,organic,plant,organic,10,?,?,washed,430,spherical,24,TEM,0.05,24,MuellerHinton,Escherichia coli,18
+phytosynthesis,single,No,25,No,5,?,10,plant,organic,plant,organic,10,?,?,washed,430,spherical,24,TEM,1,24,MuellerHinton,Bacillus,11
+phytosynthesis,single,No,25,No,5,?,10,plant,organic,plant,organic,10,?,?,washed,430,spherical,24,TEM,1,24,MuellerHinton,Staphylococcus,11
+phytosynthesis,single,No,25,No,5,?,10,plant,organic,plant,organic,10,?,?,washed,430,spherical,24,TEM,1,24,MuellerHinton,Salmonella,11.5
+phytosynthesis,single,No,25,No,5,?,10,plant,organic,plant,organic,10,?,?,washed,430,spherical,24,TEM,1,24,MuellerHinton,Escherichia coli,12
+phytosynthesis,single,No,25,No,?,200,1,plant,organic,plant,organic,?,?,?,no,?,?,?,?,?,?,Agar,Klebsiella,23
+phytosynthesis,single,No,25,No,?,200,1,plant,organic,plant,organic,?,?,?,no,?,?,?,?,?,?,Agar,Bacillus,27
+phytosynthesis,single,No,25,No,?,200,1,plant,organic,plant,organic,?,?,?,no,?,?,?,?,?,?,Agar,Salmonella,32
+phytosynthesis,single,No,25,No,?,200,1,plant,organic,plant,organic,?,?,?,no,?,?,?,?,?,?,Agar,Proteus,23
+phytosynthesis,single,Heating,100,No,?,?,5,plant,organic,plant,organic,?,?,?,?,420,?,28,?,?,12,?,Escherichia coli,16
+phytosynthesis,single,Heating,100,No,?,?,5,plant,organic,plant,organic,?,?,?,?,420,?,28,?,?,12,?,Pseudomonas,21
